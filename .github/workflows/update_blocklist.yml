@@ -1,39 +1,52 @@
-name: Update Blocklist
+name: Update EduShield Blocklist
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
+  workflow_dispatch:     # Manual trigger option
 
 jobs:
   update-blocklist:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        persist-credentials: false
+      # 1️⃣ Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # prevent default token usage
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      # 2️⃣ Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.13
 
-    - name: Install dependencies
-      run: |
-        pip install requests beautifulsoup4 pandas PyPDF2 rapidfuzz
+      # 3️⃣ Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas PyPDF2
 
-    - name: Run blocklist update script
-      run: python update_blocklist.py
+      # 4️⃣ Run the blocklist update script
+      - name: Run blocklist update script
+        run: python update_blocklist.py
 
-    - name: Commit and push updated blocklist
-      env:
-        PAT_TOKEN: ${{ secrets.edushield_token }}
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git remote set-url origin "https://${PAT_TOKEN}@github.com/${{ github.repository }}.git"
-        git add blocklist.json
-        git commit -m "Auto-update blocklist via GitHub Actions" || echo "No changes to commit"
-        git push origin HEAD:main
+      # 5️⃣ Commit and push updates
+      - name: Commit and push updated blocklist
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Set remote with PAT
+          git remote set-url origin "https://${PAT_TOKEN}@github.com/${{ github.repository }}.git"
+
+          git add blocklist.json
+          git commit -m "Auto-update blocklist via GitHub Actions" || echo "No changes to commit"
+
+          # Option 2: Pull and rebase first (if remote has updates)
+          git pull origin main --rebase || echo "No remote changes to pull"
+
+          # Option 1: Force push if rebase fails or for safety
+          git push origin HEAD:main --force
+        env:
+          PAT_TOKEN: ${{ secrets.edushield_token }}
