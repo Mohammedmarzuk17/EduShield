@@ -26,9 +26,9 @@ jobs:
       run: python update_blocklist.py
 
     - name: Commit and push updated blocklist
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add blocklist.json
-        git commit -m "Auto-update blocklist via GitHub Actions" || echo "No changes to commit"
-        git push
+  run: |
+    git config --local user.email "github-actions[bot]@users.noreply.github.com"
+    git config --local user.name "github-actions[bot]"
+    git add blocklist.json
+    git commit -m "Auto-update blocklist via GitHub Actions" || echo "No changes to commit"
+    git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
