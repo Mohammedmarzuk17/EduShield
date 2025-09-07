@@ -1,155 +1,169 @@
-# update_blocklist.py
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
-import json
-import re
-from PyPDF2 import PdfReader
 import os
+import requests
+import csv
+import json
+from io import StringIO
+from bs4 import BeautifulSoup
+from PyPDF2 import PdfReader
+import hashlib
+import re
 
-# -------------------------
-# Helper Functions
-# -------------------------
+# -----------------------------
+# Configuration
+# -----------------------------
 
-def extract_entries(file_path_or_url, file_type='auto', is_url=True):
-    """Extract entries from CSV, JSON, PDF, HTML, TXT"""
-    data = []
-    try:
-        if file_type == 'pdf' or file_path_or_url.endswith('.pdf'):
-            r = requests.get(file_path_or_url) if is_url else None
-            if r: open('temp.pdf','wb').write(r.content)
-            reader = PdfReader('temp.pdf' if is_url else file_path_or_url)
-            for page in reader.pages:
-                data.extend(page.extract_text().splitlines())
-        elif file_type == 'csv' or file_path_or_url.endswith('.csv'):
-            df = pd.read_csv(file_path_or_url if not is_url else file_path_or_url)
-            for col in df.columns:
-                data.extend([str(val) for val in df[col] if pd.notna(val)])
-        elif file_type == 'json' or file_path_or_url.endswith('.json'):
-            j = json.loads(open(file_path_or_url).read())
-            if isinstance(j, dict):
-                for v in j.values(): data.append(str(v))
-            elif isinstance(j, list):
-                data.extend([str(i) for i in j])
-        elif file_type == 'html' or file_path_or_url.endswith('.html'):
-            r = requests.get(file_path_or_url) if is_url else None
-            html_content = r.text if is_url else open(file_path_or_url).read()
-            soup = BeautifulSoup(html_content,'html.parser')
-            for td in soup.find_all(['td','li','p']):
-                data.append(td.get_text(strip=True))
-        else:  # fallback plain text
-            r = requests.get(file_path_or_url) if is_url else None
-            text = r.text if is_url else open(file_path_or_url).read()
-            data.extend(text.splitlines())
-    except Exception as e:
-        print(f"Extraction failed for {file_path_or_url}: {e}")
-    return data
+# GitHub repo folder for custom feeds
+CUSTOM_FEEDS_DIR = "custom_feeds"
 
-def classify_entry(entry):
-    """Detect if entry is URL or Name"""
-    url_pattern = r'^(https?:\/\/)?([\w\-]+\.)+[\w\-]+(\/[\w\-._~:/?#[\]@!$&\'()*+,;%=]*)?$'
-    return 'url' if re.match(url_pattern, entry.strip()) else 'name'
-
-def name_to_domain(name):
-    """Convert institution name to possible domain"""
-    try:
-        domain_guess = re.sub(r'[^a-z0-9]', '', name.lower())
-        domain_guess += ".edu.in"  # heuristic
-        return domain_guess
-    except:
-        return None
-
-def ai_detect_feed(page_url):
-    """AI-assisted detection of feed if user link fails"""
-    try:
-        r = requests.get(page_url)
-        soup = BeautifulSoup(r.text,'html.parser')
-        links = soup.find_all('a')
-        candidates = [link.get('href') for link in links if link.get('href') and ('.csv' in link.get('href') or 'download' in link.text.lower() or 'recent' in link.text.lower())]
-        return candidates[0] if candidates else None
-    except Exception as e:
-        print("AI feed detection failed:", e)
-        return None
-
-def safe_extract_entries(link, file_type='auto', is_url=True):
-    """Try user link first, fallback to AI, return entries safely"""
-    try:
-        entries = extract_entries(link, file_type, is_url)
-        if not entries:
-            print(f"User link {link} failed, attempting AI detection")
-            try:
-                ai_link = ai_detect_feed(link)
-                if ai_link:
-                    print(f"AI detected feed: {ai_link}")
-                    entries = extract_entries(ai_link)
-                else:
-                    print("AI could not detect a valid feed either.")
-                    entries = []
-            except Exception as e:
-                print(f"AI detection failed: {e}")
-                entries = []
-        return entries
-    except Exception as e:
-        print(f"Extraction failed for {link}: {e}")
-        return []
-
-# -------------------------
-# User Feeds (Links or Local Files)
-# -------------------------
-user_feeds = [
-    "http://data.phishtank.com/data/online-valid.csv",
+# Feed URLs
+feed_urls = [
+    "https://data.phishtank.com/data/online-valid.csv",
     "https://urlhaus.abuse.ch/downloads/csv_recent/",
-    "https://www.ugc.ac.in/fakeuniversities",
+    "https://urlhaus.abuse.ch/downloads/csv/",
     "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt"
 ]
 
-# Optional local custom files
-local_files = []
-custom_folder = "custom_feeds"
-if os.path.exists(custom_folder):
-    local_files = [os.path.join(custom_folder, f) for f in os.listdir(custom_folder)]
+# Output blocklist file
+BLOCKLIST_FILE = "blocklist.json"
 
-# -------------------------
-# Collect All Entries
-# -------------------------
-all_entries = []
+# -----------------------------
+# Utility Functions
+# -----------------------------
 
-for feed in user_feeds:
-    all_entries.extend(safe_extract_entries(feed, is_url=True))
+def sha256_hash(text):
+    """Return SHA-256 hash of a string."""
+    import hashlib
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
-for file in local_files:
-    all_entries.extend(safe_extract_entries(file, is_url=False))
+def normalize_domain(domain):
+    """Lowercase, remove protocol and www."""
+    domain = domain.lower()
+    domain = re.sub(r'^https?:\/\/', '', domain)
+    domain = re.sub(r'^www\.', '', domain)
+    domain = domain.split('/')[0]
+    return domain
 
-# -------------------------
-# Classify and Map
-# -------------------------
-urls, names = [], []
-
-for e in all_entries:
+def fetch_feed(url):
+    """Fetch feed content safely."""
     try:
-        if classify_entry(e) == 'url':
-            urls.append(e)
-        else:
-            names.append(e)
-    except:
-        continue
+        resp = requests.get(url, timeout=15)
+        resp.raise_for_status()
+        return resp.text
+    except Exception as e:
+        print(f"[WARN] Failed to fetch {url}: {e}")
+        return ""
 
-mapped_domains = []
-for n in names:
+def parse_csv(content):
+    """Parse CSV content into list of domains."""
+    domains = set()
     try:
-        domain = name_to_domain(n)
-        if domain:
-            mapped_domains.append(domain)
-    except:
-        continue
+        reader = csv.reader(StringIO(content))
+        for row in reader:
+            for item in row:
+                item = item.strip()
+                if item and not item.startswith("#"):
+                    domains.add(normalize_domain(item))
+    except Exception as e:
+        print(f"[WARN] Failed to parse CSV: {e}")
+    return domains
 
-# -------------------------
-# Merge and Save
-# -------------------------
+def parse_txt(content):
+    """Parse TXT content into list of domains."""
+    domains = set()
+    for line in content.splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            domains.add(normalize_domain(line))
+    return domains
+
+def parse_html_file(filepath):
+    """Extract names from HTML and convert to possible URLs."""
+    domains = set()
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            soup = BeautifulSoup(f, 'html.parser')
+            text_entries = soup.get_text(separator="\n").splitlines()
+            for entry in text_entries:
+                entry = entry.strip()
+                if entry:
+                    # Convert name → possible domain
+                    dom = entry.lower().replace(" ", "") + ".edu"
+                    domains.add(dom)
+    except Exception as e:
+        print(f"[WARN] Failed to parse HTML file {filepath}: {e}")
+    return domains
+
+def parse_pdf_file(filepath):
+    """Extract text from PDF and convert to possible URLs."""
+    domains = set()
+    try:
+        reader = PdfReader(filepath)
+        for page in reader.pages:
+            text = page.extract_text()
+            for line in text.splitlines():
+                line = line.strip()
+                if line:
+                    dom = line.lower().replace(" ", "") + ".edu"
+                    domains.add(dom)
+    except Exception as e:
+        print(f"[WARN] Failed to parse PDF {filepath}: {e}")
+    return domains
+
+def parse_json_file(filepath):
+    """Parse JSON file into domains."""
+    domains = set()
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            for item in data:
+                if isinstance(item, str):
+                    domains.add(normalize_domain(item))
+    except Exception as e:
+        print(f"[WARN] Failed to parse JSON file {filepath}: {e}")
+    return domains
+
+# -----------------------------
+# Main Blocklist Collection
+# -----------------------------
+
+all_domains = set()
+
+# 1️⃣ Fetch online feeds
+for url in feed_urls:
+    content = fetch_feed(url)
+    if url.endswith(".csv"):
+        all_domains.update(parse_csv(content))
+    elif url.endswith(".txt"):
+        all_domains.update(parse_txt(content))
+    else:
+        # fallback for unknown format
+        all_domains.update(parse_txt(content))
+
+# 2️⃣ Parse custom feed folder
+if os.path.exists(CUSTOM_FEEDS_DIR):
+    for filename in os.listdir(CUSTOM_FEEDS_DIR):
+        filepath = os.path.join(CUSTOM_FEEDS_DIR, filename)
+        if filename.endswith(".csv"):
+            with open(filepath, 'r', encoding='utf-8') as f:
+                all_domains.update(parse_csv(f.read()))
+        elif filename.endswith(".txt"):
+            with open(filepath, 'r', encoding='utf-8') as f:
+                all_domains.update(parse_txt(f.read()))
+        elif filename.endswith(".html"):
+            all_domains.update(parse_html_file(filepath))
+        elif filename.endswith(".pdf"):
+            all_domains.update(parse_pdf_file(filepath))
+        elif filename.endswith(".json"):
+            all_domains.update(parse_json_file(filepath))
+
+# -----------------------------
+# Save Blocklist
+# -----------------------------
+
 try:
-    blocklist = list(set(urls + mapped_domains))
-    with open("blocklist.json","w") as f:
-        json.dump(blocklist, f, indent=2)
-    print(f"Blocklist updated successfully with {len(blocklist)} entries")
+    blocklist_data = {"domains": list(all_domains)}
+    with open(BLOCKLIST_FILE, 'w', encoding='utf-8') as f:
+        json.dump(blocklist_data, f, indent=2)
+    print(f"[INFO] Blocklist updated successfully with {len(all_domains)} entries")
 except Exception as e:
-    print(f"Failed to save blocklist: {e}")
+    print(f"[ERROR] Failed to save blocklist: {e}")
