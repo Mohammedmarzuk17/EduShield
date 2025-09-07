@@ -2,7 +2,7 @@ name: Update Blocklist
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 1 * * *'  # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
