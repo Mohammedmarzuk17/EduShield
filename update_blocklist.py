@@ -99,7 +99,8 @@ def safe_extract_entries(link, file_type='auto', is_url=True):
 user_feeds = [
     "http://data.phishtank.com/data/online-valid.csv",
     "https://urlhaus.abuse.ch/downloads/csv_recent/",
-    "https://www.ugc.ac.in/fakeuniversities"
+    "https://www.ugc.ac.in/fakeuniversities",
+    "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt"
 ]
 
 # Optional local custom files
