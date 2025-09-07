@@ -1,0 +1,34 @@
+name: Update Blocklist
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:  # optional manual trigger
+
+jobs:
+  update-blocklist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 pandas PyPDF2 rapidfuzz
+
+    - name: Run blocklist update script
+      run: python update_blocklist.py
+
+    - name: Commit and push updated blocklist
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add blocklist.json
+        git commit -m "Auto-update blocklist via GitHub Actions" || echo "No changes to commit"
+        git push
