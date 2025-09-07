@@ -14,7 +14,7 @@ import PyPDF2                  # for PDF parsing
 def extract_domain(url_or_text):
     """
     Extracts and normalizes domains from messy input.
-    Accepts URLs, raw domains, CSV fragments, timestamps etc.
+    Accepts URLs, raw domains, CSV fragments, etc.
     Returns None if no valid domain.
     """
     if not url_or_text:
@@ -28,14 +28,14 @@ def extract_domain(url_or_text):
         try:
             parsed = urlparse(candidate)
             domain = parsed.netloc.lower()
+            if domain.startswith("www."):
+                domain = domain[4:]
             return domain if domain else None
         except Exception:
             return None
 
     # If it looks like a domain (regex match)
-    domain_pattern = re.compile(
-        r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$"
-    )
+    domain_pattern = re.compile(r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$")
     if domain_pattern.match(candidate):
         return candidate.lower()
 
@@ -61,7 +61,7 @@ def parse_csv_feed(path):
                 for item in row:
                     domains.append(item)
     except Exception as e:
-        print(f"[!] CSV parse error: {e}")
+        print(f"[!] CSV parse error in {path}: {e}")
     return domains
 
 
@@ -74,7 +74,7 @@ def parse_json_feed(path):
             elif isinstance(data, list):
                 return data
     except Exception as e:
-        print(f"[!] JSON parse error: {e}")
+        print(f"[!] JSON parse error in {path}: {e}")
     return []
 
 
@@ -86,7 +86,7 @@ def parse_html_feed(path):
             for link in soup.find_all("a", href=True):
                 domains.append(link["href"])
     except Exception as e:
-        print(f"[!] HTML parse error: {e}")
+        print(f"[!] HTML parse error in {path}: {e}")
     return domains
 
 
@@ -100,7 +100,7 @@ def parse_pdf_feed(path):
                 if text:
                     domains.extend(text.split())
     except Exception as e:
-        print(f"[!] PDF parse error: {e}")
+        print(f"[!] PDF parse error in {path}: {e}")
     return domains
 
 
@@ -113,11 +113,10 @@ def update_blocklist():
 
     # ---- Remote feeds ----
     sources = [
-        # Example official feeds
         "https://urlhaus.abuse.ch/downloads/text/",
         "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt",
-        # You can add your own repo-hosted feeds
-        "https://raw.githubusercontent.com/<your-repo>/blocklist.json"
+        # Example custom repo feed (replace with yours if needed)
+        "https://raw.githubusercontent.com/Mohammedmarzuk17/EduShield/main/custom_feed.json"
     ]
 
     for src in sources:
@@ -125,7 +124,6 @@ def update_blocklist():
         all_candidates.extend(lines)
 
     # ---- Local user uploads (optional) ----
-    # Change paths to wherever you store them
     user_files = [
         "user_feed.csv",
         "user_feed.json",
@@ -142,14 +140,17 @@ def update_blocklist():
         elif path.endswith(".pdf"):
             all_candidates.extend(parse_pdf_feed(path))
 
-    # ---- Normalize ----
+    # ---- Normalize and clean ----
     cleaned = set()
     for item in all_candidates:
         domain = extract_domain(item)
         if domain:
             cleaned.add(domain)
 
-    blocklist = {"last_updated": datetime.utcnow().isoformat(), "domains": sorted(cleaned)}
+    blocklist = {
+        "last_updated": datetime.utcnow().isoformat(),
+        "domains": sorted(cleaned)
+    }
 
     # ---- Write ----
     with open("blocklist.json", "w", encoding="utf-8") as f:
