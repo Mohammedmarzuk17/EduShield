@@ -3,7 +3,7 @@ name: Update EduShield Blocklists
 on:
   schedule:
     - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:      # Enables manual run button
+  workflow_dispatch:      # Manual run button
 
 jobs:
   update-blocklists:
@@ -36,9 +36,9 @@ jobs:
       - name: Split blocklist by source and generate manifest
         run: |
           mkdir -p blocklists
-          python - <<EOF
-import os, json
+          python <<'EOF'
 
+import os, json
 # Load main blocklist.json
 with open("blocklist.json", "r", encoding="utf-8") as f:
     data = json.load(f)
