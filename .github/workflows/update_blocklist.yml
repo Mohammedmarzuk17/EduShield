@@ -3,7 +3,7 @@ name: Update EduShield Blocklists
 on:
   schedule:
     - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:       # Ensures manual run button appears
+  workflow_dispatch:      # Ensures manual run button appears
 
 jobs:
   update-blocklists:
@@ -31,8 +31,8 @@ jobs:
       - name: Run blocklist update script
         run: python update_blocklist.py
 
-      # 5️⃣ Split blocklist by source and ensure all sources exist
-      - name: Split blocklist by source and force all sources
+      # 5️⃣ Split blocklist by source and force all expected sources
+      - name: Split blocklist by source and generate manifest
         run: |
           mkdir -p blocklists
           python - <<'EOF'
@@ -55,7 +55,7 @@ for entry in domains:
     else:
         grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
 
-# Force include all expected sources
+# Force include all expected sources even if empty
 sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
 for s in sources_list:
     src_key = s.lower()
