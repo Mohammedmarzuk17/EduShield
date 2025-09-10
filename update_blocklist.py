@@ -4,26 +4,21 @@ import csv
 import requests
 from urllib.parse import urlparse
 from datetime import datetime
-from bs4 import BeautifulSoup  # for HTML parsing
-import PyPDF2                  # for PDF parsing
+from bs4 import BeautifulSoup
+import PyPDF2
 
 # ---------------------------
 # Helpers
 # ---------------------------
 
 def extract_domain(url_or_text):
-    """
-    Extracts and normalizes domains from messy input.
-    Accepts URLs, raw domains, CSV fragments, etc.
-    Returns None if no valid domain.
-    """
+    """Extract and normalize domains from messy input."""
     if not url_or_text:
         return None
 
-    # Strip quotes/whitespace
     candidate = str(url_or_text).strip().strip('"').strip("'")
 
-    # If it looks like a URL
+    # If URL
     if candidate.startswith(("http://", "https://")):
         try:
             parsed = urlparse(candidate)
@@ -34,7 +29,7 @@ def extract_domain(url_or_text):
         except Exception:
             return None
 
-    # If it looks like a domain (regex match)
+    # If plain domain
     domain_pattern = re.compile(r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$")
     if domain_pattern.match(candidate):
         return candidate.lower()
@@ -109,54 +104,69 @@ def parse_pdf_feed(path):
 # ---------------------------
 
 def update_blocklist():
-    all_candidates = []
+    # Map of domain -> {domain:..., sources:[...]}
+    domain_map = {}
 
-    # ---- Remote feeds ----
-    sources = [
-        "https://urlhaus.abuse.ch/downloads/text/",
-        "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt",
-        # Example custom repo feed (replace with yours if needed)
-        "https://raw.githubusercontent.com/Mohammedmarzuk17/EduShield/main/custom_feed.json"
-    ]
-
-    for src in sources:
-        lines = fetch_text_feed(src)
-        all_candidates.extend(lines)
-
-    # ---- Local user uploads (optional) ----
-    user_files = [
-        "user_feed.csv",
-        "user_feed.json",
-        "user_feed.html",
-        "user_feed.pdf",
-    ]
-    for path in user_files:
-        if path.endswith(".csv"):
-            all_candidates.extend(parse_csv_feed(path))
-        elif path.endswith(".json"):
-            all_candidates.extend(parse_json_feed(path))
-        elif path.endswith(".html"):
-            all_candidates.extend(parse_html_feed(path))
-        elif path.endswith(".pdf"):
-            all_candidates.extend(parse_pdf_feed(path))
-
-    # ---- Normalize and clean ----
-    cleaned = set()
-    for item in all_candidates:
-        domain = extract_domain(item)
-        if domain:
-            cleaned.add(domain)
-
-    blocklist = {
-        "last_updated": datetime.utcnow().isoformat(),
-        "domains": sorted(cleaned)
+    # ---- Remote feeds with names ----
+    feeds = {
+        "urlhaus": "https://urlhaus.abuse.ch/downloads/text/",
+        "openphish": "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt",
+        "custom": "https://raw.githubusercontent.com/Mohammedmarzuk17/EduShield/main/custom_feed.json",
     }
 
-    # ---- Write ----
-    with open("blocklist.json", "w", encoding="utf-8") as f:
-        json.dump(blocklist, f, indent=2)
+    for source, url in feeds.items():
+        lines = fetch_text_feed(url)
+        for item in lines:
+            domain = extract_domain(item)
+            if domain:
+                if domain not in domain_map:
+                    domain_map[domain] = {"domain": domain, "sources": [source]}
+                elif source not in domain_map[domain]["sources"]:
+                    domain_map[domain]["sources"].append(source)
 
-    print(f"[+] Blocklist updated with {len(cleaned)} domains.")
+    # ---- Local user uploads ----
+    user_files = {
+        "local_csv": "user_feed.csv",
+        "local_json": "user_feed.json",
+        "local_html": "user_feed.html",
+        "local_pdf": "user_feed.pdf",
+    }
+
+    for source, path in user_files.items():
+        try:
+            if path.endswith(".csv"):
+                items = parse_csv_feed(path)
+            elif path.endswith(".json"):
+                items = parse_json_feed(path)
+            elif path.endswith(".html"):
+                items = parse_html_feed(path)
+            elif path.endswith(".pdf"):
+                items = parse_pdf_feed(path)
+            else:
+                items = []
+
+            for item in items:
+                domain = extract_domain(item)
+                if domain:
+                    if domain not in domain_map:
+                        domain_map[domain] = {"domain": domain, "sources": [source]}
+                    elif source not in domain_map[domain]["sources"]:
+                        domain_map[domain]["sources"].append(source)
+
+        except FileNotFoundError:
+            # Optional files may not exist
+            continue
+
+    # ---- Final blocklist ----
+    blocklist = {
+        "last_updated": datetime.utcnow().isoformat(),
+        "domains": sorted(domain_map.values(), key=lambda x: x["domain"]),
+    }
+
+    with open("blocklist.json", "w", encoding="utf-8") as f:
+        json.dump(blocklist, f, indent=2, ensure_ascii=False)
+
+    print(f"[+] Blocklist updated with {len(domain_map)} unique domains.")
 
 
 if __name__ == "__main__":
