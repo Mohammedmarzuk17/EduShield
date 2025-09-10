@@ -25,7 +25,7 @@
       ]
     },
     {
-      "domain": "# last updated: 2025-09-10 17:27:17 (utc)                      #",
+      "domain": "# last updated: 2025-09-10 17:38:19 (utc)                      #",
       "sources": [
         "urlhaus"
       ]
@@ -914,12 +914,6 @@
     },
     {
       "domain": "101.43.166.60:8888",
-      "sources": [
-        "urlhaus"
-      ]
-    },
-    {
-      "domain": "101.43.2.116",
       "sources": [
         "urlhaus"
       ]
@@ -16261,6 +16255,12 @@
       ]
     },
     {
+      "domain": "115.61.116.57:39155",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "115.61.116.74:34027",
       "sources": [
         "urlhaus"
@@ -24428,6 +24428,12 @@
     },
     {
       "domain": "117.78.41.31:5080",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "117.80.109.137:38962",
       "sources": [
         "urlhaus"
       ]
@@ -63547,12 +63553,6 @@
       ]
     },
     {
-      "domain": "202.131.234.26:51118",
-      "sources": [
-        "urlhaus"
-      ]
-    },
-    {
       "domain": "202.139.20.12:1125",
       "sources": [
         "urlhaus"
@@ -63776,12 +63776,6 @@
     },
     {
       "domain": "202.3.248.179",
-      "sources": [
-        "urlhaus"
-      ]
-    },
-    {
-      "domain": "202.4.124.58:12137",
       "sources": [
         "urlhaus"
       ]
@@ -93572,6 +93566,12 @@
     },
     {
       "domain": "46.97.36.186:28972",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "46.97.36.202:48031",
       "sources": [
         "urlhaus"
       ]
