@@ -3,13 +3,13 @@ name: Update EduShield Blocklists
 on:
   schedule:
     - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:       # Ensures manual run button appears
 
 jobs:
   update-blocklists:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout repo
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
@@ -50,26 +50,24 @@ for entry in domains:
     if isinstance(entry, dict):
         sources = entry.get("sources") or ["unknown"]
         for src in sources:
-            grouped.setdefault(src.lower(), []).append(entry)
+            src_key = src.lower()
+            grouped.setdefault(src_key, []).append(entry)
     else:
         grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
 
-# Write each grouped source to its own file
+# Force include all expected sources
+sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
+for s in sources_list:
+    src_key = s.lower()
+    if src_key not in grouped:
+        grouped[src_key] = []
+
+# Write each grouped source to its own JSON file
 for src, items in grouped.items():
     out_file = f"blocklists/{src}.json"
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
     print(f"✅ Saved {len(items)} entries to {out_file}")
-
-# Force include all expected sources even if empty
-sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
-for s in sources_list:
-    fname = f"blocklists/{s}.json"
-    if not os.path.exists(fname):
-        with open(fname, "w", encoding="utf-8") as f:
-            json.dump({"domains": []}, f, indent=2)
-    if s.lower() not in grouped:
-        grouped[s.lower()] = []
 
 # Generate manifest.json including all sources
 files = [{"file": f"{s.lower()}.json", "source": s} for s in sources_list]
