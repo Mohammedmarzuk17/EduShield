@@ -18679,6 +18679,12 @@
       ]
     },
     {
+      "domain": "117.199.170.221:41195",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "117.199.226.110:33136",
       "sources": [
         "urlhaus"
@@ -31237,6 +31243,12 @@
       ]
     },
     {
+      "domain": "123.14.87.99:44756",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "123.14.89.229:53591",
       "sources": [
         "urlhaus"
@@ -34099,6 +34111,12 @@
       ]
     },
     {
+      "domain": "123.9.194.35:54917",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "123.9.194.75:47038",
       "sources": [
         "urlhaus"
@@ -35660,6 +35678,12 @@
     },
     {
       "domain": "125.40.66.77:46380",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "125.40.74.152:53110",
       "sources": [
         "urlhaus"
       ]
@@ -39008,6 +39032,12 @@
     },
     {
       "domain": "139.224.54.133:8333",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "139.255.40.124:62838",
       "sources": [
         "urlhaus"
       ]
@@ -42962,6 +42992,12 @@
     },
     {
       "domain": "172.245.95.38",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "172.250.238.27:557",
       "sources": [
         "urlhaus"
       ]
@@ -55387,6 +55423,12 @@
       ]
     },
     {
+      "domain": "182.160.109.98:29602",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "182.160.124.186:5529",
       "sources": [
         "urlhaus"
@@ -60170,6 +60212,12 @@
     },
     {
       "domain": "197.89.38.83:8043",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "197.91.184.99:24573",
       "sources": [
         "urlhaus"
       ]
@@ -65599,6 +65647,12 @@
       ]
     },
     {
+      "domain": "219.155.193.188:48549",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "219.155.194.150:60361",
       "sources": [
         "urlhaus"
@@ -66776,6 +66830,12 @@
     },
     {
       "domain": "219.157.214.116:37649",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "219.157.214.145:35352",
       "sources": [
         "urlhaus"
       ]
@@ -71287,6 +71347,12 @@
       ]
     },
     {
+      "domain": "222.140.120.138:58306",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "222.140.120.251:60900",
       "sources": [
         "urlhaus"
@@ -74504,6 +74570,12 @@
     },
     {
       "domain": "27.210.10.157:43632",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "27.210.235.151:52660",
       "sources": [
         "urlhaus"
       ]
@@ -95701,6 +95773,12 @@
       ]
     },
     {
+      "domain": "59.38.94.155:35560",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "59.38.95.41:56281",
       "sources": [
         "urlhaus"
@@ -115267,12 +115345,6 @@
       ]
     },
     {
-      "domain": "clearsoundclinic.com",
-      "sources": [
-        "urlhaus"
-      ]
-    },
-    {
       "domain": "clgnymc.org",
       "sources": [
         "urlhaus"
@@ -123590,6 +123662,12 @@
     },
     {
       "domain": "tatar.joumizni.de",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "tcgroup.com.au",
       "sources": [
         "urlhaus"
       ]
