@@ -1,6 +1,14 @@
 {
   "files": [
     {
+      "file": "urlhaus.json",
+      "source": "Urlhaus"
+    },
+    {
+      "file": "openphish.json",
+      "source": "Openphish"
+    },
+    {
       "file": "manifest.json",
       "source": "Manifest"
     },
