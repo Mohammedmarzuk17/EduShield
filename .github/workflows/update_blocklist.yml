@@ -33,8 +33,11 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git remote set-url origin "https://${PAT_TOKEN}@github.com/${{ github.repository }}.git"
-          git add blocklist.json blocklists/*.json
-          git commit -m "Auto-update blocklists + manifest.json (all sources)" || echo "No changes to commit"
+
+          # ✅ Add blocklist, per-source lists, and manual folder
+          git add blocklist.json blocklists/*.json manual/*.json
+
+          git commit -m "Auto-update blocklists + manifest.json (all sources + manual)" || echo "No changes to commit"
           git pull origin main --rebase || echo "No remote changes"
           git push origin HEAD:main --force
         env:
