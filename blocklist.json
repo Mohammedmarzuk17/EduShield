@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T17:53:15.467361",
+  "last_updated": "2025-09-10T17:58:30.780687",
   "domains": [
     {
       "domain": "#",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "domain": "# last updated: 2025-09-10 17:43:10 (utc)                      #",
+      "domain": "# last updated: 2025-09-10 17:45:17 (utc)                      #",
       "sources": [
         "urlhaus"
       ]
@@ -122613,7 +122613,61 @@
       ]
     },
     {
+      "domain": "ms-team-ping1.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping10.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "ms-team-ping2.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping3.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping4.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping5.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping6.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping7.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping8.com",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "ms-team-ping9.com",
       "sources": [
         "urlhaus"
       ]
