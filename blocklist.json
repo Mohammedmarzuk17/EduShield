@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T04:24:45.107369",
+  "last_updated": "2025-09-10T04:26:47.226216",
   "domains": [
     {
       "domain": "0228zc.pages.dev",
@@ -76959,6 +76959,12 @@
     },
     {
       "domain": "36.67.66.178:23987",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "36.70.226.225:51494",
       "sources": [
         "urlhaus"
       ]
