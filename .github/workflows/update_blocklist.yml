@@ -37,7 +37,6 @@ jobs:
           mkdir -p blocklists
           python - <<'EOF'
 import os, json
-
 # Load main blocklist.json
 with open("blocklist.json", "r", encoding="utf-8") as f:
     data = json.load(f)
