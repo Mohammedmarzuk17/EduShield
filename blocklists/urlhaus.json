@@ -25,7 +25,7 @@
       ]
     },
     {
-      "domain": "# last updated: 2025-09-10 17:59:19 (utc)                      #",
+      "domain": "# last updated: 2025-09-10 18:01:18 (utc)                      #",
       "sources": [
         "urlhaus"
       ]
@@ -53131,6 +53131,12 @@
       ]
     },
     {
+      "domain": "182.121.239.80:59456",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "182.121.241.105:45945",
       "sources": [
         "urlhaus"
@@ -79136,6 +79142,12 @@
     },
     {
       "domain": "39.86.145.4:34570",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "39.86.15.212:53124",
       "sources": [
         "urlhaus"
       ]
