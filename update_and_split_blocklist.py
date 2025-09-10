@@ -13,7 +13,7 @@ from PyPDF2 import PdfReader
 # ---------------------------
 
 def extract_domain(url_or_text):
-    """Extract and normalize domains from messy input."""
+    """Extract and normalize domains from messy input or names."""
     if not url_or_text:
         return None
 
@@ -35,7 +35,8 @@ def extract_domain(url_or_text):
     if domain_pattern.match(candidate):
         return candidate.lower()
 
-    return None
+    # Otherwise treat as a "name" and convert to lowercase
+    return candidate.lower()
 
 def fetch_text_feed(url):
     try:
@@ -120,10 +121,10 @@ def update_blocklist():
 
     # ---- Local user uploads ----
     user_files = {
-        "local_csv": "user_feed.csv",
-        "local_json": "user_feed.json",
-        "local_html": "user_feed.html",
-        "local_pdf": "user_feed.pdf",
+        "ugc_csv": "user_feed.csv",
+        "ugc_json": "user_feed.json",
+        "ugc_html": "user_feed.html",
+        "ugc_pdf": "user_feed.pdf",
     }
 
     for source, path in user_files.items():
@@ -143,9 +144,9 @@ def update_blocklist():
                 domain = extract_domain(item)
                 if domain:
                     if domain not in domain_map:
-                        domain_map[domain] = {"domain": domain, "sources": [source]}
-                    elif source not in domain_map[domain]["sources"]:
-                        domain_map[domain]["sources"].append(source)
+                        domain_map[domain] = {"domain": domain, "sources": ["ugc"]}
+                    elif "ugc" not in domain_map[domain]["sources"]:
+                        domain_map[domain]["sources"].append("ugc")
         except FileNotFoundError:
             continue
 
