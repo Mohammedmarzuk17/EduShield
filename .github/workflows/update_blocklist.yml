@@ -31,12 +31,11 @@ jobs:
       - name: Run blocklist update script
         run: python update_blocklist.py
 
-      # 5️⃣ Split blocklist into multiple files by source
+      # 5️⃣ Split blocklist into multiple files by source(s)
       - name: Split blocklist by source
         run: |
           mkdir -p blocklists
 
-          # ✅ Split JSON into multiple source files
           python - <<'EOF'
           import json, os
 
@@ -46,14 +45,16 @@ jobs:
 
           domains = data.get("domains", [])
 
-          # Group by "source" field if available, else default to "unknown"
           grouped = {}
           for entry in domains:
               if isinstance(entry, dict):
-                  src = entry.get("source", "unknown")
-                  grouped.setdefault(src, []).append(entry)
+                  sources = entry.get("sources") or ["unknown"]
+                  for src in sources:
+                      grouped.setdefault(src, []).append(entry)
               else:
-                  grouped.setdefault("unknown", []).append({"domain": str(entry), "source": "unknown"})
+                  grouped.setdefault("unknown", []).append(
+                      {"domain": str(entry), "sources": ["unknown"]}
+                  )
 
           # Save each group into blocklists/<source>.json
           os.makedirs("blocklists", exist_ok=True)
