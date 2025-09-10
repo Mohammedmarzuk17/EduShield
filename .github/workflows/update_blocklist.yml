@@ -36,9 +36,7 @@ jobs:
       - name: Split blocklist by source and generate manifest
         run: python - <<'PYTHON'
 import os, json
-# Ensure blocklists folder exists
 os.makedirs("blocklists", exist_ok=True)
-
 # Load main blocklist.json
 with open("blocklist.json", "r", encoding="utf-8") as f:
     data = json.load(f)
