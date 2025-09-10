@@ -119,12 +119,31 @@ def update_blocklist():
                 elif source not in domain_map[domain]["sources"]:
                     domain_map[domain]["sources"].append(source)
 
-    # ---- Local user uploads ----
+    # ---- Local manual JSON files (manual folder) ----
+    manual_files = {
+        "ugc": "manual/manual_ugc.json",
+        "aicte": "manual/manual_aicte.json",
+    }
+
+    for source, path in manual_files.items():
+        try:
+            items = parse_json_feed(path)
+            for item in items:
+                domain = extract_domain(item)
+                if domain:
+                    if domain not in domain_map:
+                        domain_map[domain] = {"domain": domain, "sources": [source]}
+                    elif source not in domain_map[domain]["sources"]:
+                        domain_map[domain]["sources"].append(source)
+        except FileNotFoundError:
+            continue
+
+    # ---- Local user uploads (optional) ----
     user_files = {
-        "ugc_csv": "user_feed.csv",
-        "ugc_json": "user_feed.json",
-        "ugc_html": "user_feed.html",
-        "ugc_pdf": "user_feed.pdf",
+        "local_csv": "user_feed.csv",
+        "local_json": "user_feed.json",
+        "local_html": "user_feed.html",
+        "local_pdf": "user_feed.pdf",
     }
 
     for source, path in user_files.items():
@@ -144,28 +163,11 @@ def update_blocklist():
                 domain = extract_domain(item)
                 if domain:
                     if domain not in domain_map:
-                        domain_map[domain] = {"domain": domain, "sources": ["ugc"]}
-                    elif "ugc" not in domain_map[domain]["sources"]:
-                        domain_map[domain]["sources"].append("ugc")
+                        domain_map[domain] = {"domain": domain, "sources": [source]}
+                    elif source not in domain_map[domain]["sources"]:
+                        domain_map[domain]["sources"].append(source)
         except FileNotFoundError:
             continue
-
-    # ---- Manual UGC/AICTE entries ----
-    for manual_file, source_name in [("manual_ugc.json", "ugc"), ("manual_aicte.json", "aicte")]:
-        if os.path.exists(manual_file):
-            try:
-                with open(manual_file, "r", encoding="utf-8") as f:
-                    manual_data = json.load(f).get("domains", [])
-                    for entry in manual_data:
-                        domain = extract_domain(entry.get("domain"))
-                        if domain:
-                            if domain not in domain_map:
-                                domain_map[domain] = entry
-                            else:
-                                if source_name not in domain_map[domain]["sources"]:
-                                    domain_map[domain]["sources"].append(source_name)
-            except Exception as e:
-                print(f"[!] Failed to load {manual_file}: {e}")
 
     # ---- Final blocklist ----
     blocklist = {
