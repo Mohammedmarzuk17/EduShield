@@ -2,32 +2,37 @@ name: Update EduShield Blocklists
 
 on:
   schedule:
-    - cron: '0 1 * * *'
-  workflow_dispatch:
+    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
+  workflow_dispatch:      # Manual run button
 
 jobs:
   update-blocklists:
     runs-on: ubuntu-latest
     steps:
 
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: false
 
+      # 2️⃣ Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas PyPDF2
 
+      # 4️⃣ Run the blocklist update script
       - name: Run blocklist update script
         run: python update_blocklist.py
 
+      # 5️⃣ Split blocklist by source and generate manifest
       - name: Split blocklist by source and generate manifest
         run: python - <<'PYTHON'
 import os, json
@@ -73,6 +78,7 @@ with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
 print("✅ Generated blocklists/manifest.json with all sources")
 PYTHON
 
+      # 6️⃣ Commit and push updated blocklists
       - name: Commit and push updated blocklists
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
