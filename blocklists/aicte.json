@@ -1,3 +1,1612 @@
 {
-  "domains": []
+  "domains": [
+    {
+      "domain": "{'domain': '(collaboration with queen margaret university college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(collaboration with university of london (external), university', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(foreign collaboration: coventry university)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(foreign partners : western international university)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(foreign partners: north dakota state university)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(icfai university tripura) ndr', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(icfai university tripura)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(in association with lancaster university, uk )', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(oxford brookes university, oxford, (u k)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '(raja ram chander institute of technology & management),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '10.  bih-3  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '100.  guj-1  gandhigram rural institute,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '101.  guj-2  gujarat institute of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '102.  guj-3  institute of hotel management & culinary arts,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '103.  guj-4  international institute of hotel management (iihm)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '104.  gu-5  dims institute of hotel management ,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '105.  guj-6  neelkanth school of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '106.  guj-7  tmes business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '107.  guj-8  cambay institute of hospitality management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '108.  har-1  algol school of management & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '109.  har-02  ansal institute of technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '11.  bih-4  admerit global business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '110.  har-03  college of hospitality and tourism', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '110.  har-04  g.d. geonka world institute', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '110020  (foreign partners : nottingham trent university', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '111.  har-05  icaii institute of mgt. & tech.,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '112.  har-06  icfai business school, gurgaon', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '113.  har-07  icfai national college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '116.  har-10  institute for international management & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '117.  har-11  institute of apparel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '118.  har-12  international institute of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '12.  bih-5  admerit global business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '120.  har-15  skyline business school , gurgaon', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '121.  har-16  shree balaji institute of computer', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '122.  har-17  international institute of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '123.  har-18  fazlani altius business school (fabs),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '126.  jhar -01  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '127.  jhar -02  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '128.  jhar -03  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '129.  jhar -04  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '13.  bih-6  admerit global business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '130.  ktk-1  academy of business management, tourism & research', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '131.  ktk-2  aegis school of business & telecommunication', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '132.  ktk-3  bangalore institute of aeronautical engg. & information', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '133.  ktk-4  bangalore management academy, marthahalli,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '134.  ktk-5  esquire academy of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '135.  ktk-6  focus school of business & finance', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '136.  ktk-7  indian business academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '137.  ktk-8  indian institute of aeronautical and marine engineering', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '138.  ktk-9  institute of business management & research #44', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '139.  ktk-11  institute of management &technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '14.  bih-7  advantage management academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '140.  ktk-12  international institute of business management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '141.  ktk-13  international school of business & media', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '142.  ktk-14  m. s. ramaiah school of advanced studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '143.  ktk-15  mats school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '145.  ktk-17  presidency college of mgt.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '148.  ktk-20  the icfai institute of science & tech.,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '149.  ktk-21  the institute of engineering science & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '15.  bih-8  ambedkar institute of higher education', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '151.  ktk-23  international institute of business studies,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '153.  ke-1  indian institute of logistics', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '154.  ke-2  indian institute of logistics', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '155.  mah -1  a ki college of allied health baitul', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '156.  mah -10  anjuman khairul islams institute of mgmt & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '158.  mah -32  elphinstone college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '16.  bih-9  ambedkar institute of technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '163.  mah -47  icit college of management & information technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '165.  mah -57  institute of business studies & research (ibsar)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '166.  mah -58  institute of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '167.  mah -81  mumbai college of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '168.  mah -90  ozar vikas sanstha’s institute of mgmt & research center,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '17.  bih-10  amity business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '170.  mah -125  fazlani altius business school (fabs),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '171.  mah -126  indian institute of material management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '172.  or-1  fazlani altius business school (fabs),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '173.  pun- 1  amity global business school ,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '174.  pun- 2  canadian institute for international studs.,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '176.  pun- 4  sai institute of pharmacy, mannawala,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '177.  pun- 5  institute of computer accounts', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '178.  raj- 1  the hotel school of k.k.retreat pvt. ltd.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '179.  raj- 2  times business school ,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '180.  raj- 3  jai balaji college of engineering and management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '181.  tn-1  dr. jessy geroge memorial institute of mgt.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '185.  tn-5  international institute of business & management pvt ltd', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '186.  tn-6  merit swiss asian school of hotel management 22,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '187.  tn-7  national institute of business management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '188.  tn-8  national institute of human resourse development', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '189.  tn-9  stansfield school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '19.  bih-14  dr. zakir hussain institute,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '190.  tn-11  rai business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '191.  tn-12  amrita international institute of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '193.  ap-2  amity business school hyderabad,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '194.  ap-3  asian gradutae school of business,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '196.  ap-6  banaglore school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '197.  ap-7  clinical research education and management academy', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '198.  ap-8  cmed school of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '199.  ap-9  cygmax institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '2-1-569/109, raja pannalal pitti, block b,  university road,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '2.  ap-10  cygmax institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '20.  bih-15  ideal eyes business college,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '200.  ap-12  gandikota institute of technology and management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '201.  ap-13  gems business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '203.  ap-15  iilm business school, hyderabad (iilm),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '204.  ap-16  indian institute of planning & management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '205.  ap-17  indigo school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '206.  ap-18  indigrwo institute of professional studies (iips)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '207.  ap-20  institute of management & creative studies (imacs) centum- u', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '208.  ap-21  international institute for insurance & finance (iiif)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '209.  ap-22  isitech business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '21.  bih-16  megasoft it college,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '210.  ap-23  itm business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '211.  ap-24  itm business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '212.  ap-25  magnus school of business,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '214.  ap-28  mentoris school of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '215.  ap-29  national institute of construction management and research', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '216.  ap-30  new dimensions international institute of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '217.  ap-31  niraj international college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '218.  ap-32  rai business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '219.  ap-33  school for management & applied research tech. inst. of', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '22.  bih-17  national institute of engineering & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '220.  ap-34  sujana school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '221.  ap-35  sun institute of technology & management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '223.  ap-37  the indian school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '225.  ap-39  united world school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '226.  ap-40  wlc college private limited', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '229.  uk-2  institute of logistic & aviation management(india) 77,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '23.  bih-18  nec institute of it & management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '230.  uk-3  maa gayatri institute of tech khatima tanakpur road, tigri choraha,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '231.  up-1  academy of technology and management 29d', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '232.  up-2  college of hosipitality and tourism ,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '233.  up-3  advisor the educational academy', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '234.  up-4  agra institute of engineering & tech.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '235.  up-5  annie besant college of engineering & management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '236.  up-6  asian academy of film & tv', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '239.  up-9  deen dayal upadhayaya institute of mgmt & higher studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '24.  bih-19  siddartha institute of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '240.  up-10  icfai national college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '241.  up-11  indian institute of commerce and trade', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '242.  up-12  indian institute of pharmaceutical marketing', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '243.  up-13  indian institute of professional studies,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '245.  up-15  p.k. institute of technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '246.  up-18  vivekanand institute of hotel management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '247.  up-19  international institute of business studies,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '250.  up-22  rics school of built environment,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '251.  up-23  footwear design & development institute', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '252.  up-24  blitz institute of creative arts (bica)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '253.  wb-1  amity global business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '254.  wb-2  bengal institute of business studies 18', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '255.  wb-3  eastern institute for integrated learning in management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '256.  wb-4  eastern institute of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '257.  wb-5  global institute of fashion tech.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '258.  wb-6  good shepherd institute of hospitality mgmt.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '262.  wb-11  institute of advanced management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '263.  wb-12  international institute of hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '264.  wb-13  international institute of hotel mgmt.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '265.  wb-14  international school of business & media,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '266.  wb-15  london school of business,( school of business & law)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '267.  wb-16  msnm school of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '268.  wb-17  nias (nalanda institute of advanced studies)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '269.  wb-18  sam higginbottem institute of agri technology & sciences,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '270.  wb-19  techna institute, sdf building,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '273.  wb-22  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '274.  wb-23  web university (professional degrees),', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '275.  wb-24  international institute of business studies,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '276.  wb-25  usha martin academy,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '277.  wb-26  calcutta engineering college,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '278.  wb-27  wigan & leigh college (wlc)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '29.  chd-6  icfai business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '3.  ap-11  cygmax institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '30.  chd-7  institute of fashion design,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '31.  chd-8  pearls institute of hospitality & management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '32.  del-1  apex college of management, 840', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '33.  del-3  asia-pacific institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '34.  del-4  atm academy of technology & mgmt.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '35.  del-5  blessing institute of management and technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '36.  del-6  capital business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '38.  del-9  cosmic business school campus', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '39.  del-10  cradle of management institute', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '40.  del-11  delhi business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '41  jes institutes', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '41.  del-12  delhi film institute,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '42.  del-13  dr. mps group of institutes,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '44.  del-15  fairfield institute of management & technology near', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '45.  del-16  fostiima business school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '46.  del-17  icfai business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '48.  del-19  iimmi international institute of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '49.  del-20  iimr pharma business school lakshmi', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '5.  ap-26  magnus school of business,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '50.  del-21  indian institute of planning and management, iipm,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '52.  del-23  ilam, institute of logistics and aviation management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '53.  del-24  imacs institute of management &  creative studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '55.  del-26  indian school of business & finance,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '56.  del-27  indian school of business and finance,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '57.  del-28  indus world school of business,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '58.  del-29  institute for interelated learning in management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '59.  del-30  institute of integrated marketing communication &', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '6.  ap-36  sun institute of technology & management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '60.  del-31  institute of logistic & aviation management (india)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '61.  del-32  institute of management & development,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '62.  del-33  institute of management & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '63.  del-34  international institute of fashion design', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '64.  del-35  international business school ,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '65.  del-36  international college of fashion', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '66.  del-37  international college of financial planning', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '67.  del-38  international institute of fashion technology(iift)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '7.  ap-42  venkat educational academy', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '71.  del-42  k. r. mangalam global institute of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '74.  del-45  meri institute of professional studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '76.  del-47  netaji subhash institute of management science,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '77.  del-48  new delhi institute of management b -64,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '78.  del-49  oxford business college', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '79.  del-50  pearl academy of fashion', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '8.  bih-1  international school of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '80.  del-51  sanjna institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '81.  del-52  school of aeronautics', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '82.  del-53  shikshapeeth college of management & technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '83.  del-54  siim college of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '84.  del-55  sirifort college of technology and management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '85.  del-56  sirifort institute of management studies', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '86.  del-58  softdot hi -tech educational & training institute', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '87.  del-59  times business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '88.  del-60  triambke institute of  hotel management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '89.  del-61  trinity institute', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '9.  bih-2  catalyst institute of management & advance', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '90.  del-62  western international  university', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '91.  del-63  wlc college o f india', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '92.  del-64  international institute of management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '94.  del-66  iims  college,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '95.  del-67  shikshapeeth college of management and', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '97.               del-69            chander prabhu jain institute of management technology,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '98.  goa-1  academy of culinary education, cidade', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': '99.  goa-2  institute of advanced management,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'academy of fashion) new delhi', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'b-school, en-13, sector-v salt lake kolkata - 91', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'banagalore -560 004 (foreign collaborator university of', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'bangalore - 19 (foreign partners: university of wales)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'banjara hills,  hyderabad – 34, telangana  222.  ap-36  synergy institute of management', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'block - f2, fifth floor, amity university,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'c/o badruka pg college kachiguda, hyderbad, telangana', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'c/o dashmesh academy building,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'f-3, hauz khas enclave, near laxman public school, new', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'georgian college, fanshawe college, thompson rivers', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'gurgaon campus : algol school of technology', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'hill woods school, sector 25', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'hotel school, ashram road, usmanpura,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'hyderabad, telangana  202.  ap-14  hyderbad school of business', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'indraparastha (pg) institute of management & tech,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'international institute of business studies,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'international school of business & media', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'karanpur, dav college road, dehradun', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'khatu shyam institute of management & technology,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'mah -31  eduway academy pvt ltd', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'maharapishi college campus 1- 10-77,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'new delhi (foreign partners: university of bradford, uk)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'of oxford, university, university of cambridge.)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'opp, loyla high school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'opp. khalsa college, amrtsar', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'pratima complex, opp:p.n anglo school,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'queen margaret university college at ledinbu8rgh, uk)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'queen margaret university college corstorphine campus,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'rdb. boulevard, 6th floor sector -v salt lake city, kolkata  244.  up-14  national business school', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'swami vivekanand institute,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'university & clark univ. twining arrangement.', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'university college, united kingdom)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'vaid house, opp. homeopathy college, near r.c. patel', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'with university of bradford, richmond road, bradford)', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    },
+    {
+      "domain": "{'domain': 'wlc college india ltd.,  10c,', 'sources': ['aicte']}",
+      "sources": [
+        "aicte"
+      ]
+    }
+  ]
 }
