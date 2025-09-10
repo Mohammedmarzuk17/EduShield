@@ -2,8 +2,8 @@ name: Update EduShield Blocklists
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:      # Manual run button
+    - cron: '0 1 * * *'   # Runs daily at 01:00 UTC
+  workflow_dispatch:       # Enables manual run button
 
 jobs:
   update-blocklists:
@@ -35,7 +35,8 @@ jobs:
       # 5️⃣ Split blocklist by source and generate manifest
       - name: Split blocklist by source and generate manifest
         run: python - <<'PYTHON'
-import os, json
+import os
+import json
 
 # Ensure blocklists folder exists
 os.makedirs("blocklists", exist_ok=True)
@@ -52,17 +53,16 @@ for entry in domains:
     if isinstance(entry, dict):
         sources = entry.get("sources") or ["unknown"]
         for src in sources:
-            src_key = src.lower()
-            grouped.setdefault(src_key, []).append(entry)
+            key = src.lower()
+            grouped.setdefault(key, []).append(entry)
     else:
         grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
 
 # Force include all expected sources even if empty
 sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
 for s in sources_list:
-    src_key = s.lower()
-    if src_key not in grouped:
-        grouped[src_key] = []
+    key = s.lower()
+    grouped.setdefault(key, [])
 
 # Write each grouped source to its own JSON file
 for src, items in grouped.items():
