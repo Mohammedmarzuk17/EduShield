@@ -9,68 +9,83 @@ jobs:
   update-blocklists:
     runs-on: ubuntu-latest
     steps:
+      # 1️⃣ Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: false
 
+      # 2️⃣ Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas PyPDF2
 
+      # 4️⃣ Run the blocklist update script
       - name: Run blocklist update script
         run: python update_blocklist.py
 
-      - name: Split blocklist by source
+      # 5️⃣ Split blocklist by source and ensure all sources exist
+      - name: Split blocklist by source and force all sources
         run: |
           mkdir -p blocklists
           python - <<'EOF'
-          import json, os
-          with open("blocklist.json", "r", encoding="utf-8") as f:
-              data = json.load(f)
-          domains = data.get("domains", [])
-          grouped = {}
-          for entry in domains:
-              if isinstance(entry, dict):
-                  for src in entry.get("sources") or ["unknown"]:
-                      grouped.setdefault(src, []).append(entry)
-              else:
-                  grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
-          os.makedirs("blocklists", exist_ok=True)
-          for src, items in grouped.items():
-              out_file = f"blocklists/{src.lower().replace(' ', '_')}.json"
-              with open(out_file, "w", encoding="utf-8") as f:
-                  json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
-              print(f"✅ Saved {len(items)} entries to {out_file}")
-          EOF
+import os, json
 
-      - name: Generate blocklists/manifest.json
-        run: |
-          python - <<'EOF'
-          import os, json
-          files = []
-          for f in os.listdir("blocklists"):
-              if f.endswith(".json"):
-                  source_name = f.replace(".json", "").replace("_", " ").title()
-                  files.append({"file": f, "source": source_name})
-          with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
-              json.dump({"files": files}, mf, indent=2, ensure_ascii=False)
-          print("✅ Generated blocklists/manifest.json")
-          EOF
+# Load main blocklist.json
+with open("blocklist.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
 
+domains = data.get("domains", [])
+
+# Group entries by source
+grouped = {}
+for entry in domains:
+    if isinstance(entry, dict):
+        sources = entry.get("sources") or ["unknown"]
+        for src in sources:
+            grouped.setdefault(src.lower(), []).append(entry)
+    else:
+        grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
+
+# Write each grouped source to its own file
+for src, items in grouped.items():
+    out_file = f"blocklists/{src}.json"
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
+    print(f"✅ Saved {len(items)} entries to {out_file}")
+
+# Force include all expected sources even if empty
+sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
+for s in sources_list:
+    fname = f"blocklists/{s}.json"
+    if not os.path.exists(fname):
+        with open(fname, "w", encoding="utf-8") as f:
+            json.dump({"domains": []}, f, indent=2)
+    if s.lower() not in grouped:
+        grouped[s.lower()] = []
+
+# Generate manifest.json including all sources
+files = [{"file": f"{s.lower()}.json", "source": s} for s in sources_list]
+with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
+    json.dump({"files": files}, mf, indent=2, ensure_ascii=False)
+print("✅ Generated blocklists/manifest.json with all sources")
+EOF
+
+      # 6️⃣ Commit and push updated blocklists
       - name: Commit and push updated blocklists
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git remote set-url origin "https://${PAT_TOKEN}@github.com/${{ github.repository }}.git"
           git add blocklist.json blocklists/*.json
-          git commit -m "Auto-update blocklists + manifest.json" || echo "No changes to commit"
+          git commit -m "Auto-update blocklists + manifest.json (with all sources)" || echo "No changes to commit"
           git pull origin main --rebase || echo "No remote changes"
           git push origin HEAD:main --force
         env:
