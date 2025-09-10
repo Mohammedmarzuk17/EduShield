@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "file": "manifest.json",
+      "source": "Manifest"
+    },
+    {
       "file": "unknown.json",
       "source": "Unknown"
     }
