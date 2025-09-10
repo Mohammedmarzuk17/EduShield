@@ -150,6 +150,23 @@ def update_blocklist():
         except FileNotFoundError:
             continue
 
+    # ---- Manual UGC/AICTE entries ----
+    for manual_file, source_name in [("manual_ugc.json", "ugc"), ("manual_aicte.json", "aicte")]:
+        if os.path.exists(manual_file):
+            try:
+                with open(manual_file, "r", encoding="utf-8") as f:
+                    manual_data = json.load(f).get("domains", [])
+                    for entry in manual_data:
+                        domain = extract_domain(entry.get("domain"))
+                        if domain:
+                            if domain not in domain_map:
+                                domain_map[domain] = entry
+                            else:
+                                if source_name not in domain_map[domain]["sources"]:
+                                    domain_map[domain]["sources"].append(source_name)
+            except Exception as e:
+                print(f"[!] Failed to load {manual_file}: {e}")
+
     # ---- Final blocklist ----
     blocklist = {
         "last_updated": datetime.utcnow().isoformat(),
