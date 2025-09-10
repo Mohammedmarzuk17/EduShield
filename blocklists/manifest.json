@@ -2,15 +2,23 @@
   "files": [
     {
       "file": "urlhaus.json",
-      "source": "Urlhaus"
+      "source": "urlhaus"
     },
     {
       "file": "openphish.json",
-      "source": "Openphish"
+      "source": "openphish"
     },
     {
-      "file": "manifest.json",
-      "source": "Manifest"
+      "file": "ugc.json",
+      "source": "ugc"
+    },
+    {
+      "file": "aicte.json",
+      "source": "aicte"
+    },
+    {
+      "file": "custom.json",
+      "source": "custom"
     }
   ]
 }
