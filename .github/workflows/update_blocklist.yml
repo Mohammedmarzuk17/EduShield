@@ -2,86 +2,39 @@ name: Update EduShield Blocklists
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:      # Manual run button
+    - cron: '0 1 * * *'   # Runs daily at 01:00 UTC
+  workflow_dispatch:       # Manual run button
 
 jobs:
   update-blocklists:
     runs-on: ubuntu-latest
     steps:
 
-      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: false
 
-      # 2️⃣ Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.13
 
-      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pandas PyPDF2
 
-      # 4️⃣ Run the blocklist update script
-      - name: Run blocklist update script
-        run: python update_blocklist.py
+      - name: Update and split blocklist
+        run: python update_and_split_blocklist.py
 
-      # 5️⃣ Split blocklist by source and generate manifest
-      - name: Split blocklist by source and generate manifest
-        run: python - <<'PYTHON'
-import os, json
-os.makedirs("blocklists", exist_ok=True)
-# Load main blocklist.json
-with open("blocklist.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
-
-domains = data.get("domains", [])
-
-# Group entries by source
-grouped = {}
-for entry in domains:
-    if isinstance(entry, dict):
-        sources = entry.get("sources") or ["unknown"]
-        for src in sources:
-            key = src.lower()
-            grouped.setdefault(key, []).append(entry)
-    else:
-        grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
-
-# Force include all expected sources even if empty
-sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
-for s in sources_list:
-    key = s.lower()
-    grouped.setdefault(key, [])
-
-# Write each grouped source to its own JSON file
-for src, items in grouped.items():
-    out_file = f"blocklists/{src}.json"
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
-    print(f"✅ Saved {len(items)} entries to {out_file}")
-
-# Generate manifest.json including all sources
-files = [{"file": f"{s.lower()}.json", "source": s} for s in sources_list]
-with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
-    json.dump({"files": files}, mf, indent=2, ensure_ascii=False)
-print("✅ Generated blocklists/manifest.json with all sources")
-PYTHON
-
-      # 6️⃣ Commit and push updated blocklists
       - name: Commit and push updated blocklists
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git remote set-url origin "https://${PAT_TOKEN}@github.com/${{ github.repository }}.git"
           git add blocklist.json blocklists/*.json
-          git commit -m "Auto-update blocklists + manifest.json (with all sources)" || echo "No changes to commit"
+          git commit -m "Auto-update blocklists + manifest.json (all sources)" || echo "No changes to commit"
           git pull origin main --rebase || echo "No remote changes"
           git push origin HEAD:main --force
         env:
