@@ -35,9 +35,7 @@ jobs:
       # 5️⃣ Split blocklist by source and generate manifest
       - name: Split blocklist by source and generate manifest
         run: python - <<'PYTHON'
-
-import json, os
-
+import os, json
 # Ensure blocklists folder exists
 os.makedirs("blocklists", exist_ok=True)
 
