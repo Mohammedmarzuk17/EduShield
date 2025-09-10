@@ -2,8 +2,8 @@ name: Update EduShield Blocklists
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:      # Manual run button
+    - cron: '0 1 * * *'
+  workflow_dispatch:
 
 jobs:
   update-blocklists:
