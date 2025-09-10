@@ -7,13 +7,14 @@ from urllib.parse import urlparse
 from datetime import datetime
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
+from io import BytesIO
 
 # ---------------------------
 # Helpers
 # ---------------------------
 
 def extract_domain(url_or_text):
-    """Extract and normalize domains from messy input or names."""
+    """Extract and normalize domains from messy input or institution names."""
     if not url_or_text:
         return None
 
@@ -35,8 +36,9 @@ def extract_domain(url_or_text):
     if domain_pattern.match(candidate):
         return candidate.lower()
 
-    # Otherwise treat as a "name" and convert to lowercase
+    # Otherwise treat as a "name" entry (colleges/universities etc.)
     return candidate.lower()
+
 
 def fetch_text_feed(url):
     try:
@@ -46,6 +48,7 @@ def fetch_text_feed(url):
     except Exception as e:
         print(f"[!] Failed to fetch {url}: {e}")
     return []
+
 
 def parse_csv_feed(path):
     domains = []
@@ -59,6 +62,7 @@ def parse_csv_feed(path):
         print(f"[!] CSV parse error in {path}: {e}")
     return domains
 
+
 def parse_json_feed(path):
     try:
         with open(path, encoding="utf-8") as f:
@@ -71,6 +75,7 @@ def parse_json_feed(path):
         print(f"[!] JSON parse error in {path}: {e}")
     return []
 
+
 def parse_html_feed(path):
     domains = []
     try:
@@ -82,7 +87,9 @@ def parse_html_feed(path):
         print(f"[!] HTML parse error in {path}: {e}")
     return domains
 
+
 def parse_pdf_feed(path):
+    """Extract text tokens from a local PDF file."""
     domains = []
     try:
         with open(path, "rb") as f:
@@ -94,6 +101,26 @@ def parse_pdf_feed(path):
     except Exception as e:
         print(f"[!] PDF parse error in {path}: {e}")
     return domains
+
+
+def fetch_and_parse_pdf(url):
+    """Download and parse institution names from a remote PDF (UGC/AICTE)."""
+    entries = []
+    try:
+        r = requests.get(url, timeout=30)
+        if r.status_code == 200:
+            reader = PdfReader(BytesIO(r.content))
+            for page in reader.pages:
+                text = page.extract_text()
+                if text:
+                    # Split lines instead of raw words (institutions are line-based)
+                    for line in text.splitlines():
+                        cleaned = line.strip()
+                        if cleaned and len(cleaned) > 3:
+                            entries.append(cleaned)
+    except Exception as e:
+        print(f"[!] Failed to fetch/parse PDF {url}: {e}")
+    return entries
 
 # ---------------------------
 # Main Update Logic
@@ -113,6 +140,22 @@ def update_blocklist():
         lines = fetch_text_feed(url)
         for item in lines:
             domain = extract_domain(item)
+            if domain:
+                if domain not in domain_map:
+                    domain_map[domain] = {"domain": domain, "sources": [source]}
+                elif source not in domain_map[domain]["sources"]:
+                    domain_map[domain]["sources"].append(source)
+
+    # ---- Remote UGC/AICTE PDFs ----
+    pdf_feeds = {
+        "ugc": "https://www.ugc.ac.in/pdfnews/fake-universities-list.pdf",
+        "aicte": "https://www.aicte-india.org/downloads/fake_institutions_list.pdf"
+    }
+
+    for source, url in pdf_feeds.items():
+        entries = fetch_and_parse_pdf(url)
+        for entry in entries:
+            domain = extract_domain(entry)
             if domain:
                 if domain not in domain_map:
                     domain_map[domain] = {"domain": domain, "sources": [source]}
