@@ -3,12 +3,13 @@ name: Update EduShield Blocklists
 on:
   schedule:
     - cron: '0 1 * * *'  # Runs daily at 01:00 UTC
-  workflow_dispatch:      # Ensures manual run button appears
+  workflow_dispatch:      # Manual run button
 
 jobs:
   update-blocklists:
     runs-on: ubuntu-latest
     steps:
+
       # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -31,12 +32,13 @@ jobs:
       - name: Run blocklist update script
         run: python update_blocklist.py
 
-      # 5️⃣ Split blocklist by source and force all expected sources
+      # 5️⃣ Split blocklist by source and generate manifest
       - name: Split blocklist by source and generate manifest
         run: |
           mkdir -p blocklists
-          python - <<'EOF'
+          python - <<EOF
 import os, json
+
 # Load main blocklist.json
 with open("blocklist.json", "r", encoding="utf-8") as f:
     data = json.load(f)
