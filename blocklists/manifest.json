@@ -19,6 +19,18 @@
     {
       "file": "custom.json",
       "source": "custom"
+    },
+    {
+      "file": "phishtank.json",
+      "source": "phishtank"
+    },
+    {
+      "file": "phishing_army.json",
+      "source": "phishing_army"
+    },
+    {
+      "file": "threatfox.json",
+      "source": "threatfox"
     }
   ]
 }
