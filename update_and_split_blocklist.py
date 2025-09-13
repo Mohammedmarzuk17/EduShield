@@ -140,7 +140,26 @@ def update_blocklist():
     }
 
     for source, url in feeds.items():
-        lines = fetch_text_feed(url)
+        lines = []
+
+        try:
+            r = requests.get(url, timeout=30)
+            if r.status_code == 200:
+                if source == "phishtank":
+                    # Parse CSV feed
+                    decoded = r.content.decode("utf-8", errors="ignore").splitlines()
+                    reader = csv.reader(decoded)
+                    for row in reader:
+                        for item in row:
+                            lines.append(item)
+                else:
+                    # Default: split by lines
+                    lines = r.text.splitlines()
+        except Exception as e:
+            print(f"[!] Failed to fetch {url}: {e}")
+            lines = []
+
+        # Normalize & store domains
         for item in lines:
             domain = extract_domain(item)
             if domain:
