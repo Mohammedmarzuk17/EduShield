@@ -130,14 +130,14 @@ def update_blocklist():
     domain_map = {}
 
     # ---- Remote feeds ----
-feeds = {
-    "urlhaus": "https://urlhaus.abuse.ch/downloads/text/",
-    "openphish": "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt",
-    "custom": "https://raw.githubusercontent.com/Mohammedmarzuk17/EduShield/main/custom_feed.json",
-    "phishtank": "http://data.phishtank.com/data/online-valid.csv",
-    "phishing_army": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
-    "threatfox": "https://threatfox.abuse.ch/downloads/hostfile/",
-}
+    feeds = {
+        "urlhaus": "https://urlhaus.abuse.ch/downloads/text/",
+        "openphish": "https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt",
+        "custom": "https://raw.githubusercontent.com/Mohammedmarzuk17/EduShield/main/custom_feed.json",
+        "phishtank": "http://data.phishtank.com/data/online-valid.csv",
+        "phishing_army": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+        "threatfox": "https://threatfox.abuse.ch/downloads/hostfile/",
+    }
 
     for source, url in feeds.items():
         lines = fetch_text_feed(url)
@@ -249,7 +249,7 @@ def split_blocklist():
             grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
 
     # Force all sources
-    sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom"]
+    sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom", "phishtank", "phishing_army", "threatfox"]
     for s in sources_list:
         key = s.lower()
         grouped.setdefault(key, [])
