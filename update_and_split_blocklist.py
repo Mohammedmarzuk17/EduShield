@@ -139,7 +139,6 @@ feeds = {
     "threatfox": "https://threatfox.abuse.ch/downloads/hostfile/",
 }
 
-
     for source, url in feeds.items():
         lines = fetch_text_feed(url)
         for item in lines:
