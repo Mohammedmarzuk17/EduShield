@@ -28,7 +28,7 @@
       ]
     },
     {
-      "domain": "# last updated: 2025-09-13 04:08:17 (utc)                      #",
+      "domain": "# last updated: 2025-09-13 04:24:07 (utc)                      #",
       "sources": [
         "urlhaus"
       ]
@@ -5785,6 +5785,12 @@
     },
     {
       "domain": "112.248.187.206:38290",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "112.248.187.26:40453",
       "sources": [
         "urlhaus"
       ]
@@ -57726,6 +57732,12 @@
       ]
     },
     {
+      "domain": "182.252.66.22:16263",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "182.252.66.2:17841",
       "sources": [
         "urlhaus"
@@ -58357,6 +58369,12 @@
     },
     {
       "domain": "185.136.193.46:8261",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "185.136.195.193:60963",
       "sources": [
         "urlhaus"
       ]
@@ -65227,6 +65245,12 @@
     },
     {
       "domain": "201.77.146.239:45125",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
+      "domain": "201.77.146.239:55877",
       "sources": [
         "urlhaus"
       ]
@@ -108648,6 +108672,12 @@
       ]
     },
     {
+      "domain": "78.153.52.58:19219",
+      "sources": [
+        "urlhaus"
+      ]
+    },
+    {
       "domain": "78.157.28.102:8497",
       "sources": [
         "urlhaus"
@@ -117416,7 +117446,8 @@
     {
       "domain": "adclick.g.doubleclick.net",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -118490,7 +118521,8 @@
     {
       "domain": "bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -119738,7 +119770,8 @@
     {
       "domain": "constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -121310,7 +121343,8 @@
     {
       "domain": "docs.google.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -121664,7 +121698,8 @@
     {
       "domain": "drive.google.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -121700,7 +121735,8 @@
     {
       "domain": "dropbox.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -122060,7 +122096,8 @@
     {
       "domain": "f005.backblazeb2.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -122072,7 +122109,8 @@
     {
       "domain": "f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -122318,7 +122356,8 @@
     {
       "domain": "firebasestorage.googleapis.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -123560,7 +123599,8 @@
     {
       "domain": "j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -125672,7 +125712,8 @@
     {
       "domain": "onedrive.live.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -126502,6 +126543,7 @@
       "domain": "psee.io",
       "sources": [
         "urlhaus",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -127684,7 +127726,8 @@
     {
       "domain": "sites.google.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -128081,7 +128124,8 @@
     {
       "domain": "storage.googleapis.com",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -128886,6 +128930,7 @@
       "domain": "totalpropertycare.ae",
       "sources": [
         "urlhaus",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -129721,7 +129766,8 @@
     {
       "domain": "web.archive.org",
       "sources": [
-        "urlhaus"
+        "urlhaus",
+        "phishtank"
       ]
     },
     {
@@ -130089,6 +130135,7 @@
       "domain": "xiangshunjy.com",
       "sources": [
         "urlhaus",
+        "phishtank",
         "phishing_army"
       ]
     },
