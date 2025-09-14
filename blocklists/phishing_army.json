@@ -15,7 +15,7 @@
       ]
     },
     {
-      "domain": "# last update: sat, 13 sep 2025 22:00:06 utc",
+      "domain": "# last update: sun, 14 sep 2025 04:00:07 utc",
       "sources": [
         "phishing_army"
       ]
@@ -718,6 +718,13 @@
     {
       "domain": "0g3lux.sbs",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "0gmwnac.cn",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -1440,12 +1447,6 @@
       ]
     },
     {
-      "domain": "118924-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "11947353-com.cfd",
       "sources": [
         "phishing_army"
@@ -1714,12 +1715,6 @@
       ]
     },
     {
-      "domain": "172635-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "17352762-coinbase.com",
       "sources": [
         "phishing_army"
@@ -1771,12 +1766,6 @@
       "domain": "18creation.icu",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "18tiktok-play-market.google.societyminister.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -2438,6 +2427,13 @@
       ]
     },
     {
+      "domain": "2244187365.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "2257032025.carettoni.it",
       "sources": [
         "phishtank",
@@ -2623,13 +2619,6 @@
     {
       "domain": "24top-news.online",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "25-msg.live",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -4578,7 +4567,6 @@
     {
       "domain": "4vgssd.sbs",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -4629,6 +4617,13 @@
       "domain": "500dollarblueprint.com",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "503695802841877041919875171714lduptbtfbzazpho.adelon.com.br",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -4690,12 +4685,6 @@
     },
     {
       "domain": "5209019.xyz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "52166-coinbase.com",
       "sources": [
         "phishing_army"
       ]
@@ -5179,7 +5168,6 @@
     {
       "domain": "5shvd.lat",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -5959,12 +5947,6 @@
       ]
     },
     {
-      "domain": "778592639472h.world",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "77926bb393dd19e2909a4e8f8609dccb.ip-ddns.com",
       "sources": [
         "phishing_army"
@@ -6174,6 +6156,13 @@
       ]
     },
     {
+      "domain": "7m2q7tw.cn",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "7negfgf.lat",
       "sources": [
         "phishing_army"
@@ -6364,6 +6353,13 @@
       ]
     },
     {
+      "domain": "805749368822437406954475281813rlkgscxncpfyxfu.adelon.com.br",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "80icajz3msy4wlu.82ia.pl",
       "sources": [
         "phishing_army"
@@ -6449,12 +6445,6 @@
     },
     {
       "domain": "833626.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "839402-coinbase.com",
       "sources": [
         "phishing_army"
       ]
@@ -6656,6 +6646,13 @@
       ]
     },
     {
+      "domain": "888365168.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "888payroll.com",
       "sources": [
         "phishing_army"
@@ -6845,7 +6842,6 @@
     {
       "domain": "8pwaj5.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -7005,6 +7001,13 @@
       ]
     },
     {
+      "domain": "944348556437879646874655133977kwtnvrjppyrwhwx.adelon.com.br",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "94949293.cc",
       "sources": [
         "phishing_army"
@@ -7129,12 +7132,6 @@
     },
     {
       "domain": "99q2md.xyz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "9aeb9af0-c7d2-4565-8599-bb96f72f0e38-00-2wwb8ege3y9tx.kirk.replit.dev",
       "sources": [
         "phishing_army"
       ]
@@ -7810,12 +7807,6 @@
     },
     {
       "domain": "aamarhat.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "aamazon.etsy368.com",
       "sources": [
         "phishing_army"
       ]
@@ -9878,7 +9869,6 @@
     {
       "domain": "access.statementdrop.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -10860,6 +10850,13 @@
       ]
     },
     {
+      "domain": "accounts.marketwebb.net",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "accounts.nfutdb.icu",
       "sources": [
         "phishing_army"
@@ -10970,6 +10967,13 @@
     {
       "domain": "accrualelthor.net",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "accservmanagebillegwegvkokmrgk.kmfweweguerrw.my.id",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -11960,6 +11964,13 @@
     {
       "domain": "actazure.mexicosinabuso.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "acte-notarial.info",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -13532,31 +13543,7 @@
       ]
     },
     {
-      "domain": "admin.988648-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "admin.access.barclays-co-uk.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "admin.amazon.okupasxx.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "admin.amazon.ses-iam.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "admin.app1.andrewjohnston.ca",
       "sources": [
         "phishing_army"
       ]
@@ -13592,18 +13579,6 @@
       ]
     },
     {
-      "domain": "admin.google.descargatelocorp.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "admin.mlcrosoft.gr",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "admin.multa.net",
       "sources": [
         "phishtank",
@@ -13614,6 +13589,12 @@
       "domain": "admin.vpass.bond",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "admin.welolsfargo.com",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -14079,6 +14060,13 @@
     {
       "domain": "adselect72.online",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "adsensearticle.com",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -14846,6 +14834,13 @@
       ]
     },
     {
+      "domain": "aee40e8ce13zb4dc1b5caec389dcdd-my-sharepoint.ecliworks.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "aegere.shop",
       "sources": [
         "phishing_army"
@@ -14879,6 +14874,13 @@
     },
     {
       "domain": "aeon.xagufxc.cn",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "aeonjp.link",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -16789,13 +16791,6 @@
       ]
     },
     {
-      "domain": "aggiornamento.server-services.online",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "aggirensky.pro",
       "sources": [
         "phishing_army"
@@ -17919,12 +17914,6 @@
       "domain": "aide-lockers-colis.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "aide-microsoft.net",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -20101,7 +20090,6 @@
     {
       "domain": "airlines-nacional-internacional-tam.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -22519,6 +22507,12 @@
       ]
     },
     {
+      "domain": "alebilet.kategorie-rowerowe-id910871.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.katlegoria-inne-20cxb8n7.rest",
       "sources": [
         "phishing_army"
@@ -23719,12 +23713,6 @@
       ]
     },
     {
-      "domain": "alebilet.oferta-8681986.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "alebilet.oferta-8727826.shop",
       "sources": [
         "phishing_army"
@@ -24637,6 +24625,12 @@
       ]
     },
     {
+      "domain": "alebilet.oferta91582712.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.oferta91735.icu",
       "sources": [
         "phishing_army"
@@ -24673,6 +24667,12 @@
       ]
     },
     {
+      "domain": "alebilet.oferta9518521.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.oferta9821435.cfd",
       "sources": [
         "phishing_army"
@@ -24704,6 +24704,12 @@
     },
     {
       "domain": "alebilet.oferty-0512897.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.oferty-12051282.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -24787,6 +24793,12 @@
       ]
     },
     {
+      "domain": "alebilet.ogloszenie-154676.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.ogloszenie-2228789.shop",
       "sources": [
         "phishing_army"
@@ -24818,6 +24830,12 @@
     },
     {
       "domain": "alebilet.ogloszenie-32f11eg46fppmsty66qxy5.org",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.ogloszenie-32f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -24860,6 +24878,12 @@
     },
     {
       "domain": "alebilet.ogloszenie-4477949.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.ogloszenie-44f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -24968,12 +24992,6 @@
     },
     {
       "domain": "alebilet.ogloszenie-671553.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "alebilet.ogloszenie-7219610.shop",
       "sources": [
         "phishing_army"
       ]
@@ -30937,6 +30955,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-kategorie84716294719042.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-kategorie8476362937268.icu",
       "sources": [
         "phishing_army"
@@ -31142,6 +31166,12 @@
     },
     {
       "domain": "alebilet.pl-kategorie93844729653.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-kategorie947629031742.shop",
       "sources": [
         "phishing_army"
       ]
@@ -32815,6 +32845,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-oferta1947202.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-oferta194819.cfd",
       "sources": [
         "phishing_army"
@@ -33200,6 +33236,12 @@
     },
     {
       "domain": "alebilet.pl-oferta2315044.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta2316003.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -34592,6 +34634,12 @@
     },
     {
       "domain": "alebilet.pl-oferta3623964.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta36294.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -36409,6 +36457,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-oferta5490096.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-oferta5495761.sbs",
       "sources": [
         "phishing_army"
@@ -36739,6 +36793,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-oferta5729039.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-oferta57314.icu",
       "sources": [
         "phishing_army"
@@ -36896,6 +36956,12 @@
     },
     {
       "domain": "alebilet.pl-oferta5827400.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta5829131.icu",
       "sources": [
         "phishing_army"
       ]
@@ -37207,6 +37273,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-oferta616124798.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-oferta616936.icu",
       "sources": [
         "phishing_army"
@@ -37412,6 +37484,12 @@
     },
     {
       "domain": "alebilet.pl-oferta6326635.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta6339565.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -38689,6 +38767,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-oferta7581684.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-oferta758307.cyou",
       "sources": [
         "phishing_army"
@@ -39524,6 +39608,12 @@
     },
     {
       "domain": "alebilet.pl-oferta82168.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta8230518.icu",
       "sources": [
         "phishing_army"
       ]
@@ -40694,12 +40784,6 @@
     },
     {
       "domain": "alebilet.pl-oferta8941715715.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "alebilet.pl-oferta8942390.shop",
       "sources": [
         "phishing_army"
       ]
@@ -42254,6 +42338,12 @@
     },
     {
       "domain": "alebilet.pl-oferta9954531.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.pl-oferta9988709.shop",
       "sources": [
         "phishing_army"
       ]
@@ -44089,6 +44179,12 @@
       ]
     },
     {
+      "domain": "alebilet.pl-przedmiot9636958.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "alebilet.pl-r5k72vdx1jcm8lqz94tneo.com",
       "sources": [
         "phishing_army"
@@ -45326,6 +45422,12 @@
     },
     {
       "domain": "alebilet.prywatna51259125812.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "alebilet.prywatna5812781.pl",
       "sources": [
         "phishing_army"
       ]
@@ -49241,6 +49343,12 @@
       ]
     },
     {
+      "domain": "allegro.kategorie-rowerowe-id910871.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.katlegoria-inne-20cxb8n7.rest",
       "sources": [
         "phishing_army"
@@ -50429,12 +50537,6 @@
       ]
     },
     {
-      "domain": "allegro.oferta-8681986.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "allegro.oferta-8727826.shop",
       "sources": [
         "phishing_army"
@@ -51317,6 +51419,12 @@
       ]
     },
     {
+      "domain": "allegro.oferta91582712.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.oferta91735.icu",
       "sources": [
         "phishing_army"
@@ -51353,6 +51461,12 @@
       ]
     },
     {
+      "domain": "allegro.oferta9518521.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.oferta9821435.cfd",
       "sources": [
         "phishing_army"
@@ -51366,6 +51480,12 @@
     },
     {
       "domain": "allegro.oferty-0512897.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.oferty-12051282.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -51443,6 +51563,12 @@
       ]
     },
     {
+      "domain": "allegro.ogloszenie-154676.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.ogloszenie-2228789.shop",
       "sources": [
         "phishing_army"
@@ -51474,6 +51600,12 @@
     },
     {
       "domain": "allegro.ogloszenie-32f11eg46fppmsty66qxy5.org",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.ogloszenie-32f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -51516,6 +51648,12 @@
     },
     {
       "domain": "allegro.ogloszenie-4477949.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.ogloszenie-44f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -51624,12 +51762,6 @@
     },
     {
       "domain": "allegro.ogloszenie-671553.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "allegro.ogloszenie-7219610.shop",
       "sources": [
         "phishing_army"
       ]
@@ -57252,7 +57384,6 @@
     {
       "domain": "allegro.pl-kategorie78126373167215.shop",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -57284,7 +57415,6 @@
     {
       "domain": "allegro.pl-kategorie781278378123412.shop",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -57843,6 +57973,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-kategorie84716294719042.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-kategorie8476362937268.icu",
       "sources": [
         "phishing_army"
@@ -58050,6 +58186,12 @@
       "domain": "allegro.pl-kategorie93844729653.com",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-kategorie947629031742.shop",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -59755,6 +59897,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta1947202.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta194819.cfd",
       "sources": [
         "phishtank",
@@ -60137,6 +60285,12 @@
     },
     {
       "domain": "allegro.pl-oferta2315044.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-oferta2316003.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -61544,6 +61698,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta36294.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta3637265497.icu",
       "sources": [
         "phishing_army"
@@ -61804,7 +61964,6 @@
     {
       "domain": "allegro.pl-oferta39439.icu",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -61855,7 +62014,6 @@
     {
       "domain": "allegro.pl-oferta3962.pl",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -63372,6 +63530,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta5490096.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta5495761.sbs",
       "sources": [
         "phishtank",
@@ -63698,6 +63862,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta5729039.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta57314.icu",
       "sources": [
         "phishing_army"
@@ -63855,6 +64025,12 @@
       "domain": "allegro.pl-oferta5827400.icu",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-oferta5829131.icu",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -64167,6 +64343,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta616124798.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta616936.icu",
       "sources": [
         "phishing_army"
@@ -64375,6 +64557,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta6339565.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta634442.icu",
       "sources": [
         "phishtank",
@@ -64535,7 +64723,6 @@
     {
       "domain": "allegro.pl-oferta6486527.icu",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -65655,6 +65842,12 @@
       ]
     },
     {
+      "domain": "allegro.pl-oferta7581684.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegro.pl-oferta758307.cyou",
       "sources": [
         "phishing_army"
@@ -66508,6 +66701,12 @@
     },
     {
       "domain": "allegro.pl-oferta82168.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-oferta8230518.icu",
       "sources": [
         "phishing_army"
       ]
@@ -67700,12 +67899,6 @@
     },
     {
       "domain": "allegro.pl-oferta8941715715.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "allegro.pl-oferta8942390.shop",
       "sources": [
         "phishing_army"
       ]
@@ -69289,6 +69482,12 @@
     },
     {
       "domain": "allegro.pl-oferta9954531.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-oferta9988709.shop",
       "sources": [
         "phishing_army"
       ]
@@ -71073,7 +71272,6 @@
     {
       "domain": "allegro.pl-przedmiot2586346.icu",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -71142,6 +71340,12 @@
     },
     {
       "domain": "allegro.pl-przedmiot9353637.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.pl-przedmiot9636958.icu",
       "sources": [
         "phishing_army"
       ]
@@ -72363,6 +72567,12 @@
     },
     {
       "domain": "allegro.prywatna51259125812.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegro.prywatna5812781.pl",
       "sources": [
         "phishing_army"
       ]
@@ -74602,12 +74812,6 @@
     },
     {
       "domain": "allegrolokalne.pl-9455645786.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "allegrolokalne.pl-94823.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -78140,6 +78344,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.983574.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.98412-59125.sbs",
       "sources": [
         "phishing_army"
@@ -79144,7 +79354,6 @@
     {
       "domain": "allegrolokalnie.kategoria-okazja-38912.sbs",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -79225,7 +79434,6 @@
     {
       "domain": "allegrolokalnie.kategoria-tablety-zweryfikowany-sprzedajacy-34892.sbs",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -79961,6 +80169,12 @@
     },
     {
       "domain": "allegrolokalnie.kategorie-rowerowe-id782019.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.kategorie-rowerowe-id910871.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -81621,12 +81835,6 @@
       ]
     },
     {
-      "domain": "allegrolokalnie.oferta-8681986.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "allegrolokalnie.oferta-8727826.shop",
       "sources": [
         "phishing_army"
@@ -82942,6 +83150,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.oferta91582712.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.oferta91735.icu",
       "sources": [
         "phishing_army"
@@ -82980,6 +83194,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.oferta9518521.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.oferta9682305.icu",
       "sources": [
         "phishing_army"
@@ -83006,6 +83226,12 @@
     },
     {
       "domain": "allegrolokalnie.oferty-0512897.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.oferty-12051282.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -83269,6 +83495,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.ogloszenie-154676.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.ogloszenie-2193478-firmowe.icu",
       "sources": [
         "phishing_army"
@@ -83301,6 +83533,12 @@
     },
     {
       "domain": "allegrolokalnie.ogloszenie-32f11eg46fppmsty66qxy5.org",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.ogloszenie-32f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -83347,6 +83585,12 @@
       "domain": "allegrolokalnie.ogloszenie-4477949.shop",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.ogloszenie-44f22eg46fppmsty66qxy5.org",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -89883,7 +90127,6 @@
     {
       "domain": "allegrolokalnie.pl-id-oferta-cid767-id16mdgq.shop",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -90245,6 +90488,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-id742356.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-id76789012.icu",
       "sources": [
         "phishing_army"
       ]
@@ -92072,7 +92321,6 @@
     {
       "domain": "allegrolokalnie.pl-kategorie179871247125812985732.shop",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -93208,6 +93456,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-kategorie84716294719042.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-kategorie8476362937268.icu",
       "sources": [
         "phishing_army"
@@ -93420,6 +93674,12 @@
       "domain": "allegrolokalnie.pl-kategorie93844729653.com",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-kategorie947629031742.shop",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -95453,6 +95713,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta1947202.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta194819.cfd",
       "sources": [
         "phishtank",
@@ -95895,6 +96161,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-oferta2315044.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-oferta2316003.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -97431,6 +97703,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta36294.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta3637265497.icu",
       "sources": [
         "phishing_army"
@@ -98907,6 +99185,7 @@
     {
       "domain": "allegrolokalnie.pl-oferta493354.icu",
       "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -98939,7 +99218,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta4949623.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -99051,7 +99329,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta5091153.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -99151,7 +99428,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta5195125837195.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -99533,6 +99809,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta5490096.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta5495761.sbs",
       "sources": [
         "phishing_army"
@@ -99881,6 +100163,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta5729039.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta57314.icu",
       "sources": [
         "phishing_army"
@@ -100062,6 +100350,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-oferta5827400.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-oferta5829131.icu",
       "sources": [
         "phishing_army"
       ]
@@ -100385,6 +100679,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta616124798.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta616936.icu",
       "sources": [
         "phishing_army"
@@ -100624,6 +100924,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-oferta6326635.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-oferta6339565.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -102049,6 +102355,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-oferta7581684.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-oferta758307.cyou",
       "sources": [
         "phishing_army"
@@ -102796,7 +103108,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta7959543.sbs",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -102943,7 +103254,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta8131638.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -103055,6 +103365,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-oferta82168.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-oferta8230518.icu",
       "sources": [
         "phishing_army"
       ]
@@ -104399,12 +104715,6 @@
       ]
     },
     {
-      "domain": "allegrolokalnie.pl-oferta8942390.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "allegrolokalnie.pl-oferta8943641.icu",
       "sources": [
         "phishing_army"
@@ -104447,7 +104757,6 @@
     {
       "domain": "allegrolokalnie.pl-oferta89476780.icu",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -106207,6 +106516,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-oferta9954531.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-oferta9988709.shop",
       "sources": [
         "phishing_army"
       ]
@@ -108427,6 +108742,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.pl-przedmiot9636958.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.pl-r5k72vdx1jcm8lqz94tneo.com",
       "sources": [
         "phishing_army"
@@ -108670,6 +108991,12 @@
     },
     {
       "domain": "allegrolokalnie.pl-smartzakup24.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-smartzakupy-23174.icu",
       "sources": [
         "phishing_army"
       ]
@@ -110709,6 +111036,12 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.prywatna5812781.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.prywatnaaukcja-1502912821.cfd",
       "sources": [
         "phishing_army"
@@ -111653,12 +111986,6 @@
     },
     {
       "domain": "allegronagroda.online",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "allegroonline.shop",
       "sources": [
         "phishing_army"
       ]
@@ -113771,37 +114098,7 @@
       ]
     },
     {
-      "domain": "amazon-001.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon-ai.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "amazon-coin.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon-global.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon-international.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon-iran.net",
       "sources": [
         "phishing_army"
       ]
@@ -113829,18 +114126,6 @@
       "domain": "amazon.com-paygvy.vip",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon.draurangzebabbas.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "amazon.fr.videoprimefrcs.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -113884,6 +114169,13 @@
     {
       "domain": "amazontoptrend.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "amazzon-online.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -117968,6 +118260,13 @@
       ]
     },
     {
+      "domain": "angebote.educadavinci.org",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "angelabirchett.com",
       "sources": [
         "phishing_army"
@@ -120781,6 +121080,13 @@
       ]
     },
     {
+      "domain": "app.635-588.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "app.acessoatendbia.digital",
       "sources": [
         "phishtank",
@@ -120791,12 +121097,6 @@
       "domain": "app.acessoclickajuda.digital",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "app.acessomeuresgate.shop",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -120873,12 +121173,6 @@
       "domain": "app.ajudcompleta.click",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "app.aliexpressworld.cfd",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -121260,6 +121554,12 @@
       ]
     },
     {
+      "domain": "app.netflix-pagoes.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "app.netresgatagora.live",
       "sources": [
         "phishtank",
@@ -121359,7 +121659,6 @@
     {
       "domain": "app.promofonefacilnet.digital",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -121643,12 +121942,6 @@
     },
     {
       "domain": "appeal-account-fb-review-activer-help.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "appeal.businesshelp-helpcenter.com",
       "sources": [
         "phishing_army"
       ]
@@ -123028,12 +123321,6 @@
     },
     {
       "domain": "arakammez.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "arakconsultancy.com",
       "sources": [
         "phishing_army"
       ]
@@ -125239,12 +125526,6 @@
     },
     {
       "domain": "art-playbill.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "art.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -131734,21 +132015,9 @@
       ]
     },
     {
-      "domain": "auth.sspl.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "auth.web-waltconect.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "auth.wellsfrargo-form.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -132092,7 +132361,7 @@
       ]
     },
     {
-      "domain": "autoconfig.corp-google.com",
+      "domain": "autoconfig.netflix-pagoes.com",
       "sources": [
         "phishing_army"
       ]
@@ -132137,12 +132406,6 @@
     },
     {
       "domain": "autodiscover.mutantso.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "autodiscover.track.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -132752,6 +133015,13 @@
     {
       "domain": "avec-coinbase.comparomax.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "aveenoadult-amazonuk.analytics-portals.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -134855,12 +135125,6 @@
       ]
     },
     {
-      "domain": "b35ppp.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "b36a2b1d1ec2d865349509e839de8d63.ip-ddns.com",
       "sources": [
         "phishing_army"
@@ -134875,6 +135139,13 @@
     {
       "domain": "b3ytegridconnect.online",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "b45079.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -135007,6 +135278,13 @@
       "domain": "b8f8a5a3.floorfour.co.uk",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "b8vulptfpoov5djahqlskqza5v3itx3k2byj7zir5t3m3p2ann46a.g8way.io",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -135232,12 +135510,6 @@
     },
     {
       "domain": "babyshampoos.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "bac-reward.icu",
       "sources": [
         "phishing_army"
       ]
@@ -137095,7 +137367,6 @@
     {
       "domain": "bank.250821.top",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -137172,18 +137443,6 @@
     },
     {
       "domain": "bankobet39.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "bankofamerica.com.tp365.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "bankofamerica.emenace.com",
       "sources": [
         "phishing_army"
       ]
@@ -139025,12 +139284,6 @@
     },
     {
       "domain": "bbva-aopwqlwa4rfwjxqr.builder-preview.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "bbva.alertareciente.com",
       "sources": [
         "phishing_army"
       ]
@@ -143124,26 +143377,30 @@
       ]
     },
     {
-      "domain": "bet73027.com",
+      "domain": "bet73004.com",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "bet73057.com",
+      "domain": "bet73022.com",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "bet73080.com",
+      "domain": "bet73082.com",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "bet83080.com",
+      "domain": "bet83076.com",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -144743,7 +145000,6 @@
     {
       "domain": "biggest-cylinder-882841.framer.app",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -145619,43 +145875,13 @@
       ]
     },
     {
-      "domain": "binance-9283.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "binance-crypto.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "binance-fra.com",
       "sources": [
         "phishing_army"
       ]
     },
     {
-      "domain": "binance-gold.app",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "binance-us.info",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "binancecastle.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "binancezj.com",
       "sources": [
         "phishing_army"
       ]
@@ -152427,12 +152653,6 @@
       ]
     },
     {
-      "domain": "bloodsweatart.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "bloodvitals.net",
       "sources": [
         "phishing_army"
@@ -152834,6 +153054,13 @@
     {
       "domain": "bluemoon.ink",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "bluemountcapital.cn",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -153356,6 +153583,12 @@
       "domain": "bnvd1.com",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "bnxlmesj.es-mobile-netflix.com",
+      "sources": [
         "phishing_army"
       ]
     },
@@ -166610,6 +166843,12 @@
       ]
     },
     {
+      "domain": "bvflxjoil.tncuio.cn",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "bvges.site",
       "sources": [
         "phishing_army"
@@ -166635,6 +166874,12 @@
     },
     {
       "domain": "bvtbilverkstad.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "bvzpbwici.x393.cn",
       "sources": [
         "phishing_army"
       ]
@@ -167604,7 +167849,6 @@
     {
       "domain": "c0tliv.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -167846,6 +168090,13 @@
     {
       "domain": "ca67va.8r2hxciu4ct8o0p.78rdy9983n8tmjr869s.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "caa.or.jp",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -171521,6 +171772,13 @@
       ]
     },
     {
+      "domain": "captcha-metaclouds.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "captchachecker.digital",
       "sources": [
         "phishing_army"
@@ -172912,7 +173170,6 @@
     {
       "domain": "cartao.continente.icu",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -175082,12 +175339,6 @@
       ]
     },
     {
-      "domain": "cdbsca.mzpxq.xyz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "cdc-informatique.com",
       "sources": [
         "phishing_army"
@@ -176526,6 +176777,13 @@
     {
       "domain": "center.business-help-polic-use.cfd",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "center.help-page-verify-business.cfd",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -183614,12 +183872,6 @@
       ]
     },
     {
-      "domain": "checkver-cp3.live",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "checkwalletaml.com",
       "sources": [
         "phishing_army"
@@ -188549,6 +188801,13 @@
       ]
     },
     {
+      "domain": "claimfo1n.my.id",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "claimxxs.online",
       "sources": [
         "phishtank",
@@ -192934,6 +193193,20 @@
       ]
     },
     {
+      "domain": "cn.21mbetx.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "cn.314manx.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "cn.mbetx78.com",
       "sources": [
         "openphish",
@@ -194270,6 +194543,13 @@
       ]
     },
     {
+      "domain": "coffeesoftheday.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "coffiesasp.pro",
       "sources": [
         "phishing_army"
@@ -194576,43 +194856,13 @@
       ]
     },
     {
-      "domain": "coinbase-log-in.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "coinbase-login.lt",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "coinbase.cod-cupon.ro",
       "sources": [
         "phishing_army"
       ]
     },
     {
-      "domain": "coinbaselogindesk.blogspot.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "coinbaselogindesk.blogspot.li",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "coinbasereview.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "coinbasewallet-security12.com",
       "sources": [
         "phishing_army"
       ]
@@ -195764,6 +196014,13 @@
       ]
     },
     {
+      "domain": "colegio-arquitectos.com.ar",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "colemantreeserviceofwilliamsburg.com",
       "sources": [
         "phishing_army"
@@ -196510,13 +196767,21 @@
       ]
     },
     {
-      "domain": "com-oferta185383.pl",
+      "domain": "com-calwl.click",
       "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
     {
-      "domain": "com-subscriptions.manager2981678914.hewittinstallations.com.au",
+      "domain": "com-calwls.click",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "com-oferta185383.pl",
       "sources": [
         "phishing_army"
       ]
@@ -199499,12 +199764,6 @@
       ]
     },
     {
-      "domain": "connect.assetsbeacons.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "connect07-logic.xyz",
       "sources": [
         "phishing_army"
@@ -200681,7 +200940,6 @@
     {
       "domain": "consultasobremilhas.digital",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -206466,6 +206724,12 @@
       ]
     },
     {
+      "domain": "craif.appli-basil.fr",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "cramasheat.pro",
       "sources": [
         "phishing_army"
@@ -210836,13 +211100,6 @@
       ]
     },
     {
-      "domain": "cubroundmall.com",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "cuccecelti.pro",
       "sources": [
         "phishing_army"
@@ -211048,12 +211305,6 @@
     },
     {
       "domain": "cuemossband.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "cuen.taaots.com",
       "sources": [
         "phishing_army"
       ]
@@ -212750,6 +213001,13 @@
       ]
     },
     {
+      "domain": "customersupportservice.xyz",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "custometchingandengraving.com",
       "sources": [
         "phishing_army"
@@ -214051,6 +214309,12 @@
     },
     {
       "domain": "cykupue.info",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "cyldvksi.es-mobile-netflix.com",
       "sources": [
         "phishing_army"
       ]
@@ -221000,42 +221264,6 @@
       ]
     },
     {
-      "domain": "ddsv-dk.cfd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ddsv-dk.cyou",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ddsv-dk.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ddsv-dk.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ddsv-dk.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ddsv-dk.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ddv-tobe.com",
       "sources": [
         "phishing_army"
@@ -224324,6 +224552,13 @@
       ]
     },
     {
+      "domain": "delta-control.es",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "delta-dioxa.com",
       "sources": [
         "phishing_army"
@@ -224693,12 +224928,6 @@
     },
     {
       "domain": "demo-pg.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "demo.coinsbase.vip",
       "sources": [
         "phishing_army"
       ]
@@ -227420,12 +227649,6 @@
       ]
     },
     {
-      "domain": "device.microsoftadmiininc.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "device.mysign-mircrosoft.com",
       "sources": [
         "phishtank",
@@ -229087,12 +229310,6 @@
     },
     {
       "domain": "diatosabin.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "diazdeleong.com",
       "sources": [
         "phishing_army"
       ]
@@ -233701,12 +233918,6 @@
       ]
     },
     {
-      "domain": "discordapp.tera.gg",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "discordname.com",
       "sources": [
         "phishing_army"
@@ -237051,42 +237262,6 @@
       ]
     },
     {
-      "domain": "dk-post-posstnord.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dk-post-posstnorrd.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dk-post-possttnord.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dk-post-postnord.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dk-post-ppostnord.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dk-post-ppostnorrd.club",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "dk.rscotorraras.click",
       "sources": [
         "phishtank",
@@ -237747,6 +237922,13 @@
       ]
     },
     {
+      "domain": "docs.lighting.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "docs.testarmy.com.pl",
       "sources": [
         "phishing_army"
@@ -237760,12 +237942,6 @@
     },
     {
       "domain": "docshubs.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "docspreview.acciotech.company",
       "sources": [
         "phishing_army"
       ]
@@ -237794,7 +237970,6 @@
     {
       "domain": "doctolibfr.info",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -239886,12 +240061,6 @@
     },
     {
       "domain": "dosjuansfinefood.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "doska.tv",
       "sources": [
         "phishing_army"
       ]
@@ -244448,6 +244617,13 @@
       ]
     },
     {
+      "domain": "drvlkh.cn",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "dryacneskin.com",
       "sources": [
         "phishing_army"
@@ -244701,30 +244877,6 @@
     },
     {
       "domain": "dssraffle.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dssvv-dk.cfd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dssvv-dk.cyou",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dssvv-dk.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "dssvv-dk.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -246861,6 +247013,13 @@
       ]
     },
     {
+      "domain": "dyyyd.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "dyzenft.com",
       "sources": [
         "phishing_army"
@@ -247054,6 +247213,13 @@
     {
       "domain": "e-paka.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "e-r.cc",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -247649,12 +247815,6 @@
       ]
     },
     {
-      "domain": "earncash.myfunnelish.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "earnedaid.com",
       "sources": [
         "phishing_army"
@@ -247741,6 +247901,13 @@
     {
       "domain": "easierbookmarketing.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "easliyekamu.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -250428,6 +250595,12 @@
     },
     {
       "domain": "edifiscagl.pro",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "edifivecch.pro",
       "sources": [
         "phishing_army"
       ]
@@ -253786,12 +253959,6 @@
       ]
     },
     {
-      "domain": "email.cvlindia.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "email.dependency.digital",
       "sources": [
         "phishing_army"
@@ -254180,12 +254347,6 @@
     },
     {
       "domain": "emberrift.site",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "embershade.site",
       "sources": [
         "phishing_army"
       ]
@@ -259189,6 +259350,13 @@
       ]
     },
     {
+      "domain": "ept.devlx.in",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "epukdx.pro",
       "sources": [
         "phishing_army"
@@ -259341,6 +259509,13 @@
     {
       "domain": "equipconce.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "equiposmedicos.mx",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -260543,12 +260718,6 @@
       "domain": "esl-org-login1.sbs",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "esl-org-support1.sbs",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -263976,12 +264145,6 @@
       ]
     },
     {
-      "domain": "event-sdata-microsoft.live",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "event.ionutmesaros.com",
       "sources": [
         "phishing_army"
@@ -264846,12 +265009,6 @@
       "domain": "evrihyw.sbs",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "evriiuk09.click",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -267706,6 +267863,13 @@
       ]
     },
     {
+      "domain": "face-promotion.digital",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "facebokmaketplce.click",
       "sources": [
         "phishing_army"
@@ -267715,18 +267879,6 @@
       "domain": "facebook.autherization.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook.badarbukhari.dev",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook.com.combotrades.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -274574,6 +274726,13 @@
       ]
     },
     {
+      "domain": "fibertelperu.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "fibriabbru.pro",
       "sources": [
         "phishing_army"
@@ -280763,7 +280922,6 @@
     {
       "domain": "florida.revenue-xo.cc",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -284126,6 +284284,18 @@
     },
     {
       "domain": "forinfinityjewelry.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "forispotify.top",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "forispotify.vip",
       "sources": [
         "phishing_army"
       ]
@@ -288759,6 +288929,13 @@
       ]
     },
     {
+      "domain": "frontlineexports.in",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "frontlineflashreport.pro",
       "sources": [
         "phishing_army"
@@ -289861,12 +290038,6 @@
       ]
     },
     {
-      "domain": "ftb.ca-mq.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ftb.ca-nk.cc",
       "sources": [
         "phishtank",
@@ -290018,12 +290189,6 @@
     },
     {
       "domain": "ftp.showoffimports.nl",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ftp.supportplaystore-google.com",
       "sources": [
         "phishing_army"
       ]
@@ -292581,12 +292746,6 @@
       ]
     },
     {
-      "domain": "future-wealth.info",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "future0innovators.top",
       "sources": [
         "phishing_army"
@@ -293436,6 +293595,13 @@
       ]
     },
     {
+      "domain": "fxohcoapp.marlabsqbteam.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "fxonetapp.com",
       "sources": [
         "phishing_army"
@@ -293825,6 +293991,13 @@
     {
       "domain": "g42-profit.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "g48x3.cyou",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -296052,7 +296225,6 @@
     {
       "domain": "gardenroomsbyhgframework.co.uk",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -302018,6 +302190,13 @@
       ]
     },
     {
+      "domain": "gks-interiors.co.uk",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "gkuc17.cfd",
       "sources": [
         "phishtank",
@@ -303704,7 +303883,6 @@
     {
       "domain": "global-darlings-153491.framer.app",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -308580,31 +308758,7 @@
       ]
     },
     {
-      "domain": "google-test.de-24.biz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "google-ukr.lol",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "google.alagado.world",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "google.com.gbd.pw",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "google.dimensione.bar",
       "sources": [
         "phishing_army"
       ]
@@ -309432,12 +309586,6 @@
     },
     {
       "domain": "gov.polandtheme.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "gov.uk-dwpnf.icu",
       "sources": [
         "phishing_army"
       ]
@@ -315656,8 +315804,9 @@
       ]
     },
     {
-      "domain": "grupocorreosenvio-ps.wpdevcloud.com",
+      "domain": "grupocopesa.com.mx",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -318185,12 +318334,6 @@
       ]
     },
     {
-      "domain": "h5.bymembers.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "h5jewk.lat",
       "sources": [
         "phishing_army"
@@ -319250,6 +319393,13 @@
     {
       "domain": "halvingaiapp.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "hamamammamamamaama2451.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -321345,12 +321495,6 @@
       ]
     },
     {
-      "domain": "hbgumdv.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "hbheeys.cn",
       "sources": [
         "phishtank",
@@ -321500,6 +321644,13 @@
     {
       "domain": "hdeinvestments.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "hdiahbrimofstvlkupon.hbcs.biz.id",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -324677,12 +324828,6 @@
       ]
     },
     {
-      "domain": "hezukio.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "hffabricaciones.com",
       "sources": [
         "phishtank",
@@ -325491,12 +325636,6 @@
     },
     {
       "domain": "hijacimpal.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "hijaku.cn",
       "sources": [
         "phishing_army"
       ]
@@ -327656,12 +327795,6 @@
       ]
     },
     {
-      "domain": "homanobrieniesafesecuredocument.groupcodex.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "homazu-zoniyo.site",
       "sources": [
         "phishing_army"
@@ -328173,12 +328306,6 @@
       ]
     },
     {
-      "domain": "homenestlerxdkartalflex3.cloud",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "homepladministrations.befconsulting.com.pl",
       "sources": [
         "phishing_army"
@@ -328309,7 +328436,6 @@
     {
       "domain": "hometrade-nomura.15kng8.top",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -328412,15 +328538,8 @@
       ]
     },
     {
-      "domain": "hometrade-nomura.9mwcky.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "hometrade-nomura.9vdhn.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -328463,12 +328582,6 @@
       "domain": "hometrade-nomura.loy9ay.top",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "hometrade-nomura.r1l3l1.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -329816,31 +329929,7 @@
       ]
     },
     {
-      "domain": "hostmaster.amazon-recovery-account.co",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "hostmaster.amazon-relay.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "hostmaster.bantofamerica.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "hostmaster.espaces-amazon-fr.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "hostmaster.notice-bankofamerica.com",
       "sources": [
         "phishing_army"
       ]
@@ -331057,6 +331146,12 @@
     },
     {
       "domain": "hselzemzebb.top",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "hsemzl.info",
       "sources": [
         "phishing_army"
       ]
@@ -334197,6 +334292,13 @@
       ]
     },
     {
+      "domain": "hystove.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "hytewi.site",
       "sources": [
         "phishing_army"
@@ -334415,12 +334517,6 @@
     },
     {
       "domain": "i-zip.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "i.marcofacebook.com",
       "sources": [
         "phishing_army"
       ]
@@ -334851,7 +334947,6 @@
     {
       "domain": "ibl.ad2.mytemp.website",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -335167,31 +335262,7 @@
       ]
     },
     {
-      "domain": "icloud-ma.tr",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "icloud.com.bo",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "icloud.phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "icloud.phone-appl.us",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "icloudservers.com",
       "sources": [
         "phishing_army"
       ]
@@ -338144,12 +338215,6 @@
     },
     {
       "domain": "ilyatti.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "im-t4ke0n.info",
       "sources": [
         "phishing_army"
       ]
@@ -343486,6 +343551,13 @@
       ]
     },
     {
+      "domain": "impalauplifts.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "impaldalli.pro",
       "sources": [
         "phishing_army"
@@ -345046,6 +345118,20 @@
     {
       "domain": "imtiarlec.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "imtioken.im",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "imtoketn.im",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -346876,12 +346962,6 @@
       "domain": "indiapost-in-govin.sbs",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "indiapostnews.cc",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -350256,12 +350336,6 @@
       "domain": "infotecnikas.es",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "infotex-promet.hr",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -356188,12 +356262,6 @@
       ]
     },
     {
-      "domain": "insight.cashplus-new-window.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "insight5scope.top",
       "sources": [
         "phishing_army"
@@ -357169,6 +357237,20 @@
     {
       "domain": "instaggram.wuaze.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "instagram-jobs.cc",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "instagram-love.cc",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -359382,12 +359464,6 @@
     },
     {
       "domain": "insurplansguide.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "insurtechs.company",
       "sources": [
         "phishing_army"
       ]
@@ -363155,12 +363231,6 @@
       ]
     },
     {
-      "domain": "invweb07acc.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "inwayhosting.com",
       "sources": [
         "phishtank",
@@ -363449,6 +363519,12 @@
     },
     {
       "domain": "iolanatasokich.xyz",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "iolo.paypal-japan.antimoney-laundering.org",
       "sources": [
         "phishing_army"
       ]
@@ -364305,12 +364381,6 @@
     },
     {
       "domain": "iqoptionindicatorpro.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "iqovtk.cn",
       "sources": [
         "phishing_army"
       ]
@@ -365582,6 +365652,12 @@
       ]
     },
     {
+      "domain": "ispotify8.vip",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "ispotpl.com",
       "sources": [
         "phishing_army"
@@ -365975,6 +366051,20 @@
       ]
     },
     {
+      "domain": "itau-bet.org",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "itau-web.nadineconseriere.nl",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "itau.work",
       "sources": [
         "phishtank",
@@ -366173,6 +366263,13 @@
     {
       "domain": "itimoksham.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "itinerarios.cfd",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -367155,12 +367252,6 @@
     },
     {
       "domain": "j5pl.lol",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "j5q.795.mytemp.website",
       "sources": [
         "phishing_army"
       ]
@@ -368224,6 +368315,13 @@
       ]
     },
     {
+      "domain": "japan-aotucheck.index-sign.pmvw.top",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "japan-mortgage.com",
       "sources": [
         "phishing_army"
@@ -368633,31 +368731,7 @@
       ]
     },
     {
-      "domain": "jatos-particulares-0324.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "jatos-particulares-03241.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "jatos-particulares-20790.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "jatos-particulares-266.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "jatos-particulares-271.click",
       "sources": [
         "phishing_army"
       ]
@@ -368694,12 +368768,6 @@
     },
     {
       "domain": "jatos-particulares-64811.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "jatos-particulares-745.click",
       "sources": [
         "phishing_army"
       ]
@@ -369119,6 +369187,13 @@
     {
       "domain": "jcmwebsitedesign.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "jcokzph.com",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -374105,6 +374180,13 @@
       ]
     },
     {
+      "domain": "jpmarketinglanding.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "jport.maliktrader.net",
       "sources": [
         "phishing_army"
@@ -377815,12 +377897,6 @@
       ]
     },
     {
-      "domain": "kaoribunko.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "kaoshaven.com",
       "sources": [
         "phishing_army"
@@ -378905,6 +378981,12 @@
       ]
     },
     {
+      "domain": "kategorie-rowerowe-id910871.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "katemarielashes.com",
       "sources": [
         "phishing_army"
@@ -379532,6 +379614,12 @@
     },
     {
       "domain": "kdskkeew.xyz",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "kdvzswcq.es-mobile-netflix.com",
       "sources": [
         "phishing_army"
       ]
@@ -382490,12 +382578,6 @@
       ]
     },
     {
-      "domain": "kino.sspl.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "kinopto.com",
       "sources": [
         "phishing_army"
@@ -383081,6 +383163,13 @@
       ]
     },
     {
+      "domain": "kjt365.yunwing.vip",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "kjx5s7ebcnl1ygf.playuwa.pl",
       "sources": [
         "phishing_army"
@@ -383628,12 +383717,6 @@
     },
     {
       "domain": "klmnlvipe.work",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "klmsx.com",
       "sources": [
         "phishing_army"
       ]
@@ -384239,6 +384322,14 @@
     {
       "domain": "kmgholdingsllc.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "kmllkmsjd72hh.sbs",
+      "sources": [
+        "openphish",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -385963,6 +386054,13 @@
     {
       "domain": "kounytre.site",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "kouwakai-kougeibijyutsu.jp",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -392220,13 +392318,6 @@
       ]
     },
     {
-      "domain": "lbmdq.cn",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "lbqx46.sbs",
       "sources": [
         "phishtank",
@@ -392430,12 +392521,6 @@
     },
     {
       "domain": "le2pmt.lat",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "le48.paris",
       "sources": [
         "phishing_army"
       ]
@@ -393202,6 +393287,13 @@
     {
       "domain": "lecchinneg.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "lechat-prestation.fr",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -395742,6 +395834,13 @@
       ]
     },
     {
+      "domain": "lgxtmd.cn",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "lgylj.cn",
       "sources": [
         "phishtank",
@@ -396135,6 +396234,13 @@
     {
       "domain": "lichtpaynex.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "licitacionesaws.bienes.cl",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -397866,6 +397972,13 @@
       ]
     },
     {
+      "domain": "line-chinese.net",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "line-now-news.top",
       "sources": [
         "phishing_army"
@@ -397970,6 +398083,13 @@
     {
       "domain": "linesbend.lat",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "linestore.cc",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -404069,6 +404189,13 @@
       ]
     },
     {
+      "domain": "login0365organizationsigning.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "login438939893289user-fax3829w.uniunl.com",
       "sources": [
         "phishing_army"
@@ -404198,6 +404325,13 @@
     {
       "domain": "logins.exklusivtransport-vechta.de",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "loginsoutlookmidstreams.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -404662,6 +404796,13 @@
     {
       "domain": "lolefoe.top",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "lolibit.sbs",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -407422,7 +407563,6 @@
     {
       "domain": "lpctt.cn",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -411804,24 +411944,6 @@
       ]
     },
     {
-      "domain": "m.988648-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.access.barclays-co-uk.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.accounts.google.com.gbd.pw",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "m.allegrolokalnie.promowane-ogloszenia889.shop",
       "sources": [
         "phishing_army"
@@ -411834,31 +411956,7 @@
       ]
     },
     {
-      "domain": "m.bankofamerica.com.tp365.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.bbva.alertareciente.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.coinsbase.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "m.dovmkb.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.facebook.com.combotrades.com",
       "sources": [
         "phishing_army"
       ]
@@ -411882,25 +411980,13 @@
       ]
     },
     {
-      "domain": "m.google.descargatelocorp.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "m.grek.me",
       "sources": [
         "phishing_army"
       ]
     },
     {
-      "domain": "m.icloud.phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.insight.cashplus-new-window.com",
+      "domain": "m.helscasa.com",
       "sources": [
         "phishing_army"
       ]
@@ -411912,39 +411998,9 @@
       ]
     },
     {
-      "domain": "m.netflix-reactivation.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "m.pge.link",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.phone-appl.us",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.rustore.coinsbase.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "m.smicrosoft.office.365suite.us",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -413774,37 +413830,7 @@
       ]
     },
     {
-      "domain": "mail1.sspl.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mail2.lectec.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "maildiellweb.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mailer.sspl.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mailin.lectec.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mailin.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -413863,12 +413889,6 @@
     },
     {
       "domain": "mailsonlyevents.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mailsrv.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -415308,21 +415328,9 @@
       ]
     },
     {
-      "domain": "malisorgugov.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "malivraison-planifier.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mallalliancen02.shop",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -415632,6 +415640,13 @@
     {
       "domain": "manageablefd.info",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "manageaccntswebappsecuredfhdf.uranium2.biz.id",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -418051,6 +418066,13 @@
     {
       "domain": "marmosperg.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "marn.connecticuttfc.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -421003,12 +421025,6 @@
       ]
     },
     {
-      "domain": "mebay.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "mebdco.com",
       "sources": [
         "phishing_army"
@@ -422716,13 +422732,6 @@
     {
       "domain": "mekkyfurniture.com",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mekongsling.com",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -425332,12 +425341,6 @@
       ]
     },
     {
-      "domain": "metamak.gt.tc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "metamask-identity.com",
       "sources": [
         "phishing_army"
@@ -425370,7 +425373,7 @@
       ]
     },
     {
-      "domain": "metamaskconnect.org",
+      "domain": "metamaskuk.top",
       "sources": [
         "phishing_army"
       ]
@@ -426759,18 +426762,6 @@
       ]
     },
     {
-      "domain": "microsoft.am-industriesltd.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "microsoft.office.365suite.us",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "microsoft.userid-81d.ws",
       "sources": [
         "phishtank",
@@ -426785,12 +426776,6 @@
     },
     {
       "domain": "microsoftaiinvest.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "microsoftauthenticator.net",
       "sources": [
         "phishing_army"
       ]
@@ -430129,12 +430114,6 @@
       ]
     },
     {
-      "domain": "mj.net.br",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "mj29a.pl",
       "sources": [
         "phishing_army"
@@ -430243,12 +430222,6 @@
     },
     {
       "domain": "mku.vinebleac.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mkuc-creneau.com",
       "sources": [
         "phishing_army"
       ]
@@ -435292,12 +435265,6 @@
       ]
     },
     {
-      "domain": "mqhshh.club",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "mqtapp.top",
       "sources": [
         "phishing_army"
@@ -435597,12 +435564,6 @@
     },
     {
       "domain": "mrtv.com.pl",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ms888.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -437423,6 +437384,13 @@
       ]
     },
     {
+      "domain": "mxapp46.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "mxbgg.icu",
       "sources": [
         "phishing_army"
@@ -437458,6 +437426,13 @@
       "domain": "mxtalkradio.com",
       "sources": [
         "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "mxvip9.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -438202,12 +438177,6 @@
       ]
     },
     {
-      "domain": "myhermes20.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "myhermes93.help",
       "sources": [
         "phishtank",
@@ -438292,6 +438261,14 @@
     {
       "domain": "myhotelstayportal.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "myid-telstra.flutterflow.app",
+      "sources": [
+        "openphish",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -438921,12 +438898,6 @@
     },
     {
       "domain": "mysecureml.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "mysecurity-google.com",
       "sources": [
         "phishing_army"
       ]
@@ -442445,6 +442416,13 @@
       ]
     },
     {
+      "domain": "ncpjrod.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "ncplantdoctor.com",
       "sources": [
         "phishing_army"
@@ -445094,27 +445072,9 @@
       ]
     },
     {
-      "domain": "netflix.adhi.live",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "netflix.guia-renovacion.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "netflix.koreanbeauty.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "netflix.pardheev.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -453016,6 +452976,13 @@
       ]
     },
     {
+      "domain": "nimbus-thepalmvillage.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "nimbusfield.online",
       "sources": [
         "phishing_army"
@@ -457358,6 +457325,12 @@
       ]
     },
     {
+      "domain": "notb9gt.phruah.cn",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "notcaptcha-metacloud.com",
       "sources": [
         "phishtank",
@@ -458745,12 +458718,6 @@
       ]
     },
     {
-      "domain": "novobanco.alertmessageinstant.cfd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "novobanco.world",
       "sources": [
         "phishtank",
@@ -459330,6 +459297,13 @@
       ]
     },
     {
+      "domain": "nozomicoach.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "nozycey8.pro",
       "sources": [
         "phishing_army"
@@ -459722,7 +459696,6 @@
     {
       "domain": "nttyjr.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -460058,6 +460031,12 @@
     },
     {
       "domain": "nuliya.xyz",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "nulkgk.wa381.cn",
       "sources": [
         "phishing_army"
       ]
@@ -464559,12 +464538,6 @@
       ]
     },
     {
-      "domain": "oferta-8681986.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "oferta-8727826.shop",
       "sources": [
         "phishing_army"
@@ -465465,6 +465438,12 @@
       ]
     },
     {
+      "domain": "oferta91582712.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "oferta91735.icu",
       "sources": [
         "phishing_army"
@@ -465501,6 +465480,12 @@
       ]
     },
     {
+      "domain": "oferta9518521.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "oferta9821435.cfd",
       "sources": [
         "phishing_army"
@@ -465527,6 +465512,12 @@
     },
     {
       "domain": "oferty-0512897.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "oferty-12051282.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -465690,12 +465681,6 @@
     },
     {
       "domain": "office-al.jp",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "office-rec0nnect.serveirc.com",
       "sources": [
         "phishing_army"
       ]
@@ -466353,6 +466338,12 @@
       ]
     },
     {
+      "domain": "ogloszenie-154676.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "ogloszenie-2228789.shop",
       "sources": [
         "phishing_army"
@@ -466384,6 +466375,12 @@
     },
     {
       "domain": "ogloszenie-32f11eg46fppmsty66qxy5.org",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "ogloszenie-32f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -466426,6 +466423,12 @@
     },
     {
       "domain": "ogloszenie-4477949.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "ogloszenie-44f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -466534,12 +466537,6 @@
     },
     {
       "domain": "ogloszenie-671553.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ogloszenie-7219610.shop",
       "sources": [
         "phishing_army"
       ]
@@ -469118,6 +469115,14 @@
     {
       "domain": "olitesix.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olive-cogwheel-033434.framer.app",
+      "sources": [
+        "openphish",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -473151,6 +473156,12 @@
       ]
     },
     {
+      "domain": "olx.kategorie-rowerowe-id910871.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.katlegoria-inne-20cxb8n7.rest",
       "sources": [
         "phishing_army"
@@ -474429,12 +474440,6 @@
       ]
     },
     {
-      "domain": "olx.oferta-8681986.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "olx.oferta-8727826.shop",
       "sources": [
         "phishing_army"
@@ -475329,6 +475334,12 @@
       ]
     },
     {
+      "domain": "olx.oferta91582712.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.oferta91735.icu",
       "sources": [
         "phishing_army"
@@ -475359,6 +475370,12 @@
       ]
     },
     {
+      "domain": "olx.oferta9518521.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.oferta9821435.cfd",
       "sources": [
         "phishing_army"
@@ -475372,6 +475389,12 @@
     },
     {
       "domain": "olx.oferty-0512897.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.oferty-12051282.cfd",
       "sources": [
         "phishing_army"
       ]
@@ -475449,6 +475472,12 @@
       ]
     },
     {
+      "domain": "olx.ogloszenie-154676.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.ogloszenie-2228789.shop",
       "sources": [
         "phishing_army"
@@ -475480,6 +475509,12 @@
     },
     {
       "domain": "olx.ogloszenie-32f11eg46fppmsty66qxy5.org",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.ogloszenie-32f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -475522,6 +475557,12 @@
     },
     {
       "domain": "olx.ogloszenie-4477949.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.ogloszenie-44f22eg46fppmsty66qxy5.org",
       "sources": [
         "phishing_army"
       ]
@@ -475630,12 +475671,6 @@
     },
     {
       "domain": "olx.ogloszenie-671553.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "olx.ogloszenie-7219610.shop",
       "sources": [
         "phishing_army"
       ]
@@ -482032,6 +482067,12 @@
       ]
     },
     {
+      "domain": "olx.pl-kategorie84716294719042.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-kategorie8476362937268.icu",
       "sources": [
         "phishing_army"
@@ -482237,6 +482278,12 @@
     },
     {
       "domain": "olx.pl-kategorie93844729653.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-kategorie947629031742.shop",
       "sources": [
         "phishing_army"
       ]
@@ -483922,6 +483969,12 @@
       ]
     },
     {
+      "domain": "olx.pl-oferta1947202.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-oferta194819.cfd",
       "sources": [
         "phishing_army"
@@ -484295,6 +484348,12 @@
     },
     {
       "domain": "olx.pl-oferta2315044.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta2316003.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -485687,6 +485746,12 @@
     },
     {
       "domain": "olx.pl-oferta3623964.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta36294.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -487504,6 +487569,12 @@
       ]
     },
     {
+      "domain": "olx.pl-oferta5490096.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-oferta5495761.sbs",
       "sources": [
         "phishing_army"
@@ -487822,6 +487893,12 @@
       ]
     },
     {
+      "domain": "olx.pl-oferta5729039.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-oferta57314.icu",
       "sources": [
         "phishing_army"
@@ -487973,6 +488050,12 @@
     },
     {
       "domain": "olx.pl-oferta5827400.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta5829131.icu",
       "sources": [
         "phishing_army"
       ]
@@ -488272,6 +488355,12 @@
       ]
     },
     {
+      "domain": "olx.pl-oferta616124798.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-oferta616936.icu",
       "sources": [
         "phishing_army"
@@ -488471,6 +488560,12 @@
     },
     {
       "domain": "olx.pl-oferta6326635.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta6339565.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -489736,6 +489831,12 @@
       ]
     },
     {
+      "domain": "olx.pl-oferta7581684.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-oferta758307.cyou",
       "sources": [
         "phishing_army"
@@ -490571,6 +490672,12 @@
     },
     {
       "domain": "olx.pl-oferta82168.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta8230518.icu",
       "sources": [
         "phishing_army"
       ]
@@ -491711,12 +491818,6 @@
     },
     {
       "domain": "olx.pl-oferta8941715715.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "olx.pl-oferta8942390.shop",
       "sources": [
         "phishing_army"
       ]
@@ -493235,6 +493336,12 @@
     },
     {
       "domain": "olx.pl-oferta9954531.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.pl-oferta9988709.shop",
       "sources": [
         "phishing_army"
       ]
@@ -495256,6 +495363,12 @@
       ]
     },
     {
+      "domain": "olx.pl-przedmiot9636958.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx.pl-r5k72vdx1jcm8lqz94tneo.com",
       "sources": [
         "phishing_army"
@@ -496625,6 +496738,12 @@
     },
     {
       "domain": "olx.prywatna51259125812.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "olx.prywatna5812781.pl",
       "sources": [
         "phishing_army"
       ]
@@ -502831,12 +502950,6 @@
       ]
     },
     {
-      "domain": "order56299.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "order9.co.kr",
       "sources": [
         "phishtank",
@@ -505395,18 +505508,6 @@
       ]
     },
     {
-      "domain": "outlook1203840780elgn.onlinaeansaoiasisjoucjiodsjioajoidijdu.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "outlook1203840780euhg.onlinaeansaoiasisjoucjiodsjioajoidijdu.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "outloomist.com",
       "sources": [
         "phishing_army"
@@ -505722,12 +505823,6 @@
     },
     {
       "domain": "outthcount.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "outtlook.kenya-airways-co.com",
       "sources": [
         "phishing_army"
       ]
@@ -508096,12 +508191,6 @@
       ]
     },
     {
-      "domain": "pagseguro-reducaodetaxa.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pahamay.com",
       "sources": [
         "phishing_army"
@@ -508672,12 +508761,6 @@
       ]
     },
     {
-      "domain": "pajikie.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pajiwuziba.com",
       "sources": [
         "phishing_army"
@@ -509241,12 +509324,6 @@
       ]
     },
     {
-      "domain": "palrnerta.wixstudio.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pals-ngo.com",
       "sources": [
         "phishing_army"
@@ -509393,12 +509470,6 @@
     },
     {
       "domain": "panasonic-ads.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "pancakeswap.gho-v4.com",
       "sources": [
         "phishing_army"
       ]
@@ -511170,12 +511241,6 @@
       "domain": "parking-pcnqo.group",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "parking-pcnqp.shop",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -513090,6 +513155,12 @@
       ]
     },
     {
+      "domain": "pattigiace.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pattindales.com",
       "sources": [
         "phishing_army"
@@ -513582,12 +513653,6 @@
       ]
     },
     {
-      "domain": "pay.cursosonlines.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pay.digitaltransacionamento.online",
       "sources": [
         "phishtank",
@@ -513744,6 +513809,13 @@
       ]
     },
     {
+      "domain": "pay.operacoestransacionais.online",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pay.orlandooncrypto.store",
       "sources": [
         "phishtank",
@@ -513773,13 +513845,6 @@
     },
     {
       "domain": "pay.portal-segurocn.site",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "pay.pucrspagamento.site",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -514372,6 +514437,12 @@
       ]
     },
     {
+      "domain": "paypal-parser.netflix-paiement-en-ligne.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "paypal-securecheck-update.com",
       "sources": [
         "phishtank",
@@ -514387,18 +514458,6 @@
     },
     {
       "domain": "paypal.com-websppsc-verification.epsilons.co",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "paypal.secureupdate.us",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "paypall-securlty.com",
       "sources": [
         "phishing_army"
       ]
@@ -518850,12 +518909,6 @@
       ]
     },
     {
-      "domain": "perisaiagency.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "periscanno.pro",
       "sources": [
         "phishing_army"
@@ -519826,7 +519879,6 @@
     {
       "domain": "petite-egypt-hundreds.on-fleek.app",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -520553,6 +520605,13 @@
       ]
     },
     {
+      "domain": "pharmaciedesbuis.fr",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pharmafresher.com",
       "sources": [
         "phishing_army"
@@ -520999,18 +521058,6 @@
     },
     {
       "domain": "phogre.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "phone-appl.us",
       "sources": [
         "phishing_army"
       ]
@@ -521565,12 +521612,6 @@
     },
     {
       "domain": "phroperty.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "phs-reunion.com",
       "sources": [
         "phishing_army"
       ]
@@ -523762,7 +523803,6 @@
     {
       "domain": "pinkandlime.com.au",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -528268,6 +528308,12 @@
       ]
     },
     {
+      "domain": "pl-id76789012.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-id8183.cfd",
       "sources": [
         "phishing_army"
@@ -530944,6 +530990,12 @@
       ]
     },
     {
+      "domain": "pl-kategorie84716294719042.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-kategorie8476362937268.icu",
       "sources": [
         "phishing_army"
@@ -531149,6 +531201,12 @@
     },
     {
       "domain": "pl-kategorie93844729653.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-kategorie947629031742.shop",
       "sources": [
         "phishing_army"
       ]
@@ -532840,6 +532898,12 @@
       ]
     },
     {
+      "domain": "pl-oferta1947202.cyou",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-oferta194819.cfd",
       "sources": [
         "phishing_army"
@@ -533207,6 +533271,12 @@
     },
     {
       "domain": "pl-oferta2315044.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta2316003.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -534527,6 +534597,12 @@
     },
     {
       "domain": "pl-oferta3623964.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta36294.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -536254,6 +536330,12 @@
       ]
     },
     {
+      "domain": "pl-oferta5490096.shop",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-oferta5495761.sbs",
       "sources": [
         "phishing_army"
@@ -536578,6 +536660,12 @@
       ]
     },
     {
+      "domain": "pl-oferta5729039.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-oferta57314.icu",
       "sources": [
         "phishing_army"
@@ -536729,6 +536817,12 @@
     },
     {
       "domain": "pl-oferta5827400.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta5829131.icu",
       "sources": [
         "phishing_army"
       ]
@@ -537028,6 +537122,12 @@
       ]
     },
     {
+      "domain": "pl-oferta616124798.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-oferta616936.icu",
       "sources": [
         "phishing_army"
@@ -537215,6 +537315,12 @@
     },
     {
       "domain": "pl-oferta6324120.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta6339565.sbs",
       "sources": [
         "phishing_army"
       ]
@@ -538450,6 +538556,12 @@
       ]
     },
     {
+      "domain": "pl-oferta7581684.sbs",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-oferta758307.cyou",
       "sources": [
         "phishing_army"
@@ -539207,6 +539319,12 @@
     },
     {
       "domain": "pl-oferta82168.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta8230518.icu",
       "sources": [
         "phishing_army"
       ]
@@ -540305,12 +540423,6 @@
     },
     {
       "domain": "pl-oferta8941715715.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "pl-oferta8942390.shop",
       "sources": [
         "phishing_army"
       ]
@@ -541799,6 +541911,12 @@
     },
     {
       "domain": "pl-oferta9954531.cfd",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-oferta9988709.shop",
       "sources": [
         "phishing_army"
       ]
@@ -543808,6 +543926,12 @@
       ]
     },
     {
+      "domain": "pl-przedmiot9636958.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pl-r5k72vdx1jcm8lqz94tneo.com",
       "sources": [
         "phishing_army"
@@ -544001,6 +544125,12 @@
     },
     {
       "domain": "pl-smartzakup24.icu",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pl-smartzakupy-23174.icu",
       "sources": [
         "phishing_army"
       ]
@@ -555875,12 +556005,6 @@
       ]
     },
     {
-      "domain": "pop3.sspl.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "popalcenter.com",
       "sources": [
         "phishing_army"
@@ -556325,13 +556449,6 @@
     {
       "domain": "portailsblocalede.com",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "portal-arcelormittal.online",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -556901,6 +557018,13 @@
       ]
     },
     {
+      "domain": "posmt2.vets.co.il",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pospocasca.com",
       "sources": [
         "phishing_army"
@@ -557438,12 +557562,6 @@
     },
     {
       "domain": "postkites.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "postmaster.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -559869,6 +559987,14 @@
     {
       "domain": "predictable-career-314429.framer.app",
       "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "predictable-company-245867.framer.app",
+      "sources": [
+        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -566141,12 +566267,6 @@
       ]
     },
     {
-      "domain": "promo.bankofamerica-bank.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "promo.click-streams.com",
       "sources": [
         "phishtank",
@@ -568598,6 +568718,12 @@
       ]
     },
     {
+      "domain": "prywatna5812781.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "przeciekimaturalne2025.pl",
       "sources": [
         "phishing_army"
@@ -568793,6 +568919,13 @@
     {
       "domain": "psdotny.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "psdszz.cn",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -569401,12 +569534,6 @@
       ]
     },
     {
-      "domain": "ptspl.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pttlipnyx.cc",
       "sources": [
         "phishtank",
@@ -569503,6 +569630,14 @@
     {
       "domain": "pub-0001f7c112074f63a483d2423fdd5ab9.r2.dev",
       "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pub-000b0136b2bf42bb8d3dbe25915b5860.r2.dev",
+      "sources": [
+        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -571927,12 +572062,6 @@
       "domain": "pub-2ce06520d2c04b5c87f0b3366ba37bd7.r2.dev",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "pub-2cf8853a390245b490955d6e1788da25.r2.dev",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -574641,6 +574770,13 @@
       ]
     },
     {
+      "domain": "pub-6081b1a66a5f49a19c8e826f7e7870be.r2.dev",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "pub-609041d0f94c469f829e5faf582e4040.r2.dev",
       "sources": [
         "phishtank",
@@ -575516,6 +575652,13 @@
     },
     {
       "domain": "pub-6f65a77143a146c39956cd6d0797a2df.r2.dev",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pub-6f894795dee745cdae53a518ea01c317.r2.dev",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -581674,12 +581817,6 @@
       ]
     },
     {
-      "domain": "pub-e77880c5e4cd44a1b71fa0360befe319.r2.dev",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pub-e7a1b231f25145409249e142fc824ac0.r2.dev",
       "sources": [
         "phishtank",
@@ -582547,6 +582684,13 @@
     },
     {
       "domain": "pub-f6c4e551d5334ba5b117f104b5d69f2f.r2.dev",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "pub-f6d10f39d9a64919bd907c7336679341.r2.dev",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -583870,12 +584014,6 @@
       ]
     },
     {
-      "domain": "pulsebpo.com.br",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "pulsebreeze.pro",
       "sources": [
         "phishing_army"
@@ -584953,6 +585091,13 @@
     {
       "domain": "pureartsupplies.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "purebrillianceadvisors.com",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -587243,13 +587388,6 @@
       ]
     },
     {
-      "domain": "qhckp.cn",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "qhfycdv.cfd",
       "sources": [
         "phishing_army"
@@ -588046,6 +588184,13 @@
       ]
     },
     {
+      "domain": "qr.codes",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "qr.de",
       "sources": [
         "phishtank",
@@ -588067,6 +588212,13 @@
     },
     {
       "domain": "qr.tapnscan.me",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "qr3fkao.cn",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -593253,12 +593405,6 @@
     },
     {
       "domain": "qywert.site",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "qywhsd.gnzcb.xyz",
       "sources": [
         "phishing_army"
       ]
@@ -603360,7 +603506,6 @@
     {
       "domain": "registeridmeirs.us",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -605139,6 +605284,13 @@
     {
       "domain": "remoteartisan.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "remotecall-assemblev2.com",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -609439,6 +609591,12 @@
     },
     {
       "domain": "riagiquino.pro",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "riagupotan.pro",
       "sources": [
         "phishing_army"
       ]
@@ -619767,6 +619925,12 @@
       ]
     },
     {
+      "domain": "rqnjk.yendao.cn",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "rquavegexun.live",
       "sources": [
         "phishing_army"
@@ -619846,12 +620010,6 @@
     },
     {
       "domain": "rsaiampho.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "rsawessnxgg-dbrtradeexpress.replit.app",
       "sources": [
         "phishing_army"
       ]
@@ -621260,12 +621418,6 @@
       ]
     },
     {
-      "domain": "rumuveo.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "run-eum.com",
       "sources": [
         "phishing_army"
@@ -621435,12 +621587,6 @@
     },
     {
       "domain": "ruotaacerb.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ruouvangwinena.vn",
       "sources": [
         "phishing_army"
       ]
@@ -622705,7 +622851,6 @@
     {
       "domain": "s-push-sparkasse.aws-fr-75.xyz",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -622832,12 +622977,6 @@
     },
     {
       "domain": "s.teamd.cfd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "s.teamrk.world",
       "sources": [
         "phishing_army"
       ]
@@ -625372,6 +625511,13 @@
       ]
     },
     {
+      "domain": "safoodsco.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "safoodservicebd.com",
       "sources": [
         "phishing_army"
@@ -627403,12 +627549,6 @@
       ]
     },
     {
-      "domain": "sapp.netflix-security.de",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sappeisner.pro",
       "sources": [
         "phishing_army"
@@ -629314,7 +629454,6 @@
     {
       "domain": "sbisec-co.alilego.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -629587,7 +629726,6 @@
     {
       "domain": "sbiseck.cfd",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -632272,12 +632410,6 @@
       ]
     },
     {
-      "domain": "scomoltyhssjira.amazon-relay.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "scompalfab.com",
       "sources": [
         "phishing_army"
@@ -633959,12 +634091,6 @@
       ]
     },
     {
-      "domain": "sdemo.coinsbase.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sdentunsep.pro",
       "sources": [
         "phishing_army"
@@ -635056,12 +635182,6 @@
       ]
     },
     {
-      "domain": "secur3eaccontuemana4geurweurewellsfarg0o.work.gd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "securaccntnetfiix.com",
       "sources": [
         "phishing_army"
@@ -635098,12 +635218,6 @@
       ]
     },
     {
-      "domain": "secure.auth.wellsfrargo-form.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "secure.chhcgruop.com",
       "sources": [
         "phishtank",
@@ -635132,13 +635246,6 @@
     {
       "domain": "secure.jolofhhgfegede77.de",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "secure.lectec.com.au",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -635648,12 +635755,6 @@
     },
     {
       "domain": "securesgate.lat",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "securesharepoint-main.sql27.pro",
       "sources": [
         "phishing_army"
       ]
@@ -639470,12 +639571,6 @@
       ]
     },
     {
-      "domain": "server.lectec.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "server.mahakynthetics.com",
       "sources": [
         "phishing_army"
@@ -639531,12 +639626,6 @@
     },
     {
       "domain": "server.www.portload.aljazeera.ecoextracta.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "server1.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -639821,12 +639910,6 @@
       ]
     },
     {
-      "domain": "services.runescape.com-hs.in",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "servicesecurityleaktrusted.autos",
       "sources": [
         "phishing_army"
@@ -640003,6 +640086,13 @@
     {
       "domain": "servomarme.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "servreactivesubverifyngwebscurewadawd.balvermilfpremium1.biz.id",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -641297,12 +641387,6 @@
       ]
     },
     {
-      "domain": "sftp.supportplaystore-google.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sfuggscont.pro",
       "sources": [
         "phishing_army"
@@ -641603,12 +641687,6 @@
       ]
     },
     {
-      "domain": "sgoogle.descargatelocorp.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sgottdisco.pro",
       "sources": [
         "phishing_army"
@@ -641616,6 +641694,12 @@
     },
     {
       "domain": "sgoverefut.pro",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "sgpctmkn.es-mobile-netflix.com",
       "sources": [
         "phishing_army"
       ]
@@ -642631,12 +642715,6 @@
       ]
     },
     {
-      "domain": "shareddocxs.info",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sharedewa.com",
       "sources": [
         "phishing_army"
@@ -642706,6 +642784,13 @@
     {
       "domain": "sharp-info.info",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "sharpcommunications.pk",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -645087,12 +645172,6 @@
     },
     {
       "domain": "sickipulyge.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "sicloud.phone-appl.us",
       "sources": [
         "phishing_army"
       ]
@@ -648221,6 +648300,13 @@
       ]
     },
     {
+      "domain": "site.applerts.net",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "site.juniperjournals.org",
       "sources": [
         "phishing_army"
@@ -651259,25 +651345,7 @@
       ]
     },
     {
-      "domain": "sm.netflix-reactivation.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sm.perdseb.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "sm.phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "sm.smicrosoft.office.365suite.us",
       "sources": [
         "phishing_army"
       ]
@@ -652998,12 +653066,6 @@
       ]
     },
     {
-      "domain": "smbc-card012.club",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "smbc-card032.club",
       "sources": [
         "phishtank",
@@ -653160,7 +653222,6 @@
     {
       "domain": "smbc-card247.club",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -653202,7 +653263,6 @@
     {
       "domain": "smbc-card327.club",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -653217,12 +653277,6 @@
       "domain": "smbc-card358.club",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "smbc-card362.club",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -653346,19 +653400,6 @@
       ]
     },
     {
-      "domain": "smbc-card664.club",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "smbc-card668.club",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "smbc-card671.club",
       "sources": [
         "phishtank",
@@ -653382,7 +653423,6 @@
     {
       "domain": "smbc-card728.club",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -653451,13 +653491,6 @@
     },
     {
       "domain": "smbc-cardgold.com",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "smbc-cardmy.club",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -653857,12 +653890,6 @@
     },
     {
       "domain": "smiadev.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "smicrosoft.office.365suite.us",
       "sources": [
         "phishing_army"
       ]
@@ -654587,12 +654614,6 @@
     },
     {
       "domain": "smtp.showoffimports.nl",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "smtp2.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -657463,12 +657484,6 @@
       ]
     },
     {
-      "domain": "solar-windows-fr-8898313.live",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "solarchime.site",
       "sources": [
         "phishing_army"
@@ -659276,6 +659291,13 @@
       ]
     },
     {
+      "domain": "sonyps4customerservice.blogspot.hu",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "sonysmamm.pro",
       "sources": [
         "phishing_army"
@@ -659740,6 +659762,12 @@
     },
     {
       "domain": "sopratimid.pro",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "sopratownm.com",
       "sources": [
         "phishing_army"
       ]
@@ -666419,12 +666447,6 @@
       ]
     },
     {
-      "domain": "spotify.net.in",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "spotify.premiumhelp.help",
       "sources": [
         "phishing_army"
@@ -666437,8 +666459,9 @@
       ]
     },
     {
-      "domain": "spotifypremiumapps.com.mx",
+      "domain": "spotifyprashant.xyz",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -667064,12 +667087,6 @@
     },
     {
       "domain": "sprolpseud.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "spromo.bankofamerica-bank.com",
       "sources": [
         "phishing_army"
       ]
@@ -668064,6 +668081,12 @@
       ]
     },
     {
+      "domain": "srixugjp.es-mobile-netflix.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "srmacguffin.com",
       "sources": [
         "phishing_army"
@@ -668314,8 +668337,22 @@
       ]
     },
     {
+      "domain": "srv240393.hoster-test.ru",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "srv858887.hstgr.cloud",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "srv997495.hstgr.cloud",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -668388,12 +668425,6 @@
       ]
     },
     {
-      "domain": "ssicloud.phone-appl.us",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ssifwa.com",
       "sources": [
         "phishing_army"
@@ -668431,18 +668462,6 @@
     },
     {
       "domain": "sslversion.s3.cubbit.eu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ssm.netflix-reactivation.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ssm.phone-appl.pro",
       "sources": [
         "phishing_army"
       ]
@@ -668492,12 +668511,6 @@
       ]
     },
     {
-      "domain": "sspromo.bankofamerica-bank.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ssqalpoxsvid.pro",
       "sources": [
         "phishing_army"
@@ -668523,18 +668536,6 @@
       ]
     },
     {
-      "domain": "sssm.phone-appl.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ssspromo.bankofamerica-bank.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "sssssksjs.onemob.com",
       "sources": [
         "phishtank",
@@ -668543,12 +668544,6 @@
     },
     {
       "domain": "sstadecama.pro",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "sstage.portfolio.metamask.cx",
       "sources": [
         "phishing_army"
       ]
@@ -668593,12 +668588,6 @@
     },
     {
       "domain": "st-leo.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "st.eam-z.com",
       "sources": [
         "phishing_army"
       ]
@@ -669043,12 +669032,6 @@
       ]
     },
     {
-      "domain": "staffs-online-payroll-encryptxxlogondefaultaspx1332.scanlonchiro.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "stage-2nd-kafka-connect.secondaries.io",
       "sources": [
         "phishing_army"
@@ -669075,19 +669058,6 @@
     {
       "domain": "stage-public.secondaries.io",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "stage.portfolio.metamask.cx",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "stage.visittheseaside.com",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -669176,43 +669146,13 @@
       ]
     },
     {
-      "domain": "staging.988648-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "staging.access.barclays-co-uk.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "staging.amazon.okupasxx.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "staging.amazon.ses-iam.com",
       "sources": [
         "phishing_army"
       ]
     },
     {
-      "domain": "staging.app1.andrewjohnston.ca",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "staging.fyhelnext.netflix-security.de",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "staging.google.descargatelocorp.org",
       "sources": [
         "phishing_army"
       ]
@@ -671337,6 +671277,13 @@
       ]
     },
     {
+      "domain": "steamcomnunllity.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "steamcomnunnlty.com",
       "sources": [
         "phishtank",
@@ -671353,12 +671300,6 @@
       "domain": "steamcomrrmunity.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "steamcomumunity.com",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -671394,8 +671335,9 @@
       ]
     },
     {
-      "domain": "steamcounmunity.com",
+      "domain": "steamcoummunity.ru",
       "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -671509,12 +671451,6 @@
     },
     {
       "domain": "steancornmunity.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "steanmrcommunity.com",
       "sources": [
         "phishing_army"
       ]
@@ -673649,12 +673585,6 @@
       ]
     },
     {
-      "domain": "store.communityactionart.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "store.communitychartcreate.com",
       "sources": [
         "phishing_army"
@@ -673704,12 +673634,6 @@
     },
     {
       "domain": "store.communityshopsource.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "store.communityuserstyles.com",
       "sources": [
         "phishing_army"
       ]
@@ -674500,6 +674424,12 @@
     },
     {
       "domain": "strafslick.pro",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "strafsubga.org",
       "sources": [
         "phishing_army"
       ]
@@ -678967,6 +678897,13 @@
       ]
     },
     {
+      "domain": "suite.trez-app.org",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "suitetrezorsuite.com",
       "sources": [
         "phishtank",
@@ -681083,8 +681020,22 @@
       ]
     },
     {
+      "domain": "support-id.allstyle-bathrooms.com.au",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "support-metaverify.click",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "support-mx1.help",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -684206,6 +684157,13 @@
       ]
     },
     {
+      "domain": "swed-eg.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "swedrcorpo.pro",
       "sources": [
         "phishing_army"
@@ -687121,6 +687079,13 @@
     {
       "domain": "t-galapagos.xyz",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "t-piaticketinte.jp",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -693081,6 +693046,13 @@
       ]
     },
     {
+      "domain": "techmediareports.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "techmural.com",
       "sources": [
         "phishing_army"
@@ -693852,7 +693824,6 @@
     {
       "domain": "teflsrufsagqdm.net",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -701209,12 +701180,6 @@
       ]
     },
     {
-      "domain": "tewopya.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "tewwa.space",
       "sources": [
         "phishing_army"
@@ -708011,12 +707976,6 @@
       ]
     },
     {
-      "domain": "timesdealsonline.world",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "timess24pl.xyz",
       "sources": [
         "phishing_army"
@@ -708480,13 +708439,6 @@
     {
       "domain": "tipsntrickz.com",
       "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "tipsshiftstarspanel.autos",
-      "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -710489,8 +710441,16 @@
       ]
     },
     {
-      "domain": "tokenpocekt.com",
+      "domain": "tokenpoc.com",
       "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "tokenpocked.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -714179,12 +714139,6 @@
       "domain": "tr-binances.click",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "tr-windows.click",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -723348,6 +723302,13 @@
       ]
     },
     {
+      "domain": "triumphant-operator-758607.framer.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "triumphantbirch.cyou",
       "sources": [
         "phishing_army"
@@ -724852,12 +724813,6 @@
       ]
     },
     {
-      "domain": "trustwallet.studio",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "trustwe3.com",
       "sources": [
         "phishing_army"
@@ -725752,12 +725707,6 @@
       ]
     },
     {
-      "domain": "tucsonhatsusa.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "tucsonpublisher.com",
       "sources": [
         "phishing_army"
@@ -725931,6 +725880,13 @@
     {
       "domain": "tulobuscas.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "tulsamanor.dyndns-remote.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -728155,12 +728111,6 @@
       ]
     },
     {
-      "domain": "twitter.town",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "twixar.me",
       "sources": [
         "phishtank",
@@ -728448,12 +728398,6 @@
     },
     {
       "domain": "txsx.fun",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "txtmvq.cn",
       "sources": [
         "phishing_army"
       ]
@@ -729465,12 +729409,6 @@
     },
     {
       "domain": "ubrzaxuv.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ubs.ebanking.osk18mlm.gustngale.com",
       "sources": [
         "phishing_army"
       ]
@@ -733723,12 +733661,6 @@
       ]
     },
     {
-      "domain": "unitedmedicalsolutions.org",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "unitednationsoftheearth.com",
       "sources": [
         "phishing_army"
@@ -734069,6 +734001,14 @@
     {
       "domain": "unleashedchronicles.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "unlimited-exceptions-118122.framer.app",
+      "sources": [
+        "openphish",
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -740300,12 +740240,6 @@
       ]
     },
     {
-      "domain": "vaklfwebsubayrntilrm3.xyz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "vakprofs.com",
       "sources": [
         "phishing_army"
@@ -741366,12 +741300,6 @@
     },
     {
       "domain": "valvebounced.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "valvesteampowered.com",
       "sources": [
         "phishing_army"
       ]
@@ -743631,12 +743559,6 @@
       ]
     },
     {
-      "domain": "velazquezinc.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "velbraynexus.net",
       "sources": [
         "phishing_army"
@@ -744767,12 +744689,6 @@
     },
     {
       "domain": "venavye.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "venbea.com.mx",
       "sources": [
         "phishing_army"
       ]
@@ -747838,6 +747754,12 @@
       ]
     },
     {
+      "domain": "vghzaxpo.es-mobile-netflix.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "vgk.we-stom.top",
       "sources": [
         "phishing_army"
@@ -750431,12 +750353,6 @@
       ]
     },
     {
-      "domain": "vinted.carouz.world",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "vinted.charge788.run",
       "sources": [
         "phishing_army"
@@ -750600,6 +750516,12 @@
     },
     {
       "domain": "vinted.id-9752.world",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "vinted.id10293.icu",
       "sources": [
         "phishing_army"
       ]
@@ -751750,6 +751672,12 @@
       ]
     },
     {
+      "domain": "vip1.microtsoft.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "vipallegro.com",
       "sources": [
         "phishing_army"
@@ -751820,6 +751748,13 @@
     {
       "domain": "vipisbgirls.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "vipkiouluerejp.top",
+      "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
@@ -756757,6 +756692,13 @@
       ]
     },
     {
+      "domain": "vonovia.cfd",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "vonsadexapp.com",
       "sources": [
         "phishing_army"
@@ -757475,6 +757417,13 @@
     {
       "domain": "vorynxfirst.site",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "voryou.my.id",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -759156,6 +759105,13 @@
     },
     {
       "domain": "vxi3y6.webwave.dev",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "vxqcc9.top",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -761584,6 +761540,13 @@
       ]
     },
     {
+      "domain": "warningapps.sbs",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "warningcut.lat",
       "sources": [
         "phishing_army"
@@ -761876,6 +761839,13 @@
     {
       "domain": "waspepermi.pro",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "wassef.com.eg",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -764518,12 +764488,6 @@
     },
     {
       "domain": "web.wealthinnovationsgroupltd.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "web.whaskstsapp.com",
       "sources": [
         "phishing_army"
       ]
@@ -768009,6 +767973,13 @@
       ]
     },
     {
+      "domain": "whats-dc.vip",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "whats-invest.online",
       "sources": [
         "phishing_army"
@@ -768034,69 +768005,9 @@
       ]
     },
     {
-      "domain": "whats-zrc.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrd.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zre.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrg.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "whats-zrh.vip",
       "sources": [
         "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zri.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrl.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrp.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrs.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zrt.vip",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "whats-zru.vip",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -768108,8 +768019,30 @@
       ]
     },
     {
-      "domain": "whats-zry.vip",
+      "domain": "whats-ztg.vip",
       "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "whats-zth.vip",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "whats-ztn.vip",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "whats-ztp.vip",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -768126,8 +768059,16 @@
       ]
     },
     {
-      "domain": "whatsapp-kb.com",
+      "domain": "whatsapp-id.cc",
       "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "whatsapp-za.cc",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -770276,7 +770217,6 @@
     {
       "domain": "wide-dinner-shrilling.on-fleek.app",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -771515,12 +771455,6 @@
       ]
     },
     {
-      "domain": "windows-15516.bond",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "windows-16990.click",
       "sources": [
         "phishing_army"
@@ -771587,12 +771521,6 @@
       ]
     },
     {
-      "domain": "windows-30563.bond",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "windows-32336.click",
       "sources": [
         "phishing_army"
@@ -771600,12 +771528,6 @@
     },
     {
       "domain": "windows-332.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "windows-33383.bond",
       "sources": [
         "phishing_army"
       ]
@@ -771743,12 +771665,6 @@
       ]
     },
     {
-      "domain": "windows-60095.bond",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "windows-62534.click",
       "sources": [
         "phishing_army"
@@ -771863,12 +771779,6 @@
       ]
     },
     {
-      "domain": "windows-87607.bond",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "windows-87837.click",
       "sources": [
         "phishing_army"
@@ -771876,12 +771786,6 @@
     },
     {
       "domain": "windows-88377.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "windows-885.click",
       "sources": [
         "phishing_army"
       ]
@@ -771984,18 +771888,6 @@
     },
     {
       "domain": "windows-replacement-met-sas3.click",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "windows-replacement-us-2024.today",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "windows-us-3076433.fyi",
       "sources": [
         "phishing_army"
       ]
@@ -773754,6 +773646,13 @@
       ]
     },
     {
+      "domain": "wkjraaxx.my.id",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "wkjyczte.shop",
       "sources": [
         "phishing_army"
@@ -773990,12 +773889,6 @@
     },
     {
       "domain": "wo9klaz.pics",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "woa.verify.apple-en.com",
       "sources": [
         "phishing_army"
       ]
@@ -775289,8 +775182,29 @@
       ]
     },
     {
+      "domain": "workspace365-sharepoint-efallkml.az2554844132065184848541514.cc",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "workspace365-sharepoint-rnzjhhciic.az2554844132065184848541514.cc",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "workspacedoors.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "workstation-support.com",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -777707,15 +777621,15 @@
       ]
     },
     {
-      "domain": "ww25.1755162-coinbase.com",
+      "domain": "ww25.altice.shop",
       "sources": [
+        "phishtank",
         "phishing_army"
       ]
     },
     {
-      "domain": "ww25.altice.shop",
+      "domain": "ww25.amazn-cdn.heovjzlz.xyz",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -777727,18 +777641,6 @@
       ]
     },
     {
-      "domain": "ww25.com.199380-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ww25.intelligence.182742-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ww25.ww25.redmine-sfr-mobile.circet.net",
       "sources": [
         "phishtank",
@@ -777746,19 +777648,7 @@
       ]
     },
     {
-      "domain": "ww38.371833-coinbase.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "ww5.gsoogle.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "ww5.guoogle.com",
       "sources": [
         "phishing_army"
       ]
@@ -777952,7 +777842,6 @@
     {
       "domain": "www-coursiers-lockers.com",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -778306,12 +778195,6 @@
       ]
     },
     {
-      "domain": "www-pickup.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www-planning-coursiers.com",
       "sources": [
         "phishtank",
@@ -778590,13 +778473,13 @@
       ]
     },
     {
-      "domain": "www.172635-coinbase.com",
+      "domain": "www.2025weryfikacja.click",
       "sources": [
         "phishing_army"
       ]
     },
     {
-      "domain": "www.2025weryfikacja.click",
+      "domain": "www.2244187365.com",
       "sources": [
         "phishing_army"
       ]
@@ -778620,6 +778503,12 @@
       ]
     },
     {
+      "domain": "www.503695802841877041919875171714lduptbtfbzazpho.adelon.com.br",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.5mp.eu",
       "sources": [
         "phishing_army"
@@ -778632,7 +778521,19 @@
       ]
     },
     {
-      "domain": "www.839402-coinbase.com",
+      "domain": "www.805749368822437406954475281813rlkgscxncpfyxfu.adelon.com.br",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.888365168.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.944348556437879646874655133977kwtnvrjppyrwhwx.adelon.com.br",
       "sources": [
         "phishing_army"
       ]
@@ -779028,12 +778929,6 @@
       ]
     },
     {
-      "domain": "www.aide-microsoft.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.aikpay.top",
       "sources": [
         "phishing_army"
@@ -779136,12 +779031,6 @@
       ]
     },
     {
-      "domain": "www.allegroonline.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.allegrosale-pl.shop",
       "sources": [
         "phishing_army"
@@ -779167,12 +779056,6 @@
     },
     {
       "domain": "www.amarilogroup.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.amaz0n.co.jp.bianbi.net",
       "sources": [
         "phishing_army"
       ]
@@ -779443,6 +779326,12 @@
     },
     {
       "domain": "www.azmodelsearch.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.b45079.com",
       "sources": [
         "phishing_army"
       ]
@@ -779802,12 +779691,6 @@
       ]
     },
     {
-      "domain": "www.bugfix-sbb-8868-google-pay-express-empty-shipping-address.snappy-shopper-snappy-v1.snappygroupdev.co.uk",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.busanopen.org",
       "sources": [
         "phishing_army"
@@ -780090,6 +779973,12 @@
       ]
     },
     {
+      "domain": "www.claimfo1n.my.id",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.clarocloud.com.pe",
       "sources": [
         "phishing_army"
@@ -780097,12 +779986,6 @@
     },
     {
       "domain": "www.cmlfxtrade.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.cna08asp5qcbtv4o34pg.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -780133,12 +780016,6 @@
     },
     {
       "domain": "www.colorworld.ir",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.com-subscriptions.manager2981678914.hewittinstallations.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -780271,12 +780148,6 @@
     },
     {
       "domain": "www.cozyri.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.cpcalendars.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -780540,18 +780411,6 @@
       ]
     },
     {
-      "domain": "www.ddsv-dk.icu",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.ddsv-dk.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.deadline-magazin.de",
       "sources": [
         "phishing_army"
@@ -780673,6 +780532,12 @@
     },
     {
       "domain": "www.defensesmartreliable.autos",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.demo.xuongthuchanh.site",
       "sources": [
         "phishing_army"
       ]
@@ -780822,30 +780687,6 @@
       ]
     },
     {
-      "domain": "www.dk-post-posstnord.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.dk-post-postnord.top",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.dk-post-ppostnord.qpon",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.dk-post-ppostnorrd.club",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.dlaie.com",
       "sources": [
         "phishing_army"
@@ -780919,18 +780760,6 @@
     },
     {
       "domain": "www.drykorg.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.dssvv-dk.cfd",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.dssvv-dk.icu",
       "sources": [
         "phishing_army"
       ]
@@ -781362,6 +781191,12 @@
       ]
     },
     {
+      "domain": "www.fcprghostmaster.lectec.com.au",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.fedexpost.icu",
       "sources": [
         "phishing_army"
@@ -781410,6 +781245,12 @@
       ]
     },
     {
+      "domain": "www.fibertelperu.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.filippomorabito.com",
       "sources": [
         "phishing_army"
@@ -781417,12 +781258,6 @@
     },
     {
       "domain": "www.filipssklep.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.finance.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -781944,12 +781779,6 @@
       ]
     },
     {
-      "domain": "www.hdfcbank.speedynet.in",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.heartnhatrang.com",
       "sources": [
         "phishing_army"
@@ -782257,6 +782086,12 @@
     },
     {
       "domain": "www.ikye-fee.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.imap1.lectec.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -783366,6 +783201,12 @@
       ]
     },
     {
+      "domain": "www.mailx.sspl.com.au",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.maison-orbey.de",
       "sources": [
         "phishing_army"
@@ -783529,6 +783370,12 @@
     },
     {
       "domain": "www.mentava.site",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.merenciano.net",
       "sources": [
         "phishing_army"
       ]
@@ -783774,12 +783621,6 @@
       ]
     },
     {
-      "domain": "www.mizuhobank.jp.kametbg.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.mobile-container.com",
       "sources": [
         "phishing_army"
@@ -783852,6 +783693,12 @@
       ]
     },
     {
+      "domain": "www.mta-sts.sspl.com.au",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.mtadigital-seo.com",
       "sources": [
         "phishing_army"
@@ -783865,12 +783712,6 @@
     },
     {
       "domain": "www.mx.lectec.com.au",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.mx02.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -784074,6 +783915,12 @@
       ]
     },
     {
+      "domain": "www.nimbus-thepalmvillage.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.nise-test.com",
       "sources": [
         "phishing_army"
@@ -784171,6 +784018,12 @@
     },
     {
       "domain": "www.nowverifiedhighaction.top",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.nozomicoach.com",
       "sources": [
         "phishing_army"
       ]
@@ -784386,12 +784239,6 @@
       ]
     },
     {
-      "domain": "www.order56299.cc",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.order9.co.kr",
       "sources": [
         "phishing_army"
@@ -784513,12 +784360,6 @@
     },
     {
       "domain": "www.palletsale.shop",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.pancakeswap.gho-v4.com",
       "sources": [
         "phishing_army"
       ]
@@ -784861,12 +784702,6 @@
     },
     {
       "domain": "www.ponostonehawaii.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.portal-arcelormittal.online",
       "sources": [
         "phishing_army"
       ]
@@ -785304,6 +785139,12 @@
       ]
     },
     {
+      "domain": "www.qr.codes",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.qressdepz.lol",
       "sources": [
         "phishing_army"
@@ -785712,6 +785553,12 @@
       ]
     },
     {
+      "domain": "www.remotecall-assemblev2.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.renouveauxmonthly.com",
       "sources": [
         "phishing_army"
@@ -785953,12 +785800,6 @@
     },
     {
       "domain": "www.rumail.xyz",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.rumuveo.com",
       "sources": [
         "phishing_army"
       ]
@@ -786738,6 +786579,12 @@
       ]
     },
     {
+      "domain": "www.sikada.dkonto.pl",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.sipac.mx",
       "sources": [
         "phishing_army"
@@ -787212,6 +787059,12 @@
       ]
     },
     {
+      "domain": "www.spotifyprashant.xyz",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.spotifyupgrader.com",
       "sources": [
         "phishing_army"
@@ -787554,12 +787407,6 @@
       ]
     },
     {
-      "domain": "www.tipsshiftstarspanel.autos",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.tisaron.com",
       "sources": [
         "phishing_army"
@@ -787591,6 +787438,18 @@
     },
     {
       "domain": "www.tofq.exytrie.es",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.tokenpoc.com",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "www.tokenpocked.com",
       "sources": [
         "phishing_army"
       ]
@@ -788436,6 +788295,12 @@
       ]
     },
     {
+      "domain": "www.wkjraaxx.my.id",
+      "sources": [
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "www.wmvngq.shop",
       "sources": [
         "phishing_army"
@@ -788461,12 +788326,6 @@
     },
     {
       "domain": "www.workjunction.in",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.wpmservice.finance.sspl.com.au",
       "sources": [
         "phishing_army"
       ]
@@ -788622,12 +788481,6 @@
       ]
     },
     {
-      "domain": "www.yibuda.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www.ymaotria.com",
       "sources": [
         "phishing_army"
@@ -788641,12 +788494,6 @@
     },
     {
       "domain": "www.your-adventure.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www.yukdddaftar.xyz",
       "sources": [
         "phishing_army"
       ]
@@ -788990,13 +788837,6 @@
       ]
     },
     {
-      "domain": "www3-vpass-jp.zsjuwei.com",
-      "sources": [
-        "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "www3-vpass.1881688.com",
       "sources": [
         "phishtank",
@@ -789119,12 +788959,6 @@
       "domain": "www3-vpass.zhruan.com",
       "sources": [
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www4.tau-service.de",
-      "sources": [
         "phishing_army"
       ]
     },
@@ -791613,7 +791447,6 @@
     {
       "domain": "xiaoliaobaike.cc",
       "sources": [
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -792980,6 +792813,13 @@
     {
       "domain": "xn--bn-c-h5-kwa0879d.com",
       "sources": [
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "xn--cer80jstu39j.cc",
+      "sources": [
+        "openphish",
         "phishing_army"
       ]
     },
@@ -795401,12 +795241,6 @@
       ]
     },
     {
-      "domain": "yardimci.sbs",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "yardshow.xyz",
       "sources": [
         "phishing_army"
@@ -796376,12 +796210,6 @@
       ]
     },
     {
-      "domain": "yibuda.net",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "yicicu-rerile.pro",
       "sources": [
         "phishing_army"
@@ -796913,12 +796741,6 @@
     },
     {
       "domain": "yogienergetics.com",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "yogisandyoginis.com",
       "sources": [
         "phishing_army"
       ]
@@ -797953,12 +797775,6 @@
       ]
     },
     {
-      "domain": "ytvw4f.lat",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
       "domain": "yuan-paygroup.net",
       "sources": [
         "phishing_army"
@@ -798062,12 +797878,6 @@
     },
     {
       "domain": "yujuci-fabamo.pics",
-      "sources": [
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "yukdddaftar.xyz",
       "sources": [
         "phishing_army"
       ]
