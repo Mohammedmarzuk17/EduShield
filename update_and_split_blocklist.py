@@ -8,13 +8,14 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
 from io import BytesIO
+import math
 
 # ---------------------------
 # Helpers
 # ---------------------------
 
 def toASCII(input_str):
-    """Normalize string to ASCII-like format (similar to background.js)."""
+    """Normalize string to ASCII-like format."""
     try:
         return input_str.strip().lower().encode("ascii", "ignore").decode("ascii")
     except Exception:
@@ -138,23 +139,7 @@ def update_blocklist():
     }
 
     for source, url in feeds.items():
-        lines = []
-
-        try:
-            r = requests.get(url, timeout=30)
-            if r.status_code == 200:
-                if source == "phishtank":
-                    decoded = r.content.decode("utf-8", errors="ignore").splitlines()
-                    reader = csv.reader(decoded)
-                    for row in reader:
-                        for item in row:
-                            lines.append(item)
-                else:
-                    lines = r.text.splitlines()
-        except Exception as e:
-            print(f"[!] Failed to fetch {url}: {e}")
-            lines = []
-
+        lines = fetch_text_feed(url)
         for item in lines:
             domain = extract_domain(item)
             if domain:
@@ -227,15 +212,29 @@ def update_blocklist():
             continue
 
     # ---- Final blocklist ----
-    blocklist = {
-        "last_updated": datetime.utcnow().isoformat(),
-        "domains": sorted(domain_map.values(), key=lambda x: x["domain"]),
-    }
+    merged_list = sorted(domain_map.values(), key=lambda x: x["domain"])
+    print(f"[+] Total domains to store: {len(merged_list)}")
 
+    # ---- Chunked export ----
+    CHUNK_SIZE = 3000
+    os.makedirs("blocklists_chunks", exist_ok=True)
+    total_chunks = math.ceil(len(merged_list) / CHUNK_SIZE)
+    chunk_files = []
+
+    for i in range(total_chunks):
+        chunk = merged_list[i*CHUNK_SIZE:(i+1)*CHUNK_SIZE]
+        chunk_file = f"blocklists_chunks/blocklist_chunk_{i+1}.json"
+        with open(chunk_file, "w", encoding="utf-8") as f:
+            json.dump({"domains": chunk}, f, indent=2, ensure_ascii=False)
+        chunk_files.append(chunk_file)
+        print(f"✅ Saved chunk {i+1}/{total_chunks} -> {chunk_file}")
+
+    # ---- Full blocklist (optional) ----
     with open("blocklist.json", "w", encoding="utf-8") as f:
-        json.dump(blocklist, f, indent=2, ensure_ascii=False)
+        json.dump({"last_updated": datetime.utcnow().isoformat(), "domains": merged_list}, f, indent=2, ensure_ascii=False)
 
-    print(f"[+] Blocklist updated with {len(domain_map)} unique domains.")
+    print(f"[+] Full blocklist.json saved with {len(merged_list)} domains.")
+    return merged_list
 
 # ---------------------------
 # Split blocklist into per-source JSON & manifest
@@ -249,26 +248,22 @@ def split_blocklist():
     domains = data.get("domains", [])
     grouped = {}
 
-    # Group domains by sources
     for entry in domains:
         sources = entry.get("sources") or ["unknown"]
         for src in sources:
             key = src.lower()
             grouped.setdefault(key, []).append(entry)
 
-    # Force all sources (even empty)
     sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom", "phishtank", "phishing_army", "threatfox"]
     for s in sources_list:
         grouped.setdefault(s.lower(), [])
 
-    # Write per-source JSON
     for src, items in grouped.items():
         out_file = f"blocklists/{src}.json"
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
         print(f"✅ Saved {len(items)} entries to {out_file}")
 
-    # Create manifest.json
     files = [{"file": f"{s.lower()}.json", "source": s} for s in sources_list]
     with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
         json.dump({"files": files}, mf, indent=2, ensure_ascii=False)
@@ -279,5 +274,5 @@ def split_blocklist():
 # ---------------------------
 
 if __name__ == "__main__":
-    update_blocklist()
+    merged = update_blocklist()
     split_blocklist()
