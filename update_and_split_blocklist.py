@@ -8,18 +8,10 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
 from io import BytesIO
-import math
 
 # ---------------------------
 # Helpers
 # ---------------------------
-
-def toASCII(input_str):
-    """Normalize string to ASCII-like format."""
-    try:
-        return input_str.strip().lower().encode("ascii", "ignore").decode("ascii")
-    except Exception:
-        return input_str.strip().lower()
 
 def extract_domain(url_or_text):
     """Extract and normalize domains from messy input or institution names."""
@@ -35,17 +27,18 @@ def extract_domain(url_or_text):
             domain = parsed.netloc.lower()
             if domain.startswith("www."):
                 domain = domain[4:]
-            return toASCII(domain) if domain else None
+            return domain if domain else None
         except Exception:
             return None
 
     # If plain domain
     domain_pattern = re.compile(r"^(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}$")
     if domain_pattern.match(candidate):
-        return toASCII(candidate)
+        return candidate.lower()
 
     # Otherwise treat as a "name" entry (colleges/universities etc.)
-    return toASCII(candidate)
+    return candidate.lower()
+
 
 def fetch_text_feed(url):
     try:
@@ -55,6 +48,7 @@ def fetch_text_feed(url):
     except Exception as e:
         print(f"[!] Failed to fetch {url}: {e}")
     return []
+
 
 def parse_csv_feed(path):
     domains = []
@@ -68,6 +62,7 @@ def parse_csv_feed(path):
         print(f"[!] CSV parse error in {path}: {e}")
     return domains
 
+
 def parse_json_feed(path):
     try:
         with open(path, encoding="utf-8") as f:
@@ -80,6 +75,7 @@ def parse_json_feed(path):
         print(f"[!] JSON parse error in {path}: {e}")
     return []
 
+
 def parse_html_feed(path):
     domains = []
     try:
@@ -91,7 +87,9 @@ def parse_html_feed(path):
         print(f"[!] HTML parse error in {path}: {e}")
     return domains
 
+
 def parse_pdf_feed(path):
+    """Extract text tokens from a local PDF file."""
     domains = []
     try:
         with open(path, "rb") as f:
@@ -104,7 +102,9 @@ def parse_pdf_feed(path):
         print(f"[!] PDF parse error in {path}: {e}")
     return domains
 
+
 def fetch_and_parse_pdf(url):
+    """Download and parse institution names from a remote PDF (UGC/AICTE)."""
     entries = []
     try:
         r = requests.get(url, timeout=30)
@@ -113,6 +113,7 @@ def fetch_and_parse_pdf(url):
             for page in reader.pages:
                 text = page.extract_text()
                 if text:
+                    # Split lines instead of raw words (institutions are line-based)
                     for line in text.splitlines():
                         cleaned = line.strip()
                         if cleaned and len(cleaned) > 3:
@@ -139,7 +140,26 @@ def update_blocklist():
     }
 
     for source, url in feeds.items():
-        lines = fetch_text_feed(url)
+        lines = []
+
+        try:
+            r = requests.get(url, timeout=30)
+            if r.status_code == 200:
+                if source == "phishtank":
+                    # Parse CSV feed
+                    decoded = r.content.decode("utf-8", errors="ignore").splitlines()
+                    reader = csv.reader(decoded)
+                    for row in reader:
+                        for item in row:
+                            lines.append(item)
+                else:
+                    # Default: split by lines
+                    lines = r.text.splitlines()
+        except Exception as e:
+            print(f"[!] Failed to fetch {url}: {e}")
+            lines = []
+
+        # Normalize & store domains
         for item in lines:
             domain = extract_domain(item)
             if domain:
@@ -164,23 +184,26 @@ def update_blocklist():
                 elif source not in domain_map[domain]["sources"]:
                     domain_map[domain]["sources"].append(source)
 
-    # ---- Local manual JSON files ----
+    # ---- Local manual JSON files (manual folder) ----
     manual_files = {
         "ugc": "manual/manual_ugc.json",
         "aicte": "manual/manual_aicte.json",
     }
 
     for source, path in manual_files.items():
-        items = parse_json_feed(path)
-        for item in items:
-            domain = extract_domain(item)
-            if domain:
-                if domain not in domain_map:
-                    domain_map[domain] = {"domain": domain, "sources": [source]}
-                elif source not in domain_map[domain]["sources"]:
-                    domain_map[domain]["sources"].append(source)
+        try:
+            items = parse_json_feed(path)
+            for item in items:
+                domain = extract_domain(item)
+                if domain:
+                    if domain not in domain_map:
+                        domain_map[domain] = {"domain": domain, "sources": [source]}
+                    elif source not in domain_map[domain]["sources"]:
+                        domain_map[domain]["sources"].append(source)
+        except FileNotFoundError:
+            continue
 
-    # ---- Local user uploads ----
+    # ---- Local user uploads (optional) ----
     user_files = {
         "local_csv": "user_feed.csv",
         "local_json": "user_feed.json",
@@ -212,32 +235,18 @@ def update_blocklist():
             continue
 
     # ---- Final blocklist ----
-    merged_list = sorted(domain_map.values(), key=lambda x: x["domain"])
-    print(f"[+] Total domains to store: {len(merged_list)}")
+    blocklist = {
+        "last_updated": datetime.utcnow().isoformat(),
+        "domains": sorted(domain_map.values(), key=lambda x: x["domain"]),
+    }
 
-    # ---- Chunked export ----
-    CHUNK_SIZE = 3000
-    os.makedirs("blocklists_chunks", exist_ok=True)
-    total_chunks = math.ceil(len(merged_list) / CHUNK_SIZE)
-    chunk_files = []
-
-    for i in range(total_chunks):
-        chunk = merged_list[i*CHUNK_SIZE:(i+1)*CHUNK_SIZE]
-        chunk_file = f"blocklists_chunks/blocklist_chunk_{i+1}.json"
-        with open(chunk_file, "w", encoding="utf-8") as f:
-            json.dump({"domains": chunk}, f, indent=2, ensure_ascii=False)
-        chunk_files.append(chunk_file)
-        print(f"✅ Saved chunk {i+1}/{total_chunks} -> {chunk_file}")
-
-    # ---- Full blocklist (optional) ----
     with open("blocklist.json", "w", encoding="utf-8") as f:
-        json.dump({"last_updated": datetime.utcnow().isoformat(), "domains": merged_list}, f, indent=2, ensure_ascii=False)
+        json.dump(blocklist, f, indent=2, ensure_ascii=False)
 
-    print(f"[+] Full blocklist.json saved with {len(merged_list)} domains.")
-    return merged_list
+    print(f"[+] Blocklist updated with {len(domain_map)} unique domains.")
 
 # ---------------------------
-# Split blocklist into per-source JSON & manifest
+# Split and generate per-source files
 # ---------------------------
 
 def split_blocklist():
@@ -248,22 +257,30 @@ def split_blocklist():
     domains = data.get("domains", [])
     grouped = {}
 
+    # Group domains by source
     for entry in domains:
-        sources = entry.get("sources") or ["unknown"]
-        for src in sources:
-            key = src.lower()
-            grouped.setdefault(key, []).append(entry)
+        if isinstance(entry, dict):
+            sources = entry.get("sources") or ["unknown"]
+            for src in sources:
+                key = src.lower()
+                grouped.setdefault(key, []).append(entry)
+        else:
+            grouped.setdefault("unknown", []).append({"domain": str(entry), "sources": ["unknown"]})
 
+    # Force all sources
     sources_list = ["urlhaus", "openphish", "ugc", "aicte", "custom", "phishtank", "phishing_army", "threatfox"]
     for s in sources_list:
-        grouped.setdefault(s.lower(), [])
+        key = s.lower()
+        grouped.setdefault(key, [])
 
+    # Write grouped files
     for src, items in grouped.items():
         out_file = f"blocklists/{src}.json"
         with open(out_file, "w", encoding="utf-8") as f:
             json.dump({"domains": items}, f, indent=2, ensure_ascii=False)
         print(f"✅ Saved {len(items)} entries to {out_file}")
 
+    # Generate manifest.json
     files = [{"file": f"{s.lower()}.json", "source": s} for s in sources_list]
     with open("blocklists/manifest.json", "w", encoding="utf-8") as mf:
         json.dump({"files": files}, mf, indent=2, ensure_ascii=False)
@@ -274,5 +291,5 @@ def split_blocklist():
 # ---------------------------
 
 if __name__ == "__main__":
-    merged = update_blocklist()
+    update_blocklist()
     split_blocklist()
