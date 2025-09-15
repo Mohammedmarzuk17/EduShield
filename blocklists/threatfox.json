@@ -28,7 +28,7 @@
       ]
     },
     {
-      "domain": "# number of entries: 44537",
+      "domain": "# number of entries: 44536",
       "sources": [
         "threatfox"
       ]
@@ -147714,12 +147714,6 @@
     },
     {
       "domain": "127.0.0.1\torjinalecza.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tos-hpcigjolof.cn-beijing.fcapp.run",
       "sources": [
         "threatfox"
       ]
