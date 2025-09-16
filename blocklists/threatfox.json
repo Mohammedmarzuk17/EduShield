@@ -28,7 +28,7 @@
       ]
     },
     {
-      "domain": "# number of entries: 44490",
+      "domain": "# number of entries: 44482",
       "sources": [
         "threatfox"
       ]
@@ -19314,12 +19314,6 @@
     },
     {
       "domain": "127.0.0.1\tautodiscover.d.ora-0-web.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tautodiscover.e.multi-canale.com",
       "sources": [
         "threatfox"
       ]
@@ -39473,12 +39467,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcpanel.businesstimehub.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcpanel.buyjlindustriesonline.com",
       "sources": [
         "threatfox"
@@ -39558,12 +39546,6 @@
     },
     {
       "domain": "127.0.0.1\tcpanel.gemstonebookkeepingservices.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcpanel.gestisciweb.com",
       "sources": [
         "threatfox"
       ]
@@ -39732,12 +39714,6 @@
     },
     {
       "domain": "127.0.0.1\tcpcalendars.aaa.104-168-101-27.cprapid.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcpcalendars.adesso-online.com",
       "sources": [
         "threatfox"
       ]
@@ -52890,12 +52866,6 @@
     },
     {
       "domain": "127.0.0.1\tdreajmydays.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tdreamhome.lat",
       "sources": [
         "threatfox"
       ]
@@ -219407,12 +219377,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twebdisk.answerallnewz.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twebdisk.b.multi-canale.com",
       "sources": [
         "threatfox"
@@ -219605,12 +219569,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twebmail.b.multi-canale.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twebmail.b.ora-0-web.com",
       "sources": [
         "threatfox"
@@ -219666,12 +219624,6 @@
     },
     {
       "domain": "127.0.0.1\twebmail.f.multi-canale.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twebmail.gestisciweb.com",
       "sources": [
         "threatfox"
       ]
