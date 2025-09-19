@@ -4,21 +4,31 @@ EduShield is a powerful Chrome extension designed to protect users from phishing
 🔹 Features
 1. Website Protection
 EduShield detects and flags potentially malicious websites by automatically checking against major phishing and threat intelligence sources:
+
 OpenPhish
+
 Phishing Army
+
 PhishTank
+
 ThreatFox
+
 URLHaus
 
 2. Institution Verification
 EduShield scans webpage content to identify names of educational institutions and flags them if they are listed under:
+
 UGC (University Grants Commission)
+
 AICTE (All India Council for Technical Education)
 
 3. Fact-Check & Claim Analysis
 EduShield helps users verify textual content by:
+
 Separating input into Factual Claims, Opinions, Personal Anecdotes, and Other categories.
+
 Detecting whether text is Human-written or AI-generated.
+
 Using Google Custom Search API to fact-check claims in real time.
 
 4. Automated Blocklist Collection
