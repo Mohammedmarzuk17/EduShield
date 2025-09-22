@@ -22,13 +22,13 @@
       ]
     },
     {
-      "domain": "# last updated: 2025-09-21 02:09:11 utc                        #",
+      "domain": "# last updated: 2025-09-22 02:22:03 utc                        #",
       "sources": [
         "threatfox"
       ]
     },
     {
-      "domain": "# number of entries: 44301",
+      "domain": "# number of entries: 44036",
       "sources": [
         "threatfox"
       ]
@@ -300,12 +300,6 @@
     },
     {
       "domain": "127.0.0.1\t0x503.3738.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\t0xmicrosoft.duckdns.org",
       "sources": [
         "threatfox"
       ]
@@ -1223,12 +1217,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\t210-2-169-213.cprapid.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\t211.ip.gl.ply.gg",
       "sources": [
         "threatfox"
@@ -1362,12 +1350,6 @@
     },
     {
       "domain": "127.0.0.1\t265ea973-18d6-47d2-8796-29db4decc888-00-lq5hf5va4e7m.pike.replit.dev",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\t27.ip.gl.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -3605,12 +3587,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\t8.portmap.host",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\t80.t.exifit.eu.org",
       "sources": [
         "threatfox"
@@ -4703,7 +4679,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\ta2.42wd.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\ta2.6b96.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\ta2.6u3o9.ru",
       "sources": [
         "threatfox"
       ]
@@ -4829,6 +4817,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\taa.v96g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\taa.x0e8.ru",
       "sources": [
         "threatfox"
@@ -4842,6 +4836,18 @@
     },
     {
       "domain": "127.0.0.1\taa1133.gilyzzx.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\taa9.23df.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\taa9.6s95.ru",
       "sources": [
         "threatfox"
       ]
@@ -6875,12 +6881,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tadvanced-contributing.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tadvanced-ip-scaners.com",
       "sources": [
         "threatfox"
@@ -6936,12 +6936,6 @@
     },
     {
       "domain": "127.0.0.1\tadvath.webaudiomessages.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tadvennture.top",
       "sources": [
         "threatfox"
       ]
@@ -7325,13 +7319,19 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tag.q5z9s.ru",
+      "domain": "127.0.0.1\tag.dgod.ru",
       "sources": [
         "threatfox"
       ]
     },
     {
-      "domain": "127.0.0.1\tagain-duck.gl.at.ply.gg",
+      "domain": "127.0.0.1\tag.f-05-t.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tag.q5z9s.ru",
       "sources": [
         "threatfox"
       ]
@@ -7674,6 +7674,12 @@
     },
     {
       "domain": "127.0.0.1\tai.cf90.cc",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tai.d-09-r.ru",
       "sources": [
         "threatfox"
       ]
@@ -9042,6 +9048,12 @@
     },
     {
       "domain": "127.0.0.1\tamanafunville.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tamapanel.sbs",
       "sources": [
         "threatfox"
       ]
@@ -13397,12 +13409,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tapply.bluehighland-finance.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tappmacintosh.com",
       "sources": [
         "threatfox"
@@ -13578,6 +13584,12 @@
     },
     {
       "domain": "127.0.0.1\taq0owtwbg2iln.life",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\taq3.b-395.ru",
       "sources": [
         "threatfox"
       ]
@@ -16091,6 +16103,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tartejbs.bet",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tartejoy.co.in",
       "sources": [
         "threatfox"
@@ -16272,6 +16290,12 @@
     },
     {
       "domain": "127.0.0.1\tasatvm.duckdns.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tasceniz.shop",
       "sources": [
         "threatfox"
       ]
@@ -16559,12 +16583,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tasmitadesign.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tasmodian.ddns.net",
       "sources": [
         "threatfox"
@@ -16578,12 +16596,6 @@
     },
     {
       "domain": "127.0.0.1\tasoonworld.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tasoso22.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -19373,12 +19385,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tautodiscover.f.multi-canale.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tautodiscover.gestisciweb.com",
       "sources": [
         "threatfox"
@@ -20676,12 +20682,6 @@
     },
     {
       "domain": "127.0.0.1\tawecikesucgseisw.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tawedfwf-31577.portmap.host",
       "sources": [
         "threatfox"
       ]
@@ -22397,6 +22397,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tax.v96g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\taxecapital.ro",
       "sources": [
         "threatfox"
@@ -22835,6 +22841,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tb2.s-819.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tb2.xs.mastermaths.com.sg",
       "sources": [
         "threatfox"
@@ -22950,12 +22962,6 @@
     },
     {
       "domain": "127.0.0.1\tba.n6p5j.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tba1enciaga.space",
       "sources": [
         "threatfox"
       ]
@@ -23196,12 +23202,6 @@
     },
     {
       "domain": "127.0.0.1\tbakertilly.com.ec",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tbakery.bloggertasher.ru",
       "sources": [
         "threatfox"
       ]
@@ -23825,12 +23825,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tbbvft221.ddns.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tbbvlljwwd.localto.net",
       "sources": [
         "threatfox"
@@ -23880,6 +23874,12 @@
     },
     {
       "domain": "127.0.0.1\tbc.k9u1.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tbc.t65p.ru",
       "sources": [
         "threatfox"
       ]
@@ -25271,6 +25271,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tbj.v96g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tbjkliardii.no-ip.biz",
       "sources": [
         "threatfox"
@@ -25847,6 +25853,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tbn.g-69-p.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tbn.g6i2.ru",
       "sources": [
         "threatfox"
@@ -26070,6 +26082,12 @@
     },
     {
       "domain": "127.0.0.1\tbody-hey.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tbodylne.shop",
       "sources": [
         "threatfox"
       ]
@@ -26808,12 +26826,6 @@
     },
     {
       "domain": "127.0.0.1\tbottomulcp.digital",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tbotx.tianyadd.top",
       "sources": [
         "threatfox"
       ]
@@ -27677,6 +27689,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tbt7.10tw.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tbt7.8h66.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tbtc.newpepemm.nl",
       "sources": [
         "threatfox"
@@ -28145,12 +28169,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tbuywellbuysafe.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tbuzzarddf.live",
       "sources": [
         "threatfox"
@@ -28164,12 +28182,6 @@
     },
     {
       "domain": "127.0.0.1\tbv.m7e4.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tbv.yuoei.shop",
       "sources": [
         "threatfox"
       ]
@@ -28206,6 +28218,12 @@
     },
     {
       "domain": "127.0.0.1\tbw.m5k1k.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tbw.w20s.ru",
       "sources": [
         "threatfox"
       ]
@@ -28703,6 +28721,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tc5.22jk.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tc5.6k47.ru",
       "sources": [
         "threatfox"
@@ -28716,6 +28740,12 @@
     },
     {
       "domain": "127.0.0.1\tc66pqivko6n8o.life",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tc7.n-585.ru",
       "sources": [
         "threatfox"
       ]
@@ -30545,6 +30575,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tcannujv.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tcanony.no-ip.biz",
       "sources": [
         "threatfox"
@@ -30816,12 +30852,6 @@
     },
     {
       "domain": "127.0.0.1\tcaoyqgkqogismiou.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcap569.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -34055,12 +34085,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcheck.aytuna.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcheck.azaler.icu",
       "sources": [
         "threatfox"
@@ -34313,25 +34337,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcheck.eezedu.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcheck.eozusa.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcheck.equcym.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcheck.eucudo.icu",
       "sources": [
         "threatfox"
       ]
@@ -34793,19 +34799,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcheck.oegebo.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcheck.ohuxah.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcheck.oibupi.icu",
       "sources": [
         "threatfox"
       ]
@@ -35123,12 +35117,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcheck.uhaa4.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcheck.uzuqed.icu",
       "sources": [
         "threatfox"
@@ -35310,12 +35298,6 @@
     },
     {
       "domain": "127.0.0.1\tcheck.xuxyf.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcheck.yonuga.icu",
       "sources": [
         "threatfox"
       ]
@@ -35969,12 +35951,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcitrix.klogixsecurity.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcitrixget.com",
       "sources": [
         "threatfox"
@@ -36426,6 +36402,12 @@
     },
     {
       "domain": "127.0.0.1\tclehygs.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tcleistg.shop",
       "sources": [
         "threatfox"
       ]
@@ -37397,12 +37379,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcode47.amazehome.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcodeeatsass.zapto.org",
       "sources": [
         "threatfox"
@@ -37452,12 +37428,6 @@
     },
     {
       "domain": "127.0.0.1\tcoerece.ilovegaysex.su",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcofei.net",
       "sources": [
         "threatfox"
       ]
@@ -38195,12 +38165,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcomputertecs.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcomqpru.top",
       "sources": [
         "threatfox"
@@ -38628,6 +38592,12 @@
     },
     {
       "domain": "127.0.0.1\tcontnni.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tcontrol-spent.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -39449,12 +39419,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcpanel.f.multi-canale.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcpanel.freein-deed.com",
       "sources": [
         "threatfox"
@@ -39492,12 +39456,6 @@
     },
     {
       "domain": "127.0.0.1\tcpanel.kickstartyourcakebiz.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcpanel.m.web-app-on.com",
       "sources": [
         "threatfox"
       ]
@@ -39761,12 +39719,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcpcontacts.continueoraweb.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcpcontacts.d.multi-canale.com",
       "sources": [
         "threatfox"
@@ -39786,12 +39738,6 @@
     },
     {
       "domain": "127.0.0.1\tcpcontacts.gfjd.104-168-101-27.cprapid.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcpcontacts.h.web-app-on.com",
       "sources": [
         "threatfox"
       ]
@@ -40049,12 +39995,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tcreditpronola.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tcreewuh.shop",
       "sources": [
         "threatfox"
@@ -40140,12 +40080,6 @@
     },
     {
       "domain": "127.0.0.1\tcrocodilefg.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcroisbtg2.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -42893,6 +42827,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tcu.g-04-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tcu390ph51q4j5.life",
       "sources": [
         "threatfox"
@@ -44634,12 +44574,6 @@
     },
     {
       "domain": "127.0.0.1\tcusyyoaaaioqeice.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tcut-peripherals.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -48071,6 +48005,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\td.99jn.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\td.9a9o8.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\td.9n75.ru",
       "sources": [
         "threatfox"
@@ -51029,12 +50975,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tdirectlygonow.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tdirsports.milqq.info",
       "sources": [
         "threatfox"
@@ -51437,6 +51377,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tdl.bxof.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tdl.newtoyourgame.com",
       "sources": [
         "threatfox"
@@ -51804,6 +51750,12 @@
     },
     {
       "domain": "127.0.0.1\tdoc.sougou365.online",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tdocker.smashingboss.com",
       "sources": [
         "threatfox"
       ]
@@ -52223,13 +52175,13 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tdoorwanzeh.live",
+      "domain": "127.0.0.1\tdoor-generates.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
     },
     {
-      "domain": "127.0.0.1\tdopeonsolana.info",
+      "domain": "127.0.0.1\tdoorwanzeh.live",
       "sources": [
         "threatfox"
       ]
@@ -52889,12 +52841,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tdsmf3.zapto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tdsoursopsf.run",
       "sources": [
         "threatfox"
@@ -53375,6 +53321,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tdy.z15d.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tdyadqcot.fun",
       "sources": [
         "threatfox"
@@ -53525,6 +53477,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\te.62xm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\te.8c80.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\te.b340.ru",
       "sources": [
         "threatfox"
@@ -53562,12 +53526,6 @@
     },
     {
       "domain": "127.0.0.1\te.overallwobbly.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\te.p.formaxprime.co.uk",
       "sources": [
         "threatfox"
       ]
@@ -54162,12 +54120,6 @@
     },
     {
       "domain": "127.0.0.1\tec2-3-19-222-192.us-east-2.compute.amazonaws.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tec2-3-35-26-26.ap-northeast-2.compute.amazonaws.com",
       "sources": [
         "threatfox"
       ]
@@ -57125,6 +57077,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\ted.dgod.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tedgardocarrascal904050.duckdns.org",
       "sources": [
         "threatfox"
@@ -59729,6 +59687,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\teg.bxof.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\teg.z-99-l.ru",
       "sources": [
         "threatfox"
@@ -61487,6 +61451,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tep.v96g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tep0kbvph.life",
       "sources": [
         "threatfox"
@@ -61572,6 +61542,12 @@
     },
     {
       "domain": "127.0.0.1\tepwnqeghafyocr.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\teq.g-69-p.ru",
       "sources": [
         "threatfox"
       ]
@@ -61853,12 +61829,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tesccapewz.run",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tescczlv.top",
       "sources": [
         "threatfox"
@@ -62076,6 +62046,12 @@
     },
     {
       "domain": "127.0.0.1\teu.p.redc.eu.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\teu.p93z.ru",
       "sources": [
         "threatfox"
       ]
@@ -64782,6 +64758,12 @@
     },
     {
       "domain": "127.0.0.1\tex.ap.4t.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tex.t65p.ru",
       "sources": [
         "threatfox"
       ]
@@ -70487,12 +70469,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tfreemonflask.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tfreepokerchips.sytes.net",
       "sources": [
         "threatfox"
@@ -70860,6 +70836,12 @@
     },
     {
       "domain": "127.0.0.1\tftp.project-w.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tftp.smashingboss.com",
       "sources": [
         "threatfox"
       ]
@@ -71261,6 +71243,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tfx.z15d.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tfxareba.com",
       "sources": [
         "threatfox"
@@ -71369,7 +71357,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tg.23df.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tg.527w.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tg.6s95.ru",
       "sources": [
         "threatfox"
       ]
@@ -77003,6 +77003,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tgenushf.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tgenusie.xyz",
       "sources": [
         "threatfox"
@@ -77442,6 +77448,12 @@
     },
     {
       "domain": "127.0.0.1\tgfyysdjdftm.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tgg.z15d.ru",
       "sources": [
         "threatfox"
       ]
@@ -82589,6 +82601,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tgl.w30g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tgla.niwunae.ru",
       "sources": [
         "threatfox"
@@ -83741,6 +83759,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tgr.d-09-r.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tgrabyourbookhere.com",
       "sources": [
         "threatfox"
@@ -84101,12 +84125,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tgrip08r.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tgripck.top",
       "sources": [
         "threatfox"
@@ -84239,12 +84257,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tgrtha2.zapto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tgrupec.com.co",
       "sources": [
         "threatfox"
@@ -84270,6 +84282,12 @@
     },
     {
       "domain": "127.0.0.1\tgrxeasyw.digital",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tgs.f-42-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -84444,6 +84462,12 @@
     },
     {
       "domain": "127.0.0.1\tgtopakistan.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tgu.p93z.ru",
       "sources": [
         "threatfox"
       ]
@@ -85031,7 +85055,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\th.03mr.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\th.2p62.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\th.6y0u1.ru",
       "sources": [
         "threatfox"
       ]
@@ -85086,6 +85122,18 @@
     },
     {
       "domain": "127.0.0.1\th0metowgh0svi3ws.servequake.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\th1.06hm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\th1.6n47.ru",
       "sources": [
         "threatfox"
       ]
@@ -86154,6 +86202,12 @@
     },
     {
       "domain": "127.0.0.1\thcypapiprod.shebeib.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\thd.n-44-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -87419,6 +87473,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\thl.bwag.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\thl.libityi2.ru",
       "sources": [
         "threatfox"
@@ -87648,12 +87708,6 @@
     },
     {
       "domain": "127.0.0.1\tholerus.cogajroker.cyou",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tholidamyup.today",
       "sources": [
         "threatfox"
       ]
@@ -88050,12 +88104,6 @@
     },
     {
       "domain": "127.0.0.1\thost117.xtpanel.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\thost160.newreport.org",
       "sources": [
         "threatfox"
       ]
@@ -89123,6 +89171,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tia.fjot.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tia.libityi2.ru",
       "sources": [
         "threatfox"
@@ -89268,6 +89322,12 @@
     },
     {
       "domain": "127.0.0.1\tic-www.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tic.f-42-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -94583,12 +94643,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tiiwq24.zapto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tiiwygwqqwksmqmuc.xyz",
       "sources": [
         "threatfox"
@@ -98891,6 +98945,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\timplczf.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\timportant-ala.gl.at.ply.gg",
       "sources": [
         "threatfox"
@@ -100913,6 +100973,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tip-politicians.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tip-www.com",
       "sources": [
         "threatfox"
@@ -101922,12 +101988,6 @@
     },
     {
       "domain": "127.0.0.1\titunesextractor.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tityq2nacc.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -103697,6 +103757,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tjm.bxof.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tjmaxx2.duckdns.org",
       "sources": [
         "threatfox"
@@ -104309,6 +104375,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tjt.n96f.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tjthesimplelife.tech",
       "sources": [
         "threatfox"
@@ -104675,6 +104747,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tk.06hm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tk.08jj.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tk.212-q.ru",
       "sources": [
         "threatfox"
@@ -104687,7 +104771,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tk.6n47.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tk.97qm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tk.9i1e6.ru",
       "sources": [
         "threatfox"
       ]
@@ -104700,6 +104796,12 @@
     },
     {
       "domain": "127.0.0.1\tk.juq0.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tk.m-754.ru",
       "sources": [
         "threatfox"
       ]
@@ -104808,6 +104910,12 @@
     },
     {
       "domain": "127.0.0.1\tk3x.k26i.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tk3x.s-537.ru",
       "sources": [
         "threatfox"
       ]
@@ -105270,12 +105378,6 @@
     },
     {
       "domain": "127.0.0.1\tkasicamondan.mentality.cloud",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tkasin22.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -105935,12 +106037,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tkghmst32.zapto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tkgmkgskwqecmkoay.xyz",
       "sources": [
         "threatfox"
@@ -105960,6 +106056,12 @@
     },
     {
       "domain": "127.0.0.1\tkgqxaa.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tkh.z15d.ru",
       "sources": [
         "threatfox"
       ]
@@ -109770,12 +109872,6 @@
     },
     {
       "domain": "127.0.0.1\tkkmgiiuicugowguk.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tkkmic.com",
       "sources": [
         "threatfox"
       ]
@@ -113687,6 +113783,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tkp.z99l.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tkp96.no-ip.info",
       "sources": [
         "threatfox"
@@ -116489,6 +116591,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tkw.h-73-n.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tkw6ahe9ib2rxc.life",
       "sources": [
         "threatfox"
@@ -116747,6 +116855,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tkz.d-09-r.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tkzgrowthq.live",
       "sources": [
         "threatfox"
@@ -116760,6 +116874,12 @@
     },
     {
       "domain": "127.0.0.1\tl-integrate.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tl.22jk.ru",
       "sources": [
         "threatfox"
       ]
@@ -117084,12 +117204,6 @@
     },
     {
       "domain": "127.0.0.1\tlaminaflbx.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tlammersville.ddns.net",
       "sources": [
         "threatfox"
       ]
@@ -118265,6 +118379,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tlg.x73r.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tlgd8u7dn1.localto.net",
       "sources": [
         "threatfox"
@@ -118985,6 +119105,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tll.bxof.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tll.jjkk567.com",
       "sources": [
         "threatfox"
@@ -119208,12 +119334,6 @@
     },
     {
       "domain": "127.0.0.1\tlobstergroowingto.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tlocal-subsidiary.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -119921,12 +120041,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tlordxg.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tloritoexpresss.dynuddns.com",
       "sources": [
         "threatfox"
@@ -119964,12 +120078,6 @@
     },
     {
       "domain": "127.0.0.1\tlot.dasurie36.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tlotrolnd.jsrhelp.top",
       "sources": [
         "threatfox"
       ]
@@ -120138,12 +120246,6 @@
     },
     {
       "domain": "127.0.0.1\tloxmbi.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tloycos.com",
       "sources": [
         "threatfox"
       ]
@@ -120588,6 +120690,12 @@
     },
     {
       "domain": "127.0.0.1\tluzazai5.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tlv.w30g.ru",
       "sources": [
         "threatfox"
       ]
@@ -121289,6 +121397,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tm3.10tw.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tm3.8h66.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tm3.g-22.ru",
       "sources": [
         "threatfox"
@@ -121343,6 +121463,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tm8.b-395.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tm83-186-111-162.cust.tele2.se",
       "sources": [
         "threatfox"
@@ -121355,7 +121481,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tm9.08jj.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tm9.1v47.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tm9.9i1e6.ru",
       "sources": [
         "threatfox"
       ]
@@ -121380,6 +121518,12 @@
     },
     {
       "domain": "127.0.0.1\tma-toddler.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tma.f-42-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -121968,12 +122112,6 @@
     },
     {
       "domain": "127.0.0.1\tmail.main-amarayuk.store",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tmail.marketplacelenders.xyz",
       "sources": [
         "threatfox"
       ]
@@ -125159,12 +125297,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tmichelgoodsupportingtems.duckdns.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tmichelleolatoksspecialist.com",
       "sources": [
         "threatfox"
@@ -126131,12 +126263,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tmktulori.otbhelp.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tmkuisskyuicqwkew.xyz",
       "sources": [
         "threatfox"
@@ -126150,6 +126276,12 @@
     },
     {
       "domain": "127.0.0.1\tmkuqwisaayeoiiys.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tml.n-44-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -128232,12 +128364,6 @@
     },
     {
       "domain": "127.0.0.1\tmmwekqseiqiwkmqa.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tmmwerw2.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -130853,12 +130979,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tmorning-ultimately.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tmorphos.no-ip.org",
       "sources": [
         "threatfox"
@@ -131495,12 +131615,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tmow929.mvhelp.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tmowceoysckosakey.xyz",
       "sources": [
         "threatfox"
@@ -131874,6 +131988,12 @@
     },
     {
       "domain": "127.0.0.1\tmpcelmobile.com.br",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tmq.z99l.ru",
       "sources": [
         "threatfox"
       ]
@@ -137213,6 +137333,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tmy.f-05-t.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tmy.lulugiy2.ru",
       "sources": [
         "threatfox"
@@ -137274,6 +137400,12 @@
     },
     {
       "domain": "127.0.0.1\tmyaiquowqqoeqqsu.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tmyamiii.com",
       "sources": [
         "threatfox"
       ]
@@ -137783,6 +137915,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tmz.n-44-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tmzcheuqa.cloud",
       "sources": [
         "threatfox"
@@ -137856,6 +137994,12 @@
     },
     {
       "domain": "127.0.0.1\tn.v1n4n.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tn.w30g.ru",
       "sources": [
         "threatfox"
       ]
@@ -140879,6 +141023,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tnovember-surgeon.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tnovermber12.dynamic-dns.net",
       "sources": [
         "threatfox"
@@ -141845,6 +141995,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tny.g-04-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tny.tygilyo.ru",
       "sources": [
         "threatfox"
@@ -141936,12 +142092,6 @@
     },
     {
       "domain": "127.0.0.1\tnzyeyghzrr333b.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\to-la.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -142109,12 +142259,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tobp316.zapto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tobras.duckdns.org",
       "sources": [
         "threatfox"
@@ -142152,6 +142296,12 @@
     },
     {
       "domain": "127.0.0.1\tobyonlinez.ydns.eu",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\toc.f-42-s.ru",
       "sources": [
         "threatfox"
       ]
@@ -142512,12 +142662,6 @@
     },
     {
       "domain": "127.0.0.1\toegwccuiymcogukm.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\toehelp.top",
       "sources": [
         "threatfox"
       ]
@@ -143483,12 +143627,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tommw2.hopto.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tomnitelurengoisa.shop",
       "sources": [
         "threatfox"
@@ -144155,6 +144293,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\topenai-pidor-with-ai.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\topenapi.messager.my",
       "sources": [
         "threatfox"
@@ -144360,12 +144504,6 @@
     },
     {
       "domain": "127.0.0.1\topusculy.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\topusns.innoxiously.com",
       "sources": [
         "threatfox"
       ]
@@ -146717,12 +146855,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\torbitrxh.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\torbitskc.bet",
       "sources": [
         "threatfox"
@@ -146928,6 +147060,12 @@
     },
     {
       "domain": "127.0.0.1\tos.ovhelp.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tos.t65p.ru",
       "sources": [
         "threatfox"
       ]
@@ -149412,6 +149550,12 @@
     },
     {
       "domain": "127.0.0.1\toutside-sand.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\toutsystem.online",
       "sources": [
         "threatfox"
       ]
@@ -154253,6 +154397,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tp0.62xm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tp0.8c80.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tp0.qej9.ru",
       "sources": [
         "threatfox"
@@ -155261,6 +155417,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tpb.g-69-p.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tpbbvkscdfqmx.com",
       "sources": [
         "threatfox"
@@ -155352,12 +155514,6 @@
     },
     {
       "domain": "127.0.0.1\tpdel.tsyndicate.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tpdf-cape.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -155544,6 +155700,12 @@
     },
     {
       "domain": "127.0.0.1\tpdyckgp144x0w.life",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tpe.dgod.ru",
       "sources": [
         "threatfox"
       ]
@@ -156096,6 +156258,12 @@
     },
     {
       "domain": "127.0.0.1\tpfs-jenin.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tpg.n96f.ru",
       "sources": [
         "threatfox"
       ]
@@ -157086,12 +157254,6 @@
     },
     {
       "domain": "127.0.0.1\tplaying-cialis.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tplaying-music.oss-ap-southeast-7.aliyuncs.com",
       "sources": [
         "threatfox"
       ]
@@ -160211,6 +160373,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tpz8.99jn.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tpz8.9a9o8.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tpz8.9n75.ru",
       "sources": [
         "threatfox"
@@ -160356,12 +160530,6 @@
     },
     {
       "domain": "127.0.0.1\tq9.zpozu.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tq9912ass.ddns.net",
       "sources": [
         "threatfox"
       ]
@@ -165419,6 +165587,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tqd.g-04-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tqd.pylohao.ru",
       "sources": [
         "threatfox"
@@ -165839,6 +166013,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tqk2.08jm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tqk2.4m99.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tqke.mexyxei9.ru",
       "sources": [
         "threatfox"
@@ -165875,7 +166061,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tqm9.03mr.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tqm9.2p62.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tqm9.6y0u1.ru",
       "sources": [
         "threatfox"
       ]
@@ -166044,12 +166242,6 @@
     },
     {
       "domain": "127.0.0.1\tqpgomg0nfob.life",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tqpkl23.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -166452,6 +166644,12 @@
     },
     {
       "domain": "127.0.0.1\tquaoeogkoscymgwe.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tquapfi.asia",
       "sources": [
         "threatfox"
       ]
@@ -171149,6 +171347,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tqz.w30g.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tqz7.391-g.ru",
       "sources": [
         "threatfox"
@@ -171203,7 +171407,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tr.08jm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tr.246-b.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tr.4m99.ru",
       "sources": [
         "threatfox"
       ]
@@ -171264,6 +171480,12 @@
     },
     {
       "domain": "127.0.0.1\tr.q8e5.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tr.s-537.ru",
       "sources": [
         "threatfox"
       ]
@@ -172283,6 +172505,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\trd.x73r.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\trdesct.one",
       "sources": [
         "threatfox"
@@ -172836,12 +173064,6 @@
     },
     {
       "domain": "127.0.0.1\tregisteredicludehome.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tregistration-delayed.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -173789,12 +174011,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tresposibleckk.live",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tresqtk.top",
       "sources": [
         "threatfox"
@@ -173832,6 +174048,12 @@
     },
     {
       "domain": "127.0.0.1\trestedpinllow.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tresults-affordable.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -174515,7 +174737,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\trk1.42wd.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\trk1.6b96.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\trk1.6u3o9.ru",
       "sources": [
         "threatfox"
       ]
@@ -174636,18 +174870,6 @@
     },
     {
       "domain": "127.0.0.1\trndge-2a00-102a-506d-54c6-34d9-4f5e-8f2a-2e91.a.free.pinggy.link",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\trndik-156-193-90-159.a.free.pinggy.link",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\trnmaor.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -174960,12 +175182,6 @@
     },
     {
       "domain": "127.0.0.1\trollrer.kdhelp.site",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\trollrer.ylohelp.top",
       "sources": [
         "threatfox"
       ]
@@ -175902,6 +176118,12 @@
     },
     {
       "domain": "127.0.0.1\truydsjncq.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\trv.h-73-n.ru",
       "sources": [
         "threatfox"
       ]
@@ -176958,6 +177180,12 @@
     },
     {
       "domain": "127.0.0.1\tsaid-spam.gl.at.ply.gg",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tsaid-up.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -178811,6 +179039,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tsb.fjot.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tsbbe.loginpaxful.posteid-a365.com",
       "sources": [
         "threatfox"
@@ -178974,12 +179208,6 @@
     },
     {
       "domain": "127.0.0.1\tscary-halo-designing-time.trycloudflare.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tscbas2.zapto.org",
       "sources": [
         "threatfox"
       ]
@@ -179201,12 +179429,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tscore-fears.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tscore-hormone.gl.at.ply.gg",
       "sources": [
         "threatfox"
@@ -179292,12 +179514,6 @@
     },
     {
       "domain": "127.0.0.1\tscreened.autoinsurecare.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tscreensconnct.com",
       "sources": [
         "threatfox"
       ]
@@ -187889,12 +188105,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tsighbtseeing.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tsightvape.com",
       "sources": [
         "threatfox"
@@ -188369,6 +188579,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tsirjosd.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tsirlegacy.duckdns.org",
       "sources": [
         "threatfox"
@@ -188400,12 +188616,6 @@
     },
     {
       "domain": "127.0.0.1\tsisidb.co.uk",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tsisngl21a.ddns.net",
       "sources": [
         "threatfox"
       ]
@@ -188519,13 +188729,13 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tsize-ingredients.gl.at.ply.gg",
+      "domain": "127.0.0.1\tsizzlingcareer.com",
       "sources": [
         "threatfox"
       ]
     },
     {
-      "domain": "127.0.0.1\tsizzlingcareer.com",
+      "domain": "127.0.0.1\tsj.f-05-t.ru",
       "sources": [
         "threatfox"
       ]
@@ -189239,6 +189449,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tsm.t65p.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tsmahrec.com",
       "sources": [
         "threatfox"
@@ -189659,6 +189875,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tsnaifre.sbs",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tsnailzg.digital",
       "sources": [
         "threatfox"
@@ -189948,12 +190170,6 @@
     },
     {
       "domain": "127.0.0.1\tsocial-vpdf.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tsociety-jun.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -190362,6 +190578,12 @@
     },
     {
       "domain": "127.0.0.1\tsopzbd.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tsorbiru.shop",
       "sources": [
         "threatfox"
       ]
@@ -191082,6 +191304,12 @@
     },
     {
       "domain": "127.0.0.1\tspyroid.duckdns.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tsq.d-09-r.ru",
       "sources": [
         "threatfox"
       ]
@@ -192809,12 +193037,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tstring-cities.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tstring-lanes.gl.at.ply.gg",
       "sources": [
         "threatfox"
@@ -193266,12 +193488,6 @@
     },
     {
       "domain": "127.0.0.1\tsucclnct.icu",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tsuch-captain.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -196949,7 +197165,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tt.42wd.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tt.6b96.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tt.6u3o9.ru",
       "sources": [
         "threatfox"
       ]
@@ -197058,12 +197286,6 @@
     },
     {
       "domain": "127.0.0.1\tt24cc3w6oja5n.life",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tt285.acemisn.win",
       "sources": [
         "threatfox"
       ]
@@ -197226,6 +197448,12 @@
     },
     {
       "domain": "127.0.0.1\ttaiffmzy.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\ttailfcw.shop",
       "sources": [
         "threatfox"
       ]
@@ -197850,6 +198078,12 @@
     },
     {
       "domain": "127.0.0.1\tte.migyvya2.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tte.x73r.ru",
       "sources": [
         "threatfox"
       ]
@@ -199026,6 +199260,12 @@
     },
     {
       "domain": "127.0.0.1\ttgphelp.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tth.h-73-n.ru",
       "sources": [
         "threatfox"
       ]
@@ -200411,12 +200651,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\ttold-rain.gl.at.ply.gg",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\ttollcrm.com",
       "sources": [
         "threatfox"
@@ -200801,12 +201035,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\ttouvrlane.bet",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\ttowerstozne.run",
       "sources": [
         "threatfox"
@@ -200874,6 +201102,12 @@
     },
     {
       "domain": "127.0.0.1\ttpr.hati3ea0.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\ttq1.s-819.ru",
       "sources": [
         "threatfox"
       ]
@@ -201197,12 +201431,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\ttravelilx.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\ttravelimages.com.br",
       "sources": [
         "threatfox"
@@ -201210,12 +201438,6 @@
     },
     {
       "domain": "127.0.0.1\ttraveluxk.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\ttravewlio.shop",
       "sources": [
         "threatfox"
       ]
@@ -201497,19 +201719,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\ttriplooqp.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\ttripperxe.live",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\ttripzlux.digital",
       "sources": [
         "threatfox"
       ]
@@ -201576,12 +201786,6 @@
     },
     {
       "domain": "127.0.0.1\ttroia23.ddns.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\ttrolrte.cgphelp.top",
       "sources": [
         "threatfox"
       ]
@@ -201696,12 +201900,6 @@
     },
     {
       "domain": "127.0.0.1\ttruestoryc.digital",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\ttrumpmelanie.duckdns.org",
       "sources": [
         "threatfox"
       ]
@@ -202313,6 +202511,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tty3.62xm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tty3.8c80.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tty3.z-67.ru",
       "sources": [
         "threatfox"
@@ -202529,6 +202739,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tu1.03mr.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tu1.2p62.ru",
       "sources": [
         "threatfox"
@@ -202536,6 +202752,12 @@
     },
     {
       "domain": "127.0.0.1\tu1.333-f.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tu1.6y0u1.ru",
       "sources": [
         "threatfox"
       ]
@@ -202631,6 +202853,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tu5.08jm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tu5.4m99.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tu5.tbkh.ru",
       "sources": [
         "threatfox"
@@ -202710,6 +202944,12 @@
     },
     {
       "domain": "127.0.0.1\tubiosut.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tuc.p93z.ru",
       "sources": [
         "threatfox"
       ]
@@ -210011,6 +210251,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tuk.g-04-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tukaakiwgwsgywsek.xyz",
       "sources": [
         "threatfox"
@@ -212915,6 +213161,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tuo.bwag.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tuoagcakyiqcuqkqa.xyz",
       "sources": [
         "threatfox"
@@ -213761,12 +214013,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tusa.webaudiomessages.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tusaproductsforsale.shop",
       "sources": [
         "threatfox"
@@ -214067,6 +214313,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tuv.z99l.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tuv.zicedoo8.ru",
       "sources": [
         "threatfox"
@@ -214301,6 +214553,18 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tv2.23df.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tv2.6s95.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tv2.egrfbumsu.cn",
       "sources": [
         "threatfox"
@@ -214308,6 +214572,12 @@
     },
     {
       "domain": "127.0.0.1\tv2.hometxuser.n-e.kr",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tv2.m-754.ru",
       "sources": [
         "threatfox"
       ]
@@ -214392,6 +214662,12 @@
     },
     {
       "domain": "127.0.0.1\tv5.759-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tv5.k-342.ru",
       "sources": [
         "threatfox"
       ]
@@ -215315,12 +215591,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\tvfclan.co",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\tvfo2q74c1y0x74.org",
       "sources": [
         "threatfox"
@@ -215370,6 +215640,12 @@
     },
     {
       "domain": "127.0.0.1\tvhhbenjngfkdqqrxyef.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tvi.dgod.ru",
       "sources": [
         "threatfox"
       ]
@@ -215868,6 +216144,12 @@
     },
     {
       "domain": "127.0.0.1\tvixqwtroi.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tvj.w20s.ru",
       "sources": [
         "threatfox"
       ]
@@ -216461,6 +216743,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tvu.n-44-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tvueapiinsights.com",
       "sources": [
         "threatfox"
@@ -216780,6 +217068,18 @@
     },
     {
       "domain": "127.0.0.1\tw3hhhhh-44281.portmap.host",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tw4.99jn.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tw4.9a9o8.ru",
       "sources": [
         "threatfox"
       ]
@@ -217403,12 +217703,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twbkoliter.exfhelp.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twblspc.com",
       "sources": [
         "threatfox"
@@ -217452,6 +217746,12 @@
     },
     {
       "domain": "127.0.0.1\twc.dabytea7.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\twc.f-05-t.ru",
       "sources": [
         "threatfox"
       ]
@@ -217614,12 +217914,6 @@
     },
     {
       "domain": "127.0.0.1\tweafrc.asia",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twealthdime.icu",
       "sources": [
         "threatfox"
       ]
@@ -218255,12 +218549,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twebdisk.gestisciweb.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twebdisk.h.web-app-on.com",
       "sources": [
         "threatfox"
@@ -218268,12 +218556,6 @@
     },
     {
       "domain": "127.0.0.1\twebdisk.i.web-app-on.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twebdisk.multi-canale.com",
       "sources": [
         "threatfox"
       ]
@@ -218357,18 +218639,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twebmail.b.ora-0-web.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twebmail.c.ora-0-web.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twebmail.continueoraweb.com",
       "sources": [
         "threatfox"
@@ -218430,12 +218700,6 @@
     },
     {
       "domain": "127.0.0.1\twebmail.tempoestil.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twebmail.versioneonline.com",
       "sources": [
         "threatfox"
       ]
@@ -221615,6 +221879,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\twholesalecharitysupply.com",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\twholistichealqth.tech",
       "sources": [
         "threatfox"
@@ -222012,6 +222282,12 @@
     },
     {
       "domain": "127.0.0.1\twieiqeaakcauggsk.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\twieish.sbs",
       "sources": [
         "threatfox"
       ]
@@ -223661,6 +223937,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\twisev.sbs",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\twisgqogwcokqwyuo.xyz",
       "sources": [
         "threatfox"
@@ -224256,6 +224538,12 @@
     },
     {
       "domain": "127.0.0.1\twizzyandrichy.hopto.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\twk.n96f.ru",
       "sources": [
         "threatfox"
       ]
@@ -229457,6 +229745,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\twq9.n-585.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\twqemzxncpiou.click",
       "sources": [
         "threatfox"
@@ -230093,12 +230387,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.07391.mobi",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.085097.com",
       "sources": [
         "threatfox"
@@ -230112,12 +230400,6 @@
     },
     {
       "domain": "127.0.0.1\twww.0llhs.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.0ns.pro",
       "sources": [
         "threatfox"
       ]
@@ -230375,18 +230657,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.2345zxrtvc.homes",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.23t.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.249.top",
       "sources": [
         "threatfox"
@@ -230483,12 +230753,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.3-nine.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.30311.xyz",
       "sources": [
         "threatfox"
@@ -230562,12 +230826,6 @@
     },
     {
       "domain": "127.0.0.1\twww.33dz.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.355.loan",
       "sources": [
         "threatfox"
       ]
@@ -230867,12 +231125,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.536386.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.536a.top",
       "sources": [
         "threatfox"
@@ -230915,12 +231167,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.58bet.website",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.58p.top",
       "sources": [
         "threatfox"
@@ -230940,18 +231186,6 @@
     },
     {
       "domain": "127.0.0.1\twww.5c4vy.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.5m4kj.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.5psjco.top",
       "sources": [
         "threatfox"
       ]
@@ -231083,12 +231317,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.68092.legal",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.6851044.vip",
       "sources": [
         "threatfox"
@@ -231209,19 +231437,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.777-dental-implants-au-204.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.7783h.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.77hashrate.xyz",
       "sources": [
         "threatfox"
       ]
@@ -231419,12 +231635,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.88p2p.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.89clubb.art",
       "sources": [
         "threatfox"
@@ -231432,12 +231642,6 @@
     },
     {
       "domain": "127.0.0.1\twww.89f.uno",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.89g.lol",
       "sources": [
         "threatfox"
       ]
@@ -231617,12 +231821,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.99game.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.9bet.bar",
       "sources": [
         "threatfox"
@@ -231713,12 +231911,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.a911.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.aa18i.vip",
       "sources": [
         "threatfox"
@@ -231749,12 +231941,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.abianice-warszawska.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ablu.pro",
       "sources": [
         "threatfox"
@@ -231768,12 +231954,6 @@
     },
     {
       "domain": "127.0.0.1\twww.abysitter-service-97519.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.acacovip.bet",
       "sources": [
         "threatfox"
       ]
@@ -231797,18 +231977,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.acercoffeecompanyava.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.aceseek.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.acking-jobs-17785.bond",
       "sources": [
         "threatfox"
@@ -231827,12 +231995,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ad-schandau-cruise1.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ad.llc",
       "sources": [
         "threatfox"
@@ -231846,12 +232008,6 @@
     },
     {
       "domain": "127.0.0.1\twww.adekclimatecontrol.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.adenauno1240.online",
       "sources": [
         "threatfox"
       ]
@@ -231941,12 +232097,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.affiliate-marketing-16056.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.affiliate-marketing-82505.bond",
       "sources": [
         "threatfox"
@@ -232031,18 +232181,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.aifriendship.store",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.aigeofsage.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ailamericabailbonds.net",
       "sources": [
         "threatfox"
@@ -232061,12 +232199,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ailyhotdealstoday.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.aimao42.top",
       "sources": [
         "threatfox"
@@ -232079,19 +232211,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.aindirectiveteam.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ainianoffice.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ainiceria.pro",
       "sources": [
         "threatfox"
       ]
@@ -232158,12 +232278,6 @@
     },
     {
       "domain": "127.0.0.1\twww.akaw114.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.akaz-1882.shop",
       "sources": [
         "threatfox"
       ]
@@ -232295,12 +232409,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.allergyad.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.alloffameopen1.net",
       "sources": [
         "threatfox"
@@ -232326,12 +232434,6 @@
     },
     {
       "domain": "127.0.0.1\twww.altura.coffee",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.aludmia.info",
       "sources": [
         "threatfox"
       ]
@@ -232505,12 +232607,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.anashekwrites.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.anchorage-diels.net",
       "sources": [
         "threatfox"
@@ -232649,12 +232745,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.anjau2.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.anktl.net",
       "sources": [
         "threatfox"
@@ -232692,12 +232782,6 @@
     },
     {
       "domain": "127.0.0.1\twww.antasypets.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.antoorschoonmaak-1628796.world",
       "sources": [
         "threatfox"
       ]
@@ -232758,12 +232842,6 @@
     },
     {
       "domain": "127.0.0.1\twww.aospin-sms.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.aoya-kamijichi.info",
       "sources": [
         "threatfox"
       ]
@@ -232847,25 +232925,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.appyhere.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.aptops-for-sale.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.aptrailhunterzone.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ar-loans-35530.bond",
       "sources": [
         "threatfox"
       ]
@@ -233009,25 +233069,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.arkettschleifen-dielen.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.arkinsons-treatment-15707.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.arlist.app",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.arlsjrmenu.net",
       "sources": [
         "threatfox"
       ]
@@ -233088,12 +233130,6 @@
     },
     {
       "domain": "127.0.0.1\twww.arthes.app",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.artinspiration.net",
       "sources": [
         "threatfox"
       ]
@@ -233214,12 +233250,6 @@
     },
     {
       "domain": "127.0.0.1\twww.assanalumlnyum.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.assaumergerfunds.info",
       "sources": [
         "threatfox"
       ]
@@ -233393,12 +233423,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.atinafyava.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.atinca.pro",
       "sources": [
         "threatfox"
@@ -233424,12 +233448,6 @@
     },
     {
       "domain": "127.0.0.1\twww.atomoffice.asia",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.atoto.online",
       "sources": [
         "threatfox"
       ]
@@ -233519,12 +233537,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ava.design",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.avada-vzb7.top",
       "sources": [
         "threatfox"
@@ -233538,12 +233550,6 @@
     },
     {
       "domain": "127.0.0.1\twww.avada566.casino",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.avadacasino21.buzz",
       "sources": [
         "threatfox"
       ]
@@ -233579,12 +233585,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.avenspar.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.avesnap.online",
       "sources": [
         "threatfox"
@@ -233592,12 +233592,6 @@
     },
     {
       "domain": "127.0.0.1\twww.avidhost.site",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.avillabandlebattus.cloud",
       "sources": [
         "threatfox"
       ]
@@ -233633,12 +233627,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.awspro4d.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.axfcw.top",
       "sources": [
         "threatfox"
@@ -233652,12 +233640,6 @@
     },
     {
       "domain": "127.0.0.1\twww.axroofing.biz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ay-id2299.info",
       "sources": [
         "threatfox"
       ]
@@ -233712,12 +233694,6 @@
     },
     {
       "domain": "127.0.0.1\twww.aytolljqp.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ayundevtest.xyz",
       "sources": [
         "threatfox"
       ]
@@ -233784,12 +233760,6 @@
     },
     {
       "domain": "127.0.0.1\twww.b811.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.b9s2e.buzz",
       "sources": [
         "threatfox"
       ]
@@ -233987,12 +233957,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.bjcwedding.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.bjvs.town",
       "sources": [
         "threatfox"
@@ -234083,12 +234047,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.botakempire-8.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.bp8el.top",
       "sources": [
         "threatfox"
@@ -234120,12 +234078,6 @@
     },
     {
       "domain": "127.0.0.1\twww.brazil920.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.brflix.online",
       "sources": [
         "threatfox"
       ]
@@ -234234,12 +234186,6 @@
     },
     {
       "domain": "127.0.0.1\twww.bwb41c.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.bytxop.online",
       "sources": [
         "threatfox"
       ]
@@ -234473,12 +234419,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.camtech.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cannabispatientcare.com",
       "sources": [
         "threatfox"
@@ -234503,19 +234443,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.cas32.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cash-vip.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.cashcontrol.pe",
       "sources": [
         "threatfox"
       ]
@@ -234563,12 +234491,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ccessibleeyecare.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cciczy.com",
       "sources": [
         "threatfox"
@@ -234600,12 +234522,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ceberg.black",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.cenicroutes.net",
       "sources": [
         "threatfox"
       ]
@@ -234689,12 +234605,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.circling.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cirquedumarina.com",
       "sources": [
         "threatfox"
@@ -234702,12 +234612,6 @@
     },
     {
       "domain": "127.0.0.1\twww.cisco-us.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.cjams.autos",
       "sources": [
         "threatfox"
       ]
@@ -234768,12 +234672,6 @@
     },
     {
       "domain": "127.0.0.1\twww.cngs.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.co-vision.net",
       "sources": [
         "threatfox"
       ]
@@ -234845,12 +234743,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.cosflare.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cottengland.net",
       "sources": [
         "threatfox"
@@ -234864,12 +234756,6 @@
     },
     {
       "domain": "127.0.0.1\twww.covpsychiz.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.cp.fun",
       "sources": [
         "threatfox"
       ]
@@ -234905,12 +234791,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.cremation-services-13702.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.cremation-services-63446.bond",
       "sources": [
         "threatfox"
@@ -234930,12 +234810,6 @@
     },
     {
       "domain": "127.0.0.1\twww.crownmagnetics.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.crypt.xyz",
       "sources": [
         "threatfox"
       ]
@@ -235007,12 +234881,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.cyma98.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.d-899b30.xyz",
       "sources": [
         "threatfox"
@@ -235026,12 +234894,6 @@
     },
     {
       "domain": "127.0.0.1\twww.d-899b6.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.d-agent.xyz",
       "sources": [
         "threatfox"
       ]
@@ -235056,12 +234918,6 @@
     },
     {
       "domain": "127.0.0.1\twww.d777game.cloud",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.dalang.click",
       "sources": [
         "threatfox"
       ]
@@ -235277,18 +235133,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.digi-well.cloud",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.digiprem.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.dinara.best",
       "sources": [
         "threatfox"
@@ -235398,12 +235242,6 @@
     },
     {
       "domain": "127.0.0.1\twww.dq-www.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.driel.info",
       "sources": [
         "threatfox"
       ]
@@ -235529,12 +235367,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.eachassistant.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.eachcar.net",
       "sources": [
         "threatfox"
@@ -235571,12 +235403,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ealdirectiveteam.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ealfyxerlink.info",
       "sources": [
         "threatfox"
@@ -235584,12 +235410,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ealingcarecounseling.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ealmsec.info",
       "sources": [
         "threatfox"
       ]
@@ -235626,12 +235446,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ealthywatches.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ealthywayzone.online",
       "sources": [
         "threatfox"
       ]
@@ -235679,12 +235493,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ebatmalam.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ebmailexprto.click",
       "sources": [
         "threatfox"
@@ -235697,25 +235505,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ecafecito.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.echpipi.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.echstat.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ecnipack.click",
       "sources": [
         "threatfox"
       ]
@@ -235764,12 +235554,6 @@
     },
     {
       "domain": "127.0.0.1\twww.edicar.group",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.edopen.net",
       "sources": [
         "threatfox"
       ]
@@ -235847,12 +235631,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.eet-new-people-88653.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.eet-new-people-95417.bond",
       "sources": [
         "threatfox"
@@ -235925,12 +235703,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.egalregistration.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.egapari-612095.top",
       "sources": [
         "threatfox"
@@ -235956,12 +235728,6 @@
     },
     {
       "domain": "127.0.0.1\twww.egplek.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.egreen.green",
       "sources": [
         "threatfox"
       ]
@@ -236027,12 +235793,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.eishininternationalava.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.eiwqcorp.com",
       "sources": [
         "threatfox"
@@ -236075,30 +235835,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.elegelhg.qpon",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.elegelhg.watch",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.eleghegl.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.elegilgh.run",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.elegpkmio.pink",
       "sources": [
         "threatfox"
@@ -236118,12 +235854,6 @@
     },
     {
       "domain": "127.0.0.1\twww.eleop927.de",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.eliverynacional.online",
       "sources": [
         "threatfox"
       ]
@@ -236267,12 +235997,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.emvmaasbn.pro",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.emzone.asia",
       "sources": [
         "threatfox"
@@ -236387,19 +236111,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.enseitool.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ensingtonllc.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ental-care-2762127.fyi",
       "sources": [
         "threatfox"
       ]
@@ -236417,12 +236129,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ental-implants-58831.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ental-insurance-us-631.xyz",
       "sources": [
         "threatfox"
@@ -236435,12 +236141,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.entista-de-urgencia-us.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.entry.sbs",
       "sources": [
         "threatfox"
@@ -236448,12 +236148,6 @@
     },
     {
       "domain": "127.0.0.1\twww.enviodoocorreio.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.enyore.community",
       "sources": [
         "threatfox"
       ]
@@ -236502,18 +236196,6 @@
     },
     {
       "domain": "127.0.0.1\twww.epayne.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.epeiroterbesestrepe.cloud",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.epemog.online",
       "sources": [
         "threatfox"
       ]
@@ -236597,18 +236279,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.erforbedsets.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.erfrootdarting.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ergki.top",
       "sources": [
         "threatfox"
@@ -236669,25 +236339,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ersonaai.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ersondigital.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.erspacehealthandwellness.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.erspirexbrasil.online",
       "sources": [
         "threatfox"
       ]
@@ -236700,12 +236352,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ertbz.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ertifiedfasting.info",
       "sources": [
         "threatfox"
       ]
@@ -236789,12 +236435,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.estaking888.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.estcleaningquote.info",
       "sources": [
         "threatfox"
@@ -236873,12 +236513,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.etafusion.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.etchelpgovtw.top",
       "sources": [
         "threatfox"
@@ -236940,12 +236574,6 @@
     },
     {
       "domain": "127.0.0.1\twww.etmagneticmessaging.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.etnonna.app",
       "sources": [
         "threatfox"
       ]
@@ -237041,12 +236669,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.evala.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.evaluationcurrency.com",
       "sources": [
         "threatfox"
@@ -237065,12 +236687,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.evmedia.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.evxeki2.xyz",
       "sources": [
         "threatfox"
@@ -237078,12 +236694,6 @@
     },
     {
       "domain": "127.0.0.1\twww.evxxw.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ewaraja.xyz",
       "sources": [
         "threatfox"
       ]
@@ -237125,12 +236735,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ex-in-wien.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.exchangeodds.live",
       "sources": [
         "threatfox"
@@ -237144,12 +236748,6 @@
     },
     {
       "domain": "127.0.0.1\twww.exent.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.exiqkfylkx.sbs",
       "sources": [
         "threatfox"
       ]
@@ -237209,19 +236807,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.eyond360.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.f-r-a-kuten.cyou",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.f.delivery",
       "sources": [
         "threatfox"
       ]
@@ -237258,12 +236844,6 @@
     },
     {
       "domain": "127.0.0.1\twww.fernandosqualitypainting.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ferrotypes.yachts",
       "sources": [
         "threatfox"
       ]
@@ -237323,18 +236903,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.figment.company",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.fine-to-fine.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.finskills.net",
       "sources": [
         "threatfox"
@@ -237372,12 +236940,6 @@
     },
     {
       "domain": "127.0.0.1\twww.floridapremierestates.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.fluorforesetgambes.cloud",
       "sources": [
         "threatfox"
       ]
@@ -237455,18 +237017,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.fusowostore.buzz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.fve88.win",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.fvendas.online",
       "sources": [
         "threatfox"
@@ -237516,12 +237066,6 @@
     },
     {
       "domain": "127.0.0.1\twww.g-farcaster.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.g100.beauty",
       "sources": [
         "threatfox"
       ]
@@ -237623,12 +237167,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.gcitgvop.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.gdleen.com",
       "sources": [
         "threatfox"
@@ -237665,12 +237203,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.gents4b.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.georgieos.com",
       "sources": [
         "threatfox"
@@ -237684,12 +237216,6 @@
     },
     {
       "domain": "127.0.0.1\twww.getdemystified.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.getthelook.app",
       "sources": [
         "threatfox"
       ]
@@ -238127,12 +237653,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.hatgptstrategies.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.hatiyhgsnterahs.com",
       "sources": [
         "threatfox"
@@ -238188,12 +237708,6 @@
     },
     {
       "domain": "127.0.0.1\twww.hdfysp.men",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.heap-flights-1466962.fyi",
       "sources": [
         "threatfox"
       ]
@@ -238284,12 +237798,6 @@
     },
     {
       "domain": "127.0.0.1\twww.hemassageroom.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.heneapolis.city",
       "sources": [
         "threatfox"
       ]
@@ -238535,12 +238043,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.hoangntran.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.hoenixance.shop",
       "sources": [
         "threatfox"
@@ -238709,12 +238211,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.htravel.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.huangyusij.top",
       "sources": [
         "threatfox"
@@ -238722,12 +238218,6 @@
     },
     {
       "domain": "127.0.0.1\twww.huanyinxagsxy.fun",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.hufi.pink",
       "sources": [
         "threatfox"
       ]
@@ -238877,12 +238367,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.iberdata.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ibnllc.net",
       "sources": [
         "threatfox"
@@ -238920,12 +238404,6 @@
     },
     {
       "domain": "127.0.0.1\twww.icole484.forum",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ictionworks.xyz",
       "sources": [
         "threatfox"
       ]
@@ -238979,19 +238457,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.idscomefirst.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ie77s.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ielosanantonio.online",
       "sources": [
         "threatfox"
       ]
@@ -239016,12 +238482,6 @@
     },
     {
       "domain": "127.0.0.1\twww.iewm0.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ifestylebonus.pro",
       "sources": [
         "threatfox"
       ]
@@ -239153,12 +238613,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ijn-websupport.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ijnbedrijfskleding.shop",
       "sources": [
         "threatfox"
@@ -239207,12 +238661,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.illionblocks.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ilosportsy.shop",
       "sources": [
         "threatfox"
@@ -239220,12 +238668,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ilviunmul.pro",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ilybookstone.shop",
       "sources": [
         "threatfox"
       ]
@@ -239255,25 +238697,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.imilarityapi.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.imorraes.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.impiezasvalladolid.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.impleq.xyz",
       "sources": [
         "threatfox"
       ]
@@ -239315,12 +238739,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.inegameyz.digital",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.inetask.net",
       "sources": [
         "threatfox"
@@ -239328,18 +238746,6 @@
     },
     {
       "domain": "127.0.0.1\twww.influencer-marketing-61296.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.influencer-marketing-81492.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ingchunboxermagazine.net",
       "sources": [
         "threatfox"
       ]
@@ -239483,12 +238889,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.intercall.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.interstateimaging.net",
       "sources": [
         "threatfox"
@@ -239574,12 +238974,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ipralex.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ipsexshop.shop",
       "sources": [
         "threatfox"
       ]
@@ -239681,12 +239075,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.irinevlerbombaci.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.iringpartnersinc.net",
       "sources": [
         "threatfox"
@@ -239735,12 +239123,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ishwasher-jobs-678341.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.isneyai.online",
       "sources": [
         "threatfox"
@@ -239754,12 +239136,6 @@
     },
     {
       "domain": "127.0.0.1\twww.isspoppydesignava.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.istapro.shop",
       "sources": [
         "threatfox"
       ]
@@ -239789,18 +239165,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.itadelot.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.italbitez.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.itaslotk.cfd",
       "sources": [
         "threatfox"
@@ -239820,12 +239184,6 @@
     },
     {
       "domain": "127.0.0.1\twww.itchen-design-57211.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.itchen-remodeling-up.world",
       "sources": [
         "threatfox"
       ]
@@ -239879,12 +239237,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ituttotienda.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.iu-www.com",
       "sources": [
         "threatfox"
@@ -239904,18 +239256,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ivajjmahal.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ivepeace.asia",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.iverlakes.online",
       "sources": [
         "threatfox"
       ]
@@ -240191,12 +239531,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.jolve.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.jonathandrainey.com",
       "sources": [
         "threatfox"
@@ -240461,18 +239795,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.klogixsecurity.org",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.klopcy.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.klub8.vip",
       "sources": [
         "threatfox"
@@ -240701,12 +240023,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.lberche.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lberta-mortgagebrokers.xyz",
       "sources": [
         "threatfox"
@@ -240761,12 +240077,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.leartec.health",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lectric-cars-99334.bond",
       "sources": [
         "threatfox"
@@ -240774,18 +240084,6 @@
     },
     {
       "domain": "127.0.0.1\twww.lectric-cars-topics.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.lectro-hub.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.lectronics-engineering.cfd",
       "sources": [
         "threatfox"
       ]
@@ -240804,12 +240102,6 @@
     },
     {
       "domain": "127.0.0.1\twww.leekhoodie.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.leganttreasuresboutique.info",
       "sources": [
         "threatfox"
       ]
@@ -240911,19 +240203,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.lifemeasures.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lifemindmed.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.lil.lat",
       "sources": [
         "threatfox"
       ]
@@ -240972,12 +240252,6 @@
     },
     {
       "domain": "127.0.0.1\twww.lion.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.lip-injections-74025.bond",
       "sources": [
         "threatfox"
       ]
@@ -241127,12 +240401,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.lomail.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lon.store",
       "sources": [
         "threatfox"
@@ -241199,12 +240467,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.lowavenue.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lowdownlocal.com",
       "sources": [
         "threatfox"
@@ -241218,12 +240480,6 @@
     },
     {
       "domain": "127.0.0.1\twww.lowfy1.store",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.lp.cash",
       "sources": [
         "threatfox"
       ]
@@ -241337,12 +240593,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.lwinabar.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.lx2cbhe5vee0e1.xyz",
       "sources": [
         "threatfox"
@@ -241374,12 +240624,6 @@
     },
     {
       "domain": "127.0.0.1\twww.m-yra.lat",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.m128.xyz",
       "sources": [
         "threatfox"
       ]
@@ -241433,12 +240677,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.magicfurries.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.mail-googlservice.site",
       "sources": [
         "threatfox"
@@ -241470,12 +240708,6 @@
     },
     {
       "domain": "127.0.0.1\twww.makeyourchoice0808.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.mallelectricarsgb.bond",
       "sources": [
         "threatfox"
       ]
@@ -241571,12 +240803,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.martdrivecare.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.martteamslab.shop",
       "sources": [
         "threatfox"
@@ -241596,12 +240822,6 @@
     },
     {
       "domain": "127.0.0.1\twww.mauirpm.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.mbeddedcopilot.xyz",
       "sources": [
         "threatfox"
       ]
@@ -241644,12 +240864,6 @@
     },
     {
       "domain": "127.0.0.1\twww.megatopo.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.men-health-64737.bond",
       "sources": [
         "threatfox"
       ]
@@ -241859,12 +241073,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.motrim.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.moutonneuropenihal.cloud",
       "sources": [
         "threatfox"
@@ -241967,12 +241175,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.mybucketwish.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.mycarefamily.net",
       "sources": [
         "threatfox"
@@ -242009,19 +241211,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nagapa.irish",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.name.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.namensk.info",
       "sources": [
         "threatfox"
       ]
@@ -242105,18 +241295,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ndo777login.pro",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ndosbobet888.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ndotoverf.pro",
       "sources": [
         "threatfox"
@@ -242153,19 +241331,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nequaled-fang.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nerrj.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.nesuns.asia",
       "sources": [
         "threatfox"
       ]
@@ -242219,12 +241385,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nfmod.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nfq.xyz",
       "sources": [
         "threatfox"
@@ -242244,12 +241404,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ngimg.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ngin.live",
       "sources": [
         "threatfox"
       ]
@@ -242285,12 +241439,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nifiedway.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nimesyentai.biz",
       "sources": [
         "threatfox"
@@ -242304,12 +241452,6 @@
     },
     {
       "domain": "127.0.0.1\twww.nipers.digital",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.nipsvuesandbox.studio",
       "sources": [
         "threatfox"
       ]
@@ -242411,31 +241553,13 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nnovativeworld.cyou",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.no8q8.vip",
       "sources": [
         "threatfox"
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nomy.app",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nonymix.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.nopickayo.biz",
       "sources": [
         "threatfox"
       ]
@@ -242561,12 +241685,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nuocjpg.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nuopex.com",
       "sources": [
         "threatfox"
@@ -242579,25 +241697,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.nventory-software-45680.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.nventory-software-74785.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.nventory-software-91161.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.nvhotworx.net",
       "sources": [
         "threatfox"
       ]
@@ -242676,12 +241776,6 @@
     },
     {
       "domain": "127.0.0.1\twww.oans-credits-72574.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.oans-credits-73480.bond",
       "sources": [
         "threatfox"
       ]
@@ -242873,19 +241967,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.odkacasino-333.buzz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.odkinpodcast.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.odltown.xyz",
       "sources": [
         "threatfox"
       ]
@@ -242922,12 +242004,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ofas-cave-379.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ofas-district.world",
       "sources": [
         "threatfox"
       ]
@@ -242988,18 +242064,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ogw159.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ohnmcafee.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ohnnywilly.tech",
       "sources": [
         "threatfox"
       ]
@@ -243078,18 +242142,6 @@
     },
     {
       "domain": "127.0.0.1\twww.olaoutfitters.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.olar-panel-jobs-13264.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.olar-systems-panels-18238.bond",
       "sources": [
         "threatfox"
       ]
@@ -243179,30 +242231,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ollectors.legal",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.olominer.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.olorityx.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.olourg.irish",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.oly-grail.shop",
       "sources": [
         "threatfox"
@@ -243276,18 +242304,6 @@
     },
     {
       "domain": "127.0.0.1\twww.omain.apartments",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.omaine-videlot.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ombadillian.net",
       "sources": [
         "threatfox"
       ]
@@ -243419,18 +242435,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ompresormx1.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.on66my.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ona88.skin",
       "sources": [
         "threatfox"
@@ -243455,12 +242459,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.onductlogicpioneergroupfirm.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.onety.skin",
       "sources": [
         "threatfox"
@@ -243474,18 +242472,6 @@
     },
     {
       "domain": "127.0.0.1\twww.onhelp.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.online-advertising-56759.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.online-advertising-61202.bond",
       "sources": [
         "threatfox"
       ]
@@ -243509,19 +242495,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.onlynaturalpetes.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.onodecor.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.onstruction-jobs-92972.bond",
       "sources": [
         "threatfox"
       ]
@@ -243558,12 +242532,6 @@
     },
     {
       "domain": "127.0.0.1\twww.oodwar.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.oodwin-law.cfd",
       "sources": [
         "threatfox"
       ]
@@ -243611,12 +242579,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ool-tools.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.oolplusservis.online",
       "sources": [
         "threatfox"
@@ -243630,12 +242592,6 @@
     },
     {
       "domain": "127.0.0.1\twww.oonsprout.art",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ootball-coaching-40064.bond",
       "sources": [
         "threatfox"
       ]
@@ -243660,18 +242616,6 @@
     },
     {
       "domain": "127.0.0.1\twww.op-sidenko-pdr.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.opcorninc.lol",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.opculturebuzz.info",
       "sources": [
         "threatfox"
       ]
@@ -243809,12 +242753,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ork-from-home-vn3.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ork-law-9s10s5.live",
       "sources": [
         "threatfox"
@@ -243869,12 +242807,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.osmetic-packaging-jobs.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.osmeticsshopbackend.click",
       "sources": [
         "threatfox"
@@ -243894,12 +242826,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ospital-care-us-tr-89642.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.osss.shop",
       "sources": [
         "threatfox"
       ]
@@ -243942,12 +242868,6 @@
     },
     {
       "domain": "127.0.0.1\twww.otculua.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.otdrones.shop",
       "sources": [
         "threatfox"
       ]
@@ -244007,12 +242927,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.oughstorememorial.lifestyle",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ouhael.club",
       "sources": [
         "threatfox"
@@ -244062,12 +242976,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ouse-cleaning-us-6811.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ouseofisra-el.net",
       "sources": [
         "threatfox"
       ]
@@ -244151,12 +243059,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ovepeace-jp.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.overed-terrace-12433.bond",
       "sources": [
         "threatfox"
@@ -244170,12 +243072,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ovesaint.art",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ovesmaps.online",
       "sources": [
         "threatfox"
       ]
@@ -244223,12 +243119,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.owbest.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.owellpublications.net",
       "sources": [
         "threatfox"
@@ -244248,12 +243138,6 @@
     },
     {
       "domain": "127.0.0.1\twww.owfnm.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.oworking-space-1.live",
       "sources": [
         "threatfox"
       ]
@@ -244308,12 +243192,6 @@
     },
     {
       "domain": "127.0.0.1\twww.p7s5272.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.p8uatwdpyjgafakp.cyou",
       "sources": [
         "threatfox"
       ]
@@ -244385,12 +243263,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.partmentflatart.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.pawchamamapet.net",
       "sources": [
         "threatfox"
@@ -244439,18 +243311,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.pecoincopilot.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.peekr.app",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.pelikansubelesindeindirim.xyz",
       "sources": [
         "threatfox"
@@ -244476,12 +243336,6 @@
     },
     {
       "domain": "127.0.0.1\twww.perfectdrishti.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.personal-loans-51463.bond",
       "sources": [
         "threatfox"
       ]
@@ -244523,19 +243377,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.piccomms.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.picmovies.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.pidersandsparrowsgroup.info",
       "sources": [
         "threatfox"
       ]
@@ -244769,12 +243611,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.pscaleluxury.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.psdtxb.xyz",
       "sources": [
         "threatfox"
@@ -244782,12 +243618,6 @@
     },
     {
       "domain": "127.0.0.1\twww.psrn.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.pt-45.online",
       "sources": [
         "threatfox"
       ]
@@ -245027,12 +243857,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.qsvuss.pics",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.qtaa9.cfd",
       "sources": [
         "threatfox"
@@ -245105,12 +243929,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.r33bz.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.r811.top",
       "sources": [
         "threatfox"
@@ -245153,18 +243971,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.radient777.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.radioplaylist.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.raedenwhitten.vip",
       "sources": [
         "threatfox"
@@ -245184,12 +243990,6 @@
     },
     {
       "domain": "127.0.0.1\twww.rafttrd.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.railers.info",
       "sources": [
         "threatfox"
       ]
@@ -245285,25 +244085,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ravelconverter.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.raveline.tech",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ravella.biz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ravelopedia.info",
       "sources": [
         "threatfox"
       ]
@@ -245381,19 +244163,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.reamcloudbright.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.reamcloudpoint.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.reameast.live",
       "sources": [
         "threatfox"
       ]
@@ -245430,12 +244200,6 @@
     },
     {
       "domain": "127.0.0.1\twww.reefiremaxapk.pro",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.reeseotool.pro",
       "sources": [
         "threatfox"
       ]
@@ -245495,12 +244259,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.rendvault.fashion",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.rendzystore.net",
       "sources": [
         "threatfox"
@@ -245549,12 +244307,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.rettvollmar.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.rfnpt.com",
       "sources": [
         "threatfox"
@@ -245568,12 +244320,6 @@
     },
     {
       "domain": "127.0.0.1\twww.rg-mwnym.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.rg-txtagstorefrontfze.world",
       "sources": [
         "threatfox"
       ]
@@ -245603,12 +244349,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.rice-artificial-886827482.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.rick-mason-jobs-27365.bond",
       "sources": [
         "threatfox"
@@ -245622,12 +244362,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ridgingruralcommunities.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.riferrari.shop",
       "sources": [
         "threatfox"
       ]
@@ -245652,12 +244386,6 @@
     },
     {
       "domain": "127.0.0.1\twww.rimestash.lat",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.riminal-mischief.cfd",
       "sources": [
         "threatfox"
       ]
@@ -245795,24 +244523,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.rodigy.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.rodigytools.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.rodirectiveconsultinghq.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.rog.top",
       "sources": [
         "threatfox"
@@ -245861,12 +244571,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.romptsdesigns.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ronbloodtattoos.net",
       "sources": [
         "threatfox"
@@ -245898,12 +244602,6 @@
     },
     {
       "domain": "127.0.0.1\twww.rootshift.ru",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.rooutfits.net",
       "sources": [
         "threatfox"
       ]
@@ -246101,12 +244799,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.rusthousestyle.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.rustore.fedor-turin.ru",
       "sources": [
         "threatfox"
@@ -246185,12 +244877,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.s2ega.live",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.s667788.xyz",
       "sources": [
         "threatfox"
@@ -246198,12 +244884,6 @@
     },
     {
       "domain": "127.0.0.1\twww.s86-y9rr7y-sa6vm.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.sa-store.online",
       "sources": [
         "threatfox"
       ]
@@ -246263,12 +244943,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.sararossos.realtor",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.sasha-solzhenicyn.ru",
       "sources": [
         "threatfox"
@@ -246282,12 +244956,6 @@
     },
     {
       "domain": "127.0.0.1\twww.scortlar643.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.scottauto.saxloo.com",
       "sources": [
         "threatfox"
       ]
@@ -246377,12 +245045,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.serviciosinformaticos.com.co",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.sesimpson-judgehq.sbs",
       "sources": [
         "threatfox"
@@ -246408,12 +245070,6 @@
     },
     {
       "domain": "127.0.0.1\twww.sgzg.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.sharedbtc.xyz",
       "sources": [
         "threatfox"
       ]
@@ -246569,12 +245225,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.sneakershopnowsportsale.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.sntzag.info",
       "sources": [
         "threatfox"
@@ -246665,12 +245315,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.spearsplatssplint.cloud",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.spgo2.top",
       "sources": [
         "threatfox"
@@ -246720,12 +245364,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ssatech.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ssetexcelstrongmanageroot.xyz",
       "sources": [
         "threatfox"
       ]
@@ -246833,12 +245471,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.sunday.cafe",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.sunsetserenadenc.com",
       "sources": [
         "threatfox"
@@ -246888,12 +245520,6 @@
     },
     {
       "domain": "127.0.0.1\twww.svsku.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.swift.xyz",
       "sources": [
         "threatfox"
       ]
@@ -247079,12 +245705,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.taolishuxia.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.tapinadvert.com",
       "sources": [
         "threatfox"
@@ -247092,12 +245712,6 @@
     },
     {
       "domain": "127.0.0.1\twww.taradiary.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.tarbeat-league.pro",
       "sources": [
         "threatfox"
       ]
@@ -247139,19 +245753,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.td0t.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.tdnimji.buzz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.technectar.top",
       "sources": [
         "threatfox"
       ]
@@ -247236,12 +245838,6 @@
     },
     {
       "domain": "127.0.0.1\twww.tgroup.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.thaum.africa",
       "sources": [
         "threatfox"
       ]
@@ -247409,12 +246005,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.tp-jos178-a2.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.tp11okebet303.xyz",
       "sources": [
         "threatfox"
@@ -247452,18 +246042,6 @@
     },
     {
       "domain": "127.0.0.1\twww.trezcip.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.trongmindcheck.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.trsfaa.shop",
       "sources": [
         "threatfox"
       ]
@@ -247565,12 +246143,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.twuytr.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.twwdserve.com",
       "sources": [
         "threatfox"
@@ -247584,12 +246156,6 @@
     },
     {
       "domain": "127.0.0.1\twww.tylescanner.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.tyxtpzv.info",
       "sources": [
         "threatfox"
       ]
@@ -247619,12 +246185,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.uaizhan.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ualitybeautyhk.clinic",
       "sources": [
         "threatfox"
@@ -247638,12 +246198,6 @@
     },
     {
       "domain": "127.0.0.1\twww.uanpian.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.uantumnovamind.pro",
       "sources": [
         "threatfox"
       ]
@@ -247679,12 +246233,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ubstrate360.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ubuly.xyz",
       "sources": [
         "threatfox"
@@ -247703,12 +246251,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ucien.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.uckice.shop",
       "sources": [
         "threatfox"
@@ -247716,12 +246258,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ucky-jet777-1.top",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ucky-win-spin.xyz",
       "sources": [
         "threatfox"
       ]
@@ -247757,25 +246293,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.udes-kitchen.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.udness.art",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.uefana.biz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.uenstigesofas.today",
       "sources": [
         "threatfox"
       ]
@@ -247806,12 +246324,6 @@
     },
     {
       "domain": "127.0.0.1\twww.ugconsultanceltd.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ugmentedmap.xyz",
       "sources": [
         "threatfox"
       ]
@@ -247883,12 +246395,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ulsedream.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ulta.city",
       "sources": [
         "threatfox"
@@ -247919,12 +246425,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.umidifier-74367.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ummervibezonly.shop",
       "sources": [
         "threatfox"
@@ -247938,12 +246438,6 @@
     },
     {
       "domain": "127.0.0.1\twww.umss.qpon",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.un20250227-23.fun",
       "sources": [
         "threatfox"
       ]
@@ -248051,18 +246545,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.uperstash.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.upiterassistant.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.uponbs3.pro",
       "sources": [
         "threatfox"
@@ -248093,12 +246575,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ureformula.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.urenorthanalytics.net",
       "sources": [
         "threatfox"
@@ -248118,12 +246594,6 @@
     },
     {
       "domain": "127.0.0.1\twww.urkifsalife.cfd",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.urkish-hair-268864660.click",
       "sources": [
         "threatfox"
       ]
@@ -248165,19 +246635,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ursing-home-43203.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ursing-home-51.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.urumsbicard.net",
       "sources": [
         "threatfox"
       ]
@@ -248213,18 +246671,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ushgroup.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.usinesposte.cyou",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.usjiikay.com",
       "sources": [
         "threatfox"
@@ -248237,25 +246683,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.uskomaras-gyor.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.uslim-dating-iocc5xdbns61.today",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.usmmsa.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.usshelter.net",
       "sources": [
         "threatfox"
       ]
@@ -248387,12 +246815,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.v-finance.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.v2-biswap.pro",
       "sources": [
         "threatfox"
@@ -248465,12 +246887,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.vegamanagementconsulting.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.vegbydesign.net",
       "sources": [
         "threatfox"
@@ -248496,12 +246912,6 @@
     },
     {
       "domain": "127.0.0.1\twww.verypartypop.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.verythingchat.xyz",
       "sources": [
         "threatfox"
       ]
@@ -248549,18 +246959,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.viddeos.red",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.video-games-39348.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.video-games-97741.bond",
       "sources": [
         "threatfox"
@@ -248586,12 +246984,6 @@
     },
     {
       "domain": "127.0.0.1\twww.vincnakliye.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.vitance.digital",
       "sources": [
         "threatfox"
       ]
@@ -248705,12 +247097,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.w88link.vip",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.wa.fedor-turin.ru",
       "sources": [
         "threatfox"
@@ -248742,12 +247128,6 @@
     },
     {
       "domain": "127.0.0.1\twww.wanttoliveathelena57west.net",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.warehouse-inventory-39425.bond",
       "sources": [
         "threatfox"
       ]
@@ -248813,12 +247193,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.welding-jobs-27111.bond",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.wevertexinc.com",
       "sources": [
         "threatfox"
@@ -248844,12 +247218,6 @@
     },
     {
       "domain": "127.0.0.1\twww.whuastp.info",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.wiftloom.pics",
       "sources": [
         "threatfox"
       ]
@@ -248928,12 +247296,6 @@
     },
     {
       "domain": "127.0.0.1\twww.wkilohs.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.wlf.dev",
       "sources": [
         "threatfox"
       ]
@@ -249209,12 +247571,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.xpat-health-insurance-ng.online",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.xplosion-proof.lat",
       "sources": [
         "threatfox"
@@ -249264,12 +247620,6 @@
     },
     {
       "domain": "127.0.0.1\twww.xzgdp.autos",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.y-marketing-chef.online",
       "sources": [
         "threatfox"
       ]
@@ -249455,12 +247805,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.yperfakeverse.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.yperliquid.credit",
       "sources": [
         "threatfox"
@@ -249473,19 +247817,7 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.ypham-japan.shop",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.ypothings.pro",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.yroisland.net",
       "sources": [
         "threatfox"
       ]
@@ -249552,12 +247884,6 @@
     },
     {
       "domain": "127.0.0.1\twww.yuuk1.click",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.yvalikdigital.online",
       "sources": [
         "threatfox"
       ]
@@ -249677,18 +248003,6 @@
       ]
     },
     {
-      "domain": "127.0.0.1\twww.zit.world",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.ziugsyw.xyz",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
       "domain": "127.0.0.1\twww.zixuetiandi.com",
       "sources": [
         "threatfox"
@@ -249702,12 +248016,6 @@
     },
     {
       "domain": "127.0.0.1\twww.zjylsp22.sbs",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\twww.zkcontents.xyz",
       "sources": [
         "threatfox"
       ]
@@ -250043,7 +248351,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\twz8.06hm.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\twz8.212-q.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\twz8.6n47.ru",
       "sources": [
         "threatfox"
       ]
@@ -250098,6 +248418,12 @@
     },
     {
       "domain": "127.0.0.1\tx.purgepots.net",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tx.s-819.ru",
       "sources": [
         "threatfox"
       ]
@@ -250727,6 +249053,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\txm.fjot.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\txm.lnpntkd9vth0tup2.rest",
       "sources": [
         "threatfox"
@@ -250824,6 +249156,12 @@
     },
     {
       "domain": "127.0.0.1\txn--indirm-gunu-3zb.shop",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\txn.x73r.ru",
       "sources": [
         "threatfox"
       ]
@@ -250985,7 +249323,19 @@
       ]
     },
     {
+      "domain": "127.0.0.1\txq7.08jj.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\txq7.1v47.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\txq7.9i1e6.ru",
       "sources": [
         "threatfox"
       ]
@@ -251819,6 +250169,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tyb.w20s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tybiwarez.no-ip.org",
       "sources": [
         "threatfox"
@@ -252258,6 +250614,18 @@
     },
     {
       "domain": "127.0.0.1\tygvmhd7ll9v2nu.org",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tyh.gjat.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tyh.n96f.ru",
       "sources": [
         "threatfox"
       ]
@@ -254963,6 +253331,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tyl.p93z.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tym.lizusey.ru",
       "sources": [
         "threatfox"
@@ -257154,12 +255528,6 @@
     },
     {
       "domain": "127.0.0.1\tyoupteck.com",
-      "sources": [
-        "threatfox"
-      ]
-    },
-    {
-      "domain": "127.0.0.1\tyour-thumb.gl.at.ply.gg",
       "sources": [
         "threatfox"
       ]
@@ -259860,6 +258228,12 @@
     },
     {
       "domain": "127.0.0.1\tyqyysgeaeqceoqwa.xyz",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tyr.h-73-n.ru",
       "sources": [
         "threatfox"
       ]
@@ -262919,7 +261293,25 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tz.10tw.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tz.759-s.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tz.8h66.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tz.b-395.ru",
       "sources": [
         "threatfox"
       ]
@@ -263238,6 +261630,12 @@
     },
     {
       "domain": "127.0.0.1\tzczxczx-37792.portmap.host",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tzd.w20s.ru",
       "sources": [
         "threatfox"
       ]
@@ -263699,6 +262097,12 @@
       ]
     },
     {
+      "domain": "127.0.0.1\tzj.z99l.ru",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
       "domain": "127.0.0.1\tzk.toqyboe3.ru",
       "sources": [
         "threatfox"
@@ -263952,6 +262356,12 @@
     },
     {
       "domain": "127.0.0.1\tzpxcre-5.top",
+      "sources": [
+        "threatfox"
+      ]
+    },
+    {
+      "domain": "127.0.0.1\tzr.fjot.ru",
       "sources": [
         "threatfox"
       ]
