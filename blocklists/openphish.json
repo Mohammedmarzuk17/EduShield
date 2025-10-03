@@ -1,55 +1,91 @@
 {
   "domains": [
     {
+      "domain": "01ezdhsga.s3.us-east-1.amazonaws.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "15110077.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
       "domain": "1rti.shardocs.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "50050041.com",
+      "domain": "30hrs-acessoitau.club",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "6-0462ywggjll-l.webflow.io",
+      "domain": "3guq.sap29233fk.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "8df394d7-6f43-413d-a733-b036972444c4-00-1xrrl4e86nhe9.picard.replit.dev",
+      "domain": "4qax-bmmanager041370.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "98-66-160-154.cprapid.com",
+      "domain": "77029.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "9ue7dgf.ctk9akio.eu.org",
+      "domain": "8qhn-bmmanager790420.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "abhishek4050.github.io",
+      "domain": "a4y.pro",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "abijeetomar.github.io",
+      "domain": "abrar-malik786.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "aiaibinokuni.com",
+      "domain": "accountcenter-reguloria-gfd110vc.netlify.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "accountcenter-rulecodex-fds110cz.netlify.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ads.ac.vn",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "afruovrzgh.duckdns.org",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "agrovez.com",
       "sources": [
         "openphish"
       ]
@@ -57,216 +93,280 @@
     {
       "domain": "alarafi.net",
       "sources": [
-        "openphish"
+        "openphish",
+        "phishing_army"
       ]
     },
     {
-      "domain": "alhinawi.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "app-pendle.fun",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "artoffadezbarber.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "astonishing-gecko-b28b68.netlify.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "aumentolimitenu.sh2.hidora.net",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "auth-midrivers.netlify.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "ayhanturaloglu-web.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "b-t-internet.weeblysite.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bafkreif6dssq7jwl3pdeoogf7npds4iz5zlcxrhwcnubgh6svwzvf2rsmi.ipfs.dweb.link",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bafybeidumje7chffoznwpxhlkvbxzigm24d6g4ojc56i2w45uyh2fx63i4.ipfs.dweb.link",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bafybeifw5kxvnctx4vfa3a2zhjgu6huswmglbwyprb2wft2kbh6rpnwdfe.ipfs.dweb.link",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bambisko.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "basekrn.sbs",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bet73024.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bet73066.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bet83080.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bhdcreditosrd.iceiy.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bhhd-leoon-proomos.vercel.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "bikrampy.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "blockchainnloginus.webflow.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "brdge-io-trezor.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "business-for-advertisers-takedown-impersonation.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "c.4qw.nl",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "cadexinc.shardocs.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "cbigs.com.br",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "central.feiraodomesoutubroagorayu.online",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "cf-auto.76810903.xyz",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "cgd-appdirecta.com",
+      "domain": "allegrolokalnie.pl-72715.cfd",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "cguwbvmgdqmx.lectec.com.au",
+      "domain": "allegrolokalnie.pl-93132627-personal.shop",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl-ogloszenie-232495.cfd",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "amazon-clone-ten-pied-30.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "chat1.centralatendimentosetembro.com",
+      "domain": "amazon-clone-web-eight.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "circle-dog-bean-utilize.trycloudflare.com",
+      "domain": "anderson-front.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "coinbase-239184.com",
+      "domain": "app.635-488.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "connect-login-trezo.pages.dev",
+      "domain": "ayeshashaikh25.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "crypto-com-logn.typedream.app",
+      "domain": "bet73015.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "customer-support-system-customer-help-desk.pages.dev",
+      "domain": "bet73020.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bet73021.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bet73057.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bet73078.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bet73087.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bet83067.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bizztds.weebly.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bloom-glucose-atmospheric-lucky.trycloudflare.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bqoheur.cn",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "btinternet-2gv7.glide.page",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "canada.rbcaccount.top",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "casefb107414-fm1c.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cases1006a9kpoezxgr1268b-01hiep10-wseghw4.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cb68679-wordpress-petvi.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cb76988.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cb79780.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cd23124-wordpress-apxeg.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "central.pr-universe.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cesyasa.click",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cf34744-wordpress-0dgs0.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cf56704-wordpress-pdirt.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cf93833-wordpress-rvgca.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ch08328-wordpress-o7yit.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ch59244-wordpress-6q85h.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "chatx-whats.xyz",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ci78690-wordpress-4cj0a.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ck210jw.cn",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cn.plhhovyj.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cn70084-wordpress-87unf.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cnoinbccaeprgloga.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "coinbase-clone-silk.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "coinku_logi.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "conbe-9prologi.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "consolcellcinvestmnet.weebly.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cp62449-wordpress-8fbln.tw1.ru",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "cq1815.com",
       "sources": [
         "openphish"
       ]
@@ -278,308 +378,309 @@
       ]
     },
     {
-      "domain": "cyberlordsy.github.io",
+      "domain": "cw31450-wordpress-vo6pw.tw1.ru",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dcctraining.admainconsultores.com",
+      "domain": "cy02992.tw1.ru",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "deepikapeddi.github.io",
+      "domain": "cz95845.tw1.ru",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "djmvmpsiqi.duckdns.org",
+      "domain": "dextool.netlify.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "docs.lighting.com",
+      "domain": "dfghgfgh.godaddysites.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dpdkhg.cc",
+      "domain": "dhl.servirtual.cl",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dreptrade.com",
+      "domain": "dialok-rs-pf.geru-sale.xyz",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dyh6i3c05k0d.id.wasmer.app",
+      "domain": "divise.audesworld.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "entcuservice.vercel.app",
+      "domain": "divyarajsingh342.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.ae",
+      "domain": "ec2-13-215-214-112.ap-southeast-1.compute.amazonaws.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "elexicongroup.daxsonics.cfd",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "elle2.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "elle3.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "eman-s-code.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "epoksis.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "eve1-sooty.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebook-alerts.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebook-psm.blogspot.co.nz",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebookbloge.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebookbloge.blogspot.is",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebookbloge.blogspot.li",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebookbloge.blogspot.lu",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledger.live",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "fayyadhydervt123-cmyk.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "fotoface.top",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "full-energy-early.on-fleek.app",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.am",
+      "domain": "gablini-hu-metri.weebly.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.ba",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.ca",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.co.at",
+      "domain": "gentle-stage-226373.framer.app",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.co.uk",
+      "domain": "get-checkmark-for-you.web.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.co.za",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.com.es",
+      "domain": "ggttelstraaaaawebmail.weebly.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.com.mt",
+      "domain": "ginger-cheetah-9cjkuhpt.sandboxcms.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.com.tr",
+      "domain": "glnk.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.gr",
+      "domain": "gov.uk-dwpit.bond",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.in",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.is",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.jp",
+      "domain": "gov.uk-dwpkq.xyz",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-alerts.blogspot.lt",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "facebook-alerts.blogspot.mx",
+      "domain": "gov.uk-dwpli.xyz",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-in-run.github.io",
+      "domain": "gov.uk-dwplo.icu",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "faq-ledger-log.typedream.app",
+      "domain": "gov.uk-dwpwz.icu",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "faruq-netflix.vercel.app",
+      "domain": "gov.uk-dwpyv.icu",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "fin-tiffany-weather-tractor.trycloudflare.com",
+      "domain": "help-login-trejor.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "finanboab.xyz",
+      "domain": "himanshuraj-drafts.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "firmlegal.de",
+      "domain": "hostmaster.lectec.com.au",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "firstcommunity.firstinspires.org",
+      "domain": "hp5.xyz",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "fli.so",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "fortinet.shardocs.com",
+      "domain": "ibujfic.cn",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "freelancersupportt.com",
+      "domain": "icloud.com.hr",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "gibraltarcompany.nexprosystems.com",
+      "domain": "iimtoken.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "gjbgkorzir.duckdns.org",
+      "domain": "imtokno.im",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "globalemailsupport.com",
+      "domain": "indiapost.gov.guangm.top",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "goo.su",
+      "domain": "instagrram.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "hareem123javed.github.io",
+      "domain": "instapro2.com.pk",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "havoolenchy.weebly.com",
+      "domain": "interkukcoinlogi.godaddysites.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "help-trezor-sso.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "iamayuu0019.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "imteyon.im",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "imtohen.im",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "imtoknn.icu",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "iniciologin-com-co.vercel.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "introducing-trezor-bridge-eng.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "io-start-trezor-een.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "io-start-trezor-uss.pages.dev",
+      "domain": "intermatico.ntipay.art",
       "sources": [
         "openphish"
       ]
@@ -591,25 +692,31 @@
       ]
     },
     {
-      "domain": "kaililaiceramics.com",
+      "domain": "itsssl.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "kajal107.github.io",
+      "domain": "kartikjoshi7.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "kakab.net",
+      "domain": "kathirvelan19.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "kamini8707.github.io",
+      "domain": "kerrakounn_loggeenius.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kiran-f.github.io",
       "sources": [
         "openphish"
       ]
@@ -622,454 +729,242 @@
       ]
     },
     {
-      "domain": "kwxtiwww.m.lectec.com.au",
+      "domain": "kkuc-ionlgn.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kpoc1mh0usrtb6z7c927q59mfrq.myddns.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kratoz07.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "krkrdynj.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kuc-onlognn.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kuconilogi-us.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kucsnlosdn.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kukcon-xlogng.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "kundecentre.de",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "l.ead.me",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "live.events-vodafone.cz",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "loy.wswwc.icu",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "m-metamusck-loggz.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "m365cloud-pdf9-737734-3h2y6o.zn07nkeaci.workers.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mailmail-hot-livehotmailme.weebly.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "main.sbm-demo.xyz",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mancntop66.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "manxvip271.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mateimsklongin-usaa.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mayankbhagwani.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mediasupportteam.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "metamasllogin.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "metatamasklloginer.webador.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "metimaaasklogiin.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mettamaskqu_-logi.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "midasbuyz.eventmax.za.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "moonmotivelgen.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mr-rufi05.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "mxx168.net",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "my-site-106942-108831.weeblysite.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "myid-telstra.flutterflow.app",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "kysgo.pe",
+      "domain": "netflix-clone-eta-tan.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "learn--sso-wllet---connect.webflow.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "log-en-trezor.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "login-secure-trzar.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "logon-trezor.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "loopcam.com.mx",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "lugares.nl",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "maahhaaa.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "manu027k.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "matheus-586.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meeting57422d52.scanlonchiro.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-alert-status-control-panel.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-auth-service-control-zone.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-info-alert-console-hub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-login-trust-control-panel.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-network-login-update-panel.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-ovation.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-security-update-access-hub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-service-network-alert-hub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-status-service-update-zone.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-authvault-4u1.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-bioid-799.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-cardid-8m3.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-clienthub-24f.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-credentialhub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-docid-a50.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-entryvault.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-handle-c3t.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-identityid-dp7.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-infoid-3c8.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-lockhub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-loginkey.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-passcard.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-passid-2c9.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-passvaultid.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-pinid-8gq.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-portalhub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-profilehub-3f0.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-recordhub-4z5.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-recordid-978.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-refhub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-regbook.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-regid-cfp.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-registerid-4hr.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-regvault.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-signinid-c1v.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-tagkey-1at.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-uniqueid-dve.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-support-userhub-3qs.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-system-data-alert-center.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-user-portal-config-zone.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-verify-policy-console-hub.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-vrenthon-tracking-chain-fsg.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "meta-zinthor-feedback-loop-23n.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "miniature-octo-succotash-eight.vercel.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "moe.mxz.mybluehost.me",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "mohammadyeamin22.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "mshareflievalidaeuoutlookofficecommailinboxidaakalga.agape.org.bd",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "mwizz.leadsbr.com.br",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "nav-trzr-login-web.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "nfxreviews.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "nufwtfqqod.yoga",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "nurecebaagora.netlify.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "nvlphxavdu.duckdns.org",
-      "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "onlinemicrosuftlogon.github.io",
+      "domain": "netflix-clone-sigma-murex-92.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "oxopane123123.alwaysdata.net",
+      "domain": "objective-bbe.pages.dev",
       "sources": [
         "openphish"
-      ]
-    },
-    {
-      "domain": "p76x.xyz",
-      "sources": [
-        "openphish",
-        "phishing_army"
       ]
     },
     {
-      "domain": "pagfit.com",
+      "domain": "olive-duck-153097.hostingersite.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pancakc.finance",
+      "domain": "onlinebdo.b-ex.workers.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pemuliha4n-akun-danaa.vke.my.id",
+      "domain": "onlinebdo.b-join.workers.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "php-98b8c.wasmer.app",
+      "domain": "orarend.hsnservers.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "portail-interne.fr",
+      "domain": "pallavi-govind-rao.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "portal.flynashville.co",
+      "domain": "pln22025.weebly.com",
       "sources": [
         "openphish"
       ]
@@ -1081,268 +976,245 @@
       ]
     },
     {
-      "domain": "pritam-bsk.github.io",
+      "domain": "posten.no-pk.uno",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "priyadharshini755.github.io",
+      "domain": "posten.no-z.uno",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "projectclonenx.vercel.app",
+      "domain": "pradnyabhosale0302.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "promocionesunicasparati.com",
+      "domain": "prometheos.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "propertyxpress.com.sg",
+      "domain": "protechsol.sk",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "przegladzegrzynski.pl",
+      "domain": "pt-wa-75.blogspot.co.at",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pseebanx.com",
+      "domain": "pt-wa-75.blogspot.co.za",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pub-1c315f3e04ff43038004dcbffa2a608b.r2.dev",
+      "domain": "pt-wa-75.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pub-5129c5d81f084db8bec88b6bbafdc82f.r2.dev",
+      "domain": "pt-wa-75.blogspot.com.au",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "pt-wa-75.blogspot.com.cy",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "pt-wa-75.blogspot.com.ee",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "pub-6c2c01deaf564849a921c8081ee9f2e4.r2.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "pub-8934f16f5ca74be39ae0eac391c50e27.r2.dev",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "pub-8f294ff38692471680fb5a8a4aed2b33.r2.dev",
+      "domain": "quantumfinancialbackups.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pub-fde6adf1044c45049714b3a6050da844.r2.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "qib.shardocs.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "quizmilionario.netlify.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "raineagle96.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "rajesab12.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "ravendrasingh000.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "resplendent-figolla-4ad8de.netlify.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "robux24h.vercel.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "s.teamls.world",
+      "domain": "r32b8fd2ee82.ptqbtoken.top",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "s3.dualstack.us-east-2.amazonaws.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sakibg01.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sanasadia06.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0565fgo.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0570mgj.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap05889m6.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0608e9k.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0658gdd.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0675rnz.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap06768lk.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap06884n4.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0691ujm.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0693ham.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0706579.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sap0725h6a.vip",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "secure-app-suit-trez.pages.dev",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "secure-blockfi-cdnn.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "secure-lbcapprovisionnement.fr",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "secure-uphldcom-web.typedream.app",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "serasa-experian.webnode.page",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "shivamchoudhary42.github.io",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sky-101821.weeblysite.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "sn-dbs.com",
+      "domain": "r6e1f36255b2.ptqbtoken.top",
       "sources": [
         "openphish",
         "phishing_army"
       ]
     },
     {
-      "domain": "spotify-clone-lime.vercel.app",
+      "domain": "rackspacliningsmaservico.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sso-uphold-cdn-auth.weebly.com",
+      "domain": "razergold-nu.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "rbfcu-star.azurewebsites.net",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "rdb188d80431.ptqbtoken.top",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "royalmail.com-tracarck.shop",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sadmatanza.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sahilhamidani.blogspot.be",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sahsdcgaoaiscf.cloud",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "saintsempowers.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "saniyamujawar4444.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap1380cle.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap14558z4.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap1548dyn.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap1787xgs.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap2235ia0.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sap25617lx.cc",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "server604113.nazwa.pl",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "servicenet8.cloudaccess.host",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "servizioalertsella.it",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "signmeta_maskk2.godaddysites.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "sofnxcp.cn",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "spotifybill-service.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "stablo-ws.xyz",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "stablu-ws.xyz",
       "sources": [
         "openphish"
       ]
@@ -1355,307 +1227,352 @@
       ]
     },
     {
-      "domain": "steamcommuninty.com",
+      "domain": "staenmevosar.skin",
       "sources": [
         "openphish"
+      ]
+    },
+    {
+      "domain": "stakechainwallet.web.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "steamcommunllity.com",
+      "sources": [
+        "openphish",
+        "phishing_army"
       ]
     },
     {
       "domain": "steamcommunnitty.cc",
       "sources": [
-        "openphish"
+        "openphish",
+        "phishing_army"
       ]
     },
     {
-      "domain": "store.poweredgamebuild.shop",
+      "domain": "store.communitygamebuild.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "studio--scib-portal-banker-santa-l1l24.us-central1.hosted.app",
+      "domain": "store.communityitemshop.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sujeetrk24.github.io",
+      "domain": "store.poweredartstyle.shop",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sureshkumar1106.github.io",
+      "domain": "support-x-trzurio-start.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sweet-truth-af82.igtyitifweh.workers.dev",
+      "domain": "swissposta.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "szabohair.hu",
+      "domain": "tap2665h2t.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tap0651ntp.top",
+      "domain": "tap28887iv.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tap0791ggp.top",
+      "domain": "tap32250bk.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tinyurl.com",
+      "domain": "tap33932k5.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tobeblast.github.io",
+      "domain": "tap3680b9a.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "toeken.me",
+      "domain": "tap4084ce6.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trezor-insurances.com",
+      "domain": "teams-download.world",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trezor-logi-usa.pages.dev",
+      "domain": "telsttrawebmailer.weebly.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trezrwallet-bridge.pages.dev",
+      "domain": "test.mezacsg.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trx-security.app",
+      "domain": "test.naturalsoap.com.au",
+      "sources": [
+        "openphish",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "texme1up.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tzroer-345-cs64-354.gdjfovb.workers.dev",
+      "domain": "tiktokforcontact.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "u0688998.plsk.regruhosting.ru",
+      "domain": "tiktokshop.0755edu.net",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "uaid.tap42795tu.cc",
+      "domain": "tkvip.ppeaksmall.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "uphold-login-io-auth.typedream.app",
+      "domain": "trezor--bridge--people.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "uprankk.in",
+      "domain": "trizor-suites.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "ussoa-1313.vercel.app",
+      "domain": "tt868ok-1330426662.pichk.myqcloud.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "venkydevireddy9390.github.io",
+      "domain": "tt868ok.top",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "verify-icloud.app",
+      "domain": "tvichile.cl",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "vgurushetty.github.io",
+      "domain": "tzorhxrtlo.duckdns.org",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "vwptguzzuq.duckdns.org",
+      "domain": "u.cq1815.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "waleedfarrukh-code.github.io",
+      "domain": "uouv.tap39260e2.cc",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "waterproof-longitude-dot-store.trycloudflare.com",
+      "domain": "urlz.fr",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "web-development-projects-lovat.vercel.app",
+      "domain": "us-robenihood-app.gitbook.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "web3-exods-wallt.pages.dev",
+      "domain": "usalgixa-mupohld.godaddysites.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "webctkkpn-3gla.vercel.app",
+      "domain": "uuploddlagghd.godaddysites.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zkc.vip",
+      "domain": "vartika2409.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zkm.vip",
+      "domain": "web-git-pcsx-bebop.pancake.run",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zla.vip",
+      "domain": "web-git-pcsx-kyber.pancake.run",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zle.vip",
+      "domain": "wesarvnmouipwesawcz.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zli.vip",
+      "domain": "whats-zlm.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlo.vip",
+      "domain": "whats-zln.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlp.vip",
+      "domain": "whats-zqo.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlq.vip",
+      "domain": "whats-zxe.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlr.vip",
+      "domain": "whats-zxi.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlt.vip",
+      "domain": "whats-zxp.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlu.vip",
+      "domain": "whats-zxq.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zlw.vip",
+      "domain": "whats-zxr.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zly.vip",
+      "domain": "whats-zxt.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zth.vip",
+      "domain": "whats-zxw.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whats-zyi.vip",
+      "domain": "whats-zxy.vip",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "wsxli.app.link",
+      "domain": "whatssappp-hk.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "wywuyi.uapgw.xyz",
+      "domain": "whatsuappp.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "xp3orgymfk6h6zqjlao.intrugementslayerdocuservice.com",
+      "domain": "www-id-ib.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "yft.wpq.mybluehost.me",
+      "domain": "xbq1.tap1506o5u.vip",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "xepcobdpxc.duckdns.org",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "yazarmedia.com.tr",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "you1.knowitall.wiki",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "zezoefz.cn",
       "sources": [
         "openphish"
       ]
