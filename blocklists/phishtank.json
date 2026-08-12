@@ -1,6 +1,13 @@
 {
   "domains": [
     {
+      "domain": "0-lix-a8sbqnxt.d1cdej.top",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "0.gravatar.com",
       "sources": [
         "phishtank"
@@ -199,7 +206,8 @@
     {
       "domain": "01c2e787-6c49-4365-8be5-e5d1c9e19ed3-00-2y5i0zdquflg3.worf.replit.dev",
       "sources": [
-        "phishtank"
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -535325,6 +535333,12 @@
       ]
     },
     {
+      "domain": "2026-07-30t04:11:54+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "2026-07-30t04:22:09+00:00",
       "sources": [
         "phishtank"
@@ -560369,6 +560383,12 @@
       ]
     },
     {
+      "domain": "2026-08-10t19:39:05+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "2026-08-10t19:39:32+00:00",
       "sources": [
         "phishtank"
@@ -560454,6 +560474,12 @@
     },
     {
       "domain": "2026-08-10t20:12:32+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-10t20:18:40+00:00",
       "sources": [
         "phishtank"
       ]
@@ -560580,6 +560606,318 @@
     },
     {
       "domain": "2026-08-11t02:12:28+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:49:12+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:51:00+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:52:28+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:52:43+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:53:42+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:57:10+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t02:57:46+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:02:38+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:03:30+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:07:25+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:12:12+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:12:36+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:17:01+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:17:21+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:22:11+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:30:18+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:30:29+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:32:40+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t03:55:13+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t04:03:03+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t05:57:45+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t05:57:54+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t05:58:06+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t05:58:19+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t06:02:48+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t06:12:18+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t06:12:20+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t07:04:48+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t07:06:09+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t07:30:24+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t09:13:42+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:01:14+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:01:29+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:02:14+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:11:21+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:14:44+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t10:14:54+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t11:02:53+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t11:12:15+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t11:22:30+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t12:03:36+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t12:03:45+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t12:12:23+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:22:43+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:32:32+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:47:12+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:47:13+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:47:25+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:52:22+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t13:54:46+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t14:03:04+00:00",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "2026-08-11t20:12:20+00:00",
       "sources": [
         "phishtank"
       ]
@@ -969765,6 +970103,12 @@
       ]
     },
     {
+      "domain": "9491035",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "9491038",
       "sources": [
         "phishtank"
@@ -994505,6 +994849,12 @@
       ]
     },
     {
+      "domain": "9502200",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "9502201",
       "sources": [
         "phishtank"
@@ -994566,6 +994916,12 @@
     },
     {
       "domain": "9502232",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502237",
       "sources": [
         "phishtank"
       ]
@@ -994650,6 +995006,228 @@
     },
     {
       "domain": "9502380",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502386",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502387",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502388",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502389",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502393",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502394",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502396",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502397",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502400",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502401",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502402",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502408",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502410",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502413",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502439",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502440",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502441",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502442",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502443",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502467",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502468",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502473",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502495",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502509",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502510",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502511",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502513",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502514",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502517",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502518",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502556",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502557",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502591",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502607",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502608",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502610",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "9502614",
       "sources": [
         "phishtank"
       ]
@@ -1013198,6 +1013776,13 @@
       ]
     },
     {
+      "domain": "allegrolokalnie.lokalna-ofeta8265384.lol",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "allegrolokalnie.lokalna-ofeta901.sbs",
       "sources": [
         "phishtank",
@@ -1015481,7 +1016066,8 @@
     {
       "domain": "allegrolokalnie.pl-283427.lol",
       "sources": [
-        "phishtank"
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1016376,7 +1016962,8 @@
     {
       "domain": "allegrolokalnie.pl-76151.click",
       "sources": [
-        "phishtank"
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1018656,6 +1019243,13 @@
     },
     {
       "domain": "allegrolokalnie.pl655383454.click",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "allegrolokalnie.pl70681.top",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1024704,6 +1025298,13 @@
       ]
     },
     {
+      "domain": "area-clientimanager0293746.fuesser-immobilien.de",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "area.area-jiuyou.com",
       "sources": [
         "phishtank",
@@ -1025176,6 +1025777,13 @@
     },
     {
       "domain": "arubait.online",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "arubapayment.click",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1039957,6 +1040565,13 @@
       ]
     },
     {
+      "domain": "black-card-472507.framer.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "black-pumpkin-377375.framer.app",
       "sources": [
         "phishtank",
@@ -1040224,6 +1040839,13 @@
     },
     {
       "domain": "blushing-maintenance-663093.framer.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "blushing-mission-518321.framer.app",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1043643,6 +1044265,13 @@
     },
     {
       "domain": "bridg-trezr.wasmer.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "bridg-trezr.zapier.app",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1049466,6 +1050095,13 @@
     },
     {
       "domain": "cb-ticketportal.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "cb.mszggkt.com",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1058032,7 +1058668,6 @@
     {
       "domain": "creditoecuador-46--ecuadorcredit3.replit.app",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1058082,7 +1058717,6 @@
     {
       "domain": "creditopichincha-2026--creditoenline3.replit.app",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1061629,6 +1062263,7 @@
     {
       "domain": "delivery.ce.classplus.co",
       "sources": [
+        "openphish",
         "phishtank"
       ]
     },
@@ -1070023,7 +1070658,6 @@
     {
       "domain": "e720639b-3fe0-4f60-9dac-c851a51c27a4-00-1wfhaq8e2y5kg.worf.replit.dev",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1071333,6 +1071967,13 @@
       "domain": "ecuadorweb.webcindario.com",
       "sources": [
         "phishtank"
+      ]
+    },
+    {
+      "domain": "ecuardorcredit--ecuadorcred.replit.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1074307,6 +1074948,13 @@
     },
     {
       "domain": "eng-trzersuite.wixstudio.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "eng-trzrio-start.zapier.app",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1077987,7 +1078635,6 @@
     {
       "domain": "faccebook.com.vn",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1079520,7 +1080167,6 @@
     {
       "domain": "february-taxes-tent-cancellation.trycloudflare.com",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
@@ -1088884,7 +1089530,6 @@
     {
       "domain": "goo.su",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
@@ -1096512,7 +1097157,6 @@
     {
       "domain": "hotmailskjfhurytnadinbox.weebly.com",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
@@ -1116508,7 +1117152,6 @@
     {
       "domain": "lnk.ink",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1120554,6 +1121197,12 @@
       ]
     },
     {
+      "domain": "madametauds--dubai.webflow.io",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "madarat-rp.com",
       "sources": [
         "phishtank",
@@ -1121459,6 +1122108,12 @@
     },
     {
       "domain": "mailbusinessmessages.github.io",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "mailcomcastnet.weebly.com",
       "sources": [
         "phishtank"
       ]
@@ -1124042,6 +1124697,13 @@
     },
     {
       "domain": "maxxc-apps.wixstudio.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "maybank-id.info",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1128062,6 +1128724,13 @@
       ]
     },
     {
+      "domain": "mksjidux.us.cc",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "mkwew.weebly.com",
       "sources": [
         "phishtank"
@@ -1128662,6 +1129331,12 @@
       ]
     },
     {
+      "domain": "mobile-xfinity.vercel.app",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "mobile.apipiservice.xyz",
       "sources": [
         "phishtank",
@@ -1128947,6 +1129622,13 @@
     },
     {
       "domain": "mohitsolanki.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "mohiuddinahamed.com",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1130386,6 +1131068,13 @@
       ]
     },
     {
+      "domain": "msjihasx.us.cc",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "msjulxsk.us.cc",
       "sources": [
         "phishtank",
@@ -1131264,6 +1131953,13 @@
       "domain": "mxg-e63fe1.webflow.io",
       "sources": [
         "phishtank"
+      ]
+    },
+    {
+      "domain": "mxhaisyx.us.cc",
+      "sources": [
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1135082,6 +1135778,13 @@
       ]
     },
     {
+      "domain": "netfiix-supp.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "netfilxservicio.com",
       "sources": [
         "phishtank",
@@ -1137457,6 +1138160,12 @@
     },
     {
       "domain": "notafr-abfab.web.app",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
+      "domain": "notarialsfrespaceaccss.framer.website",
       "sources": [
         "phishtank"
       ]
@@ -1140566,6 +1141275,13 @@
       ]
     },
     {
+      "domain": "olx-8528418.fuckall.co",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "olx-pl.ayacuy.icu",
       "sources": [
         "phishtank",
@@ -1142242,7 +1142958,6 @@
     {
       "domain": "orange-nl.comparecycle.com",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1143383,6 +1144098,13 @@
     },
     {
       "domain": "oxussid.waazsz.cn",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "oy1lx-tw54.d1cdej.top",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1149446,7 +1150168,6 @@
     {
       "domain": "polite-bavarois-37ef3b.netlify.app",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
@@ -1149938,7 +1150659,8 @@
     {
       "domain": "portal-de-desembolso-pc--agzc3668.replit.app",
       "sources": [
-        "phishtank"
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1151667,6 +1152389,13 @@
     },
     {
       "domain": "prime-mensuel.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "prime-renew.co",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1172119,7 +1172848,6 @@
     {
       "domain": "robiox.com.gr",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172134,6 +1172862,7 @@
     {
       "domain": "robiox.com.py",
       "sources": [
+        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172180,7 +1172909,6 @@
     {
       "domain": "roblox.com.am",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172195,6 +1172923,7 @@
     {
       "domain": "roblox.com.et",
       "sources": [
+        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172238,6 +1172967,7 @@
     {
       "domain": "roblox.et",
       "sources": [
+        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172273,7 +1173003,6 @@
     {
       "domain": "robloxc.com.es",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1172933,7 +1173662,6 @@
     {
       "domain": "rroblox.wf",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1180296,6 +1181024,12 @@
       ]
     },
     {
+      "domain": "shopeeofficial-refund.vercel.app",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "shopfancysneakers.nextevo.0lx.net",
       "sources": [
         "phishtank",
@@ -1184112,6 +1184846,13 @@
       "domain": "sofmyspace.w3spaces.com",
       "sources": [
         "phishtank"
+      ]
+    },
+    {
+      "domain": "sofnco.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
       ]
     },
     {
@@ -1191058,6 +1191799,13 @@
     },
     {
       "domain": "startedio-trezencdn.wixstudio.com",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
+      "domain": "startedio-trezox.zapier.app",
       "sources": [
         "phishtank",
         "phishing_army"
@@ -1207915,6 +1208663,12 @@
       ]
     },
     {
+      "domain": "url.gsb.gov.zm",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "url.in.th",
       "sources": [
         "phishtank",
@@ -1212775,6 +1213529,13 @@
       ]
     },
     {
+      "domain": "visit-official-trezor.zapier.app",
+      "sources": [
+        "phishtank",
+        "phishing_army"
+      ]
+    },
+    {
       "domain": "visit-rabbyy.wixstudio.com",
       "sources": [
         "phishtank",
@@ -1213177,7 +1213938,6 @@
     {
       "domain": "vmi3479190.contaboserver.net",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
@@ -1214092,7 +1214852,6 @@
     {
       "domain": "vvrl.cc",
       "sources": [
-        "openphish",
         "phishtank",
         "phishing_army"
       ]
@@ -1222015,6 +1222774,12 @@
       ]
     },
     {
+      "domain": "xfinitycomcastsecurity.weebly.com",
+      "sources": [
+        "phishtank"
+      ]
+    },
+    {
       "domain": "xfinityconfirm.weebly.com",
       "sources": [
         "phishtank"
@@ -1222433,7 +1223198,6 @@
     {
       "domain": "xfmailconnect.weebly.com",
       "sources": [
-        "openphish",
         "phishtank"
       ]
     },
