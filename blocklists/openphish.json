@@ -1,1065 +1,1351 @@
 {
   "domains": [
     {
-      "domain": "131f3c.icefactory.cl",
+      "domain": "adityaamitk.github.io",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
+      ]
+    },
+    {
+      "domain": "aheruw1.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "alianshafqat-ctrl.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "amazon-ecommerce-nine.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "ani-facebook.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "arofridocogun.top",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "arthrosportscare.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bagihadiah5-5.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "barracudaservicesinc.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "berbagihadiah55.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bhghghghghghghwert.weebly.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bigsalee11-11.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bigshopee1111.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "blessingsshopeebigsale.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "bonnenouvelles.weebly.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "brantal.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "campoequipment.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "canpoly.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "daftar-pemenang-shopee.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "demo-multi-jpmorganchase.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "derrygomesx.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "desk-help-wallet.netlify.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "dev-coin-base-com-auth.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "dhamaansh76-code.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "dhanalakshmi-bedare.github.io",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "diker-bet365.com.cn",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "dj-facebook.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "doc-ledger-cdn-us.netlify.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "dravemi-kxt-felquna-c7x3dp82.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "en-us-ledgree-live-desktop.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "eudiblemariesd74.wasmer.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exchange-ledger-help.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exod--web3-en.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exod-docweb.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exod-e-web3.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exod-en.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exod-sguid-wllet.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exodu-s-web3.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "exoduesweb3.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "experience-ledger-start.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebook-2022.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "facebook-gamehacks.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "family-ledger-r4g.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-desktop-ledgre.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-en-ledgr-live.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledger-eng-us.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledgerlive-walite.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledgr-live-desktop.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledgr-logn.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-ledgrlive-wllt.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faq-live-ledgr-aee.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faqs-desktop-ledgre.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faqs-ledgercom-guide.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "faqs-ledgr-lives.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "fbbr1.aaabbs.shop",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "findmy.com-app-encontrar.help",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "first-ledger-live-download-eng-us.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "fq-ledgro-desktop.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "gebyar-undian-shopee-2023.blogspot.com",
+      "sources": [
+        "openphish"
       ]
     },
     {
-      "domain": "135461223.site",
+      "domain": "gebyar-undian-shopee2022.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
+      ]
+    },
+    {
+      "domain": "gebyarmidyearsalecoid.blogspot.com",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "genpro-portail.vercel.app",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "get-desktop-ledgr-3m9.pages.dev",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "get-desktop-ledgr.pages.dev",
+      "sources": [
+        "openphish"
       ]
     },
     {
-      "domain": "13f0cf.icefactory.cl",
+      "domain": "get-ledgerlive-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "18efb3.icefactory.cl",
+      "domain": "get-ledgerslive.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "23x32x32-2tq.pages.dev",
+      "domain": "get-ledgr-desktop.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "24111.xyz",
+      "domain": "get-ledgr-strts.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "2db39ur9.bndcy0h.com",
+      "domain": "get-ledgr-us.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "6175957.cc",
+      "domain": "get-ledgrcom.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "62438.xyz",
+      "domain": "get-ledgrlives.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "7676776.cc",
+      "domain": "get-lgn-ledger.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "88aa-f0edcfekd3dsh5a9.z02.azurefd.net",
+      "domain": "get-us-desktop-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "acceso-login-2026--accesopichi.replit.app",
+      "domain": "getting-live-app.typedream.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "admin.shopp-tiktok.com",
+      "domain": "gguide-ledgerlive.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "adobeportal.app",
+      "domain": "go-ledger-com.typedream.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "aesthetic-licorice-00b850.netlify.app",
+      "domain": "gruppofarina.net",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "aicc108-demo.pages.dev",
+      "domain": "guide-io-ledger.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "akanshu007.github.io",
+      "domain": "guide-ledger-live-app.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "antaramkanade-lang.github.io",
+      "domain": "guide-ledger-live-download.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "aolmembersuppoort.weebly.com",
+      "domain": "guide-ledgr--live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "apexincgroup.mesnerdlaw.com",
+      "domain": "guide-ledgr-live-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "app.max-coinbase.com",
+      "domain": "guide-live-ledgr-co.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "apple-cscdw.zmnbm.xyz",
+      "domain": "guide-live-ledgrs--com.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "apps-ledger-io.pages.dev",
+      "domain": "guide-lives-ledgr--com.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "asif.me",
+      "domain": "guide-web-ledgrlive.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "asureindirect.blogspot.com",
+      "domain": "guidee-ledger-com.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "atualizacaodeparametros.s3.us-east-005.backblazeb2.com",
+      "domain": "h--ome--en-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "auth-io-coinsquare.webflow.io",
+      "domain": "hadiah-shopeemart-1212.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "auths----coinsquare-cdn.webflow.io",
+      "domain": "hadiahshopee517.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "autoscout24koiop.com",
+      "domain": "hadiahthrshopee10m.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "autoscout24yuiuy.com",
+      "domain": "hannoush.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "b50u.top",
+      "domain": "hardware--trezr-faq.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "balance-controlsrule-registrycatalog.s3.us-east-005.backblazeb2.com",
+      "domain": "hardware-ledgr-en.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "bancainternacional.iniciopersona.site",
+      "domain": "help-access-desktop-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "bancaonline.bancainternacional.webpersona.site",
+      "domain": "help-desktop-ledgr-io.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "banque-online.com",
+      "domain": "help-eng-ledgrs.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "bcba365b-eb19-4ffc-bb77-5be1511fa4bc-production.weweb.io",
+      "domain": "help-io-ledgres.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "bee601.github.io",
+      "domain": "help-ledger-start-en.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "bhumi0120.github.io",
+      "domain": "help-ledgr--live-eng.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "blastmatic.s3.us-east-2.amazonaws.com",
+      "domain": "help-ledgr-downloads.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "ca-coinsquare--auth--nav.webflow.io",
+      "domain": "help-ledgr-live-co.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "cacoinsquarelogin.webflow.io",
+      "domain": "help-ledgr-live-en.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "caravana.com.py",
+      "domain": "help-ledgro-live-desk.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "carbonate-egyjo.com",
+      "domain": "help-ledgrr-live-app.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "ccoinsquare-login.webflow.io",
+      "domain": "help-lgerr-live-en.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "chandarshekharkalshetti.github.io",
+      "domain": "help-setup-ledger-live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "check-poczta.vercel.app",
+      "domain": "helps-ledger-live-cloud.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "chphone-1.pages.dev",
+      "domain": "helps-ledgrr-live-app.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "claims-reports-esl-org.cfd",
+      "domain": "hlp-ledgger-live-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "codashops.game-en.com",
+      "domain": "home-help-ledgre-x.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "codewithadarsh1.github.io",
+      "domain": "home-ledgeer-app.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "coiensquareelogin.webflow.io",
+      "domain": "home-ledgeer-live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "coinnsqquareelogin.webflow.io",
+      "domain": "home-ledger-liv-cfo.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "creditos-pichinch--creditodecuador.replit.app",
+      "domain": "home-ledger-live-connect.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "creditosenlineabdv--arvig09.replit.app",
+      "domain": "home-ledger-live-docs.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "cvmac.id",
+      "domain": "home-ledgerlive.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "danaa-bantuan.websitecarre.web.id",
+      "domain": "home-ledgerr-live.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "dawaid-sessionmints.netlify.app",
+      "domain": "home-ledgr-cloud.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "desktop-ledgr-en-hub.pages.dev",
+      "domain": "home-ledgr-liv-download.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dev-yankees.jnickel.com",
+      "domain": "home-ledgr-live--io.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "dhl-express-test.lobster-cloud.com",
+      "domain": "home-ledgr-wallt.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "docusign.login.adrpowersystem.com",
+      "domain": "home-ledgrr-us.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "drishti0601.github.io",
+      "domain": "home-lger-logn.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "dsfwxz.com",
+      "domain": "home-live-en-ledgeer-ed.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "emarosa.net",
+      "domain": "home-live-en-ledgeer-ie.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "emoticonesfb2014.blogspot.com",
+      "domain": "home-logen-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "en-exodwa.pages.dev",
+      "domain": "home-page-desktop-ledgrcom.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "espdx.com",
+      "domain": "home-trezr-e-nng.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "exrxrwxr.pages.dev",
+      "domain": "home-trezr-sute.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-7.blogspot.com",
+      "domain": "homepage-en-ledgrr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-do.blogspot.com",
+      "domain": "homepage-start-ledgre.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "facebook-seks-30.blogspot.com",
+      "domain": "homr-ledgrlive-en.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "faecbook.vn",
+      "domain": "hrd-in-logn-trezr-ng-live.pages.dev",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fakebooklogin.blogspot.com",
+      "domain": "hseupdate.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "fensiunion.com",
+      "domain": "hub-io-ledgr-starts-doc.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "flutney.com",
+      "domain": "hub-ledgr--live-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fnlocker.sbs",
+      "domain": "hub-ledgr--liveen.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortbb.lol",
+      "domain": "in-app-ledgr-live.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortland.cfd",
+      "domain": "info-facebook.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortly.lol",
+      "domain": "info-hadiahshopee23.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortnice.lol",
+      "domain": "info-ledgr-live-wllt.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortnitewatch.top",
+      "domain": "info-ledgrcom-eng.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fortniti.shop",
+      "domain": "info-ledgrr-live.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "fund-controlsrule-storeauthorization-limits.s3.us-east-005.backblazeb2.com",
+      "domain": "info-shopee-2021.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "fxjoa6xyiq.duckdns.org",
+      "domain": "info-shopee21.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "g5.lu",
+      "domain": "infohadiah-bk274.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "gebyar-shopee-jkt.blogspot.com",
+      "domain": "infohadiah-tbk221.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "gjk68.vercel.app",
+      "domain": "infohadiahmerdeka.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "goo.su",
+      "domain": "infohadiahshopee10.blogspot.com",
       "sources": [
-        "openphish",
-        "phishtank"
+        "openphish"
       ]
     },
     {
-      "domain": "goyang-shopee77.blogspot.com",
+      "domain": "infohadiahshopee3.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "h9r3yk.lat",
+      "domain": "infohadiahshopee4.blogspot.com",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "hadiahshopeenewyear.blogspot.com",
+      "domain": "infohadiahshopee5.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "harshita582.github.io",
+      "domain": "infohadiahshopee59.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "hdstreammz.com",
+      "domain": "infohadiahshopee6.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "hk-dbs.org",
+      "domain": "infohadiahshopee61.blogspot.com",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "htps-www-roblox.co",
+      "domain": "infohadiahshopee65.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "https-wvvw-roblox.com",
+      "domain": "infohadiahshopee67.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "hw86-kkfz-bhwj.asantana-cinecolor-com-br-s-account.workers.dev",
+      "domain": "infohadiahshopee8.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "hwidaad.vercel.app",
+      "domain": "infohadiahshopeemart.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "hwidanzban.vercel.app",
+      "domain": "infopemenang9293.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "i.gal",
+      "domain": "infopemenangshopee-2020.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "id-kraken-controle.com",
+      "domain": "infoshopee-1111.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "image-upscaling.net",
+      "domain": "infoshopee-undian.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "info-hadiah40.blogspot.com",
+      "domain": "infoundian-shopeemar1212.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "info-ramadan-sale4-4.blogspot.com",
+      "domain": "infoundianshopee-2020.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "info-shopeebrands88.blogspot.com",
+      "domain": "infoundianshopee53.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "infolayanan33.blogspot.com",
+      "domain": "insert-ledger-eng_live.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "infolayanan99.blogspot.com",
+      "domain": "insert-ledgr-live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "infolayananshopee.blogspot.com",
+      "domain": "install-ledgerlive.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "inforesmi5667.blogspot.com",
+      "domain": "io-desktop-ledgre.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "infoshopeetbk77.blogspot.com",
+      "domain": "io-ledger-docs.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "inputmoonpay-8.vercel.app",
+      "domain": "io-ledger-io.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "insanity-smn.github.io",
+      "domain": "io-ledgr-us-help.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "instagramlogin08.blogspot.com",
+      "domain": "io-ledgrdesktop-eng.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "instagramunblockedd.vercel.app",
+      "domain": "io-ledgre-live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "install-xam-documents.icu",
+      "domain": "io-ledgrelive-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "io-32400034-rq.pages.dev",
+      "domain": "io-ledgres-live.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "jml-yyds.pages.dev",
+      "domain": "io-sta-art-ledger.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "kr-0001-czqogp.vercel.app",
+      "domain": "ios-ledgr-starts.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "l0gln-m1croqsoqftcom-1drvvefil3es0utloox.fwh.is",
+      "domain": "it-security-rho.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "lastepverifyrewadrobux.blogspot.com",
+      "domain": "itd-live-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "layananshopee2021.blogspot.com",
+      "domain": "itn-live-ledgr.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "ledgrcom-guide.pages.dev",
+      "domain": "its-ledgeer-logn.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "lilm.digital",
+      "domain": "itwfcu-jp4tn0lg.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "logi-secure-coinsquare-com-cdn-auth.webflow.io",
+      "domain": "just-ledgrrliv-cdn.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "login-microsoft-online.no-reply-highflyer-awardco-com.workers.dev",
+      "domain": "khanfurqan9331-maker.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "login.smelfllbgmd.it",
+      "domain": "layanan-gebyar41.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "loginservice.cloud",
+      "domain": "layanan-hadiah21.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "lovable-interaction-366099.framer.app",
+      "domain": "layanan-hadiah31.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "lwerasemiconductors.com",
+      "domain": "learn--ledgerlive.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "marketplacemrecado.com.br",
+      "domain": "learn--ledgr-walet.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "max-coinbase.com",
+      "domain": "learn-about-ledgrr-usa.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "maxcoinbase.com",
+      "domain": "learn-desktop-ledgr-com.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "meranta.info",
+      "domain": "learn-ledger-live-en.pages.dev",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "moonpay-commerce-3ksvcgvz2-heliofi.vercel.app",
+      "domain": "learn-ledger-start-io.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "moonpay-commerce-cpo1hdq10-heliofi.vercel.app",
+      "domain": "learn-ledgr-liives.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "moonpay-commerce-git-henryharris-btc-swap-target-cf424a-heliofi.vercel.app",
+      "domain": "ligashopee29.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "moonpay-commerce-k620j2ok3-heliofi.vercel.app",
+      "domain": "live.invoice.vult.authenticat0r.buzz",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "ms-login-wine.vercel.app",
+      "domain": "ltqelk-a9qoz0qi.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "my-apps-coinsquar.webflow.io",
+      "domain": "mantenercuenta.fwh.is",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "myattfiber.com",
+      "domain": "microsoft0117.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "mycnsqurligin.webflow.io",
+      "domain": "millienismael-ui.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "nabhan-007.github.io",
+      "domain": "moonpay-commerce-ynemjsv7i-heliofi.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "njj.standard.us-east-1.oortstorages.com",
+      "domain": "mr-amazon.netlify.app",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "nuhavenn.s3.us-east-1.amazonaws.com",
+      "domain": "nand.b29e185437704fe0a494f89f.workers.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "nuvexqari.com",
+      "domain": "netfliix-landing-page-clone.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "obnr.vercel.app",
+      "domain": "netflix-clone-pi-ruby.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "onto-docusign-installersetup.icu",
+      "domain": "netflix-clone-red-five.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "paczzkaa453238.click",
+      "domain": "netflix-clone-six-opal.vercel.app",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "pagbank.contasprime.site",
+      "domain": "netflix-clone-xi-azure.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "pedagiodigital.dynv6.net",
+      "domain": "netflix-clone-xi-ruby.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pestashopee-jkt.blogspot.com",
+      "domain": "nimble-begonia-461969.netlify.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "pestaundianshopee21.blogspot.com",
+      "domain": "nufloorspenticton.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "php-web-server--creditopichinc.replit.app",
+      "domain": "orin-portail.vercel.app",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "php-web-server--unitmexi.replit.app",
+      "domain": "portszz.vercel.app",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "php-web-server--veriunitec.replit.app",
+      "domain": "program-hadiah20.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "poweromega96.github.io",
+      "domain": "pt-shopee056.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "promote.shopp-tiktok.com",
+      "domain": "ptshopee-666.blogspot.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "qenlavi-kxt-borfeta-r8t4dk57.pages.dev",
+      "domain": "ptshopee1335.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "qrco.de",
+      "domain": "ptshopee3777.blogspot.com",
       "sources": [
-        "openphish",
-        "phishtank"
+        "openphish"
       ]
     },
     {
-      "domain": "ramadan-sale.blogspot.com",
+      "domain": "ptshopee879.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "rbcode.net",
+      "domain": "pure-html-css-spotify-clone.vercel.app",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "renovesuascondicoes.s3.us-east-005.backblazeb2.com",
+      "domain": "puzgft-643xatso.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "robinhood-reward.vercel.app",
+      "domain": "rit2.github.io",
       "sources": [
         "openphish"
       ]
@@ -1073,7 +1359,7 @@
       ]
     },
     {
-      "domain": "roblox.com.am",
+      "domain": "robiox.com.ps",
       "sources": [
         "openphish",
         "phishtank",
@@ -1081,10 +1367,9 @@
       ]
     },
     {
-      "domain": "roblox.com.bz",
+      "domain": "roblox.com.bn",
       "sources": [
         "openphish",
-        "phishtank",
         "phishing_army"
       ]
     },
@@ -1093,13 +1378,6 @@
       "sources": [
         "openphish",
         "phishtank",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "roblox.com.gr",
-      "sources": [
-        "openphish",
         "phishing_army"
       ]
     },
@@ -1120,27 +1398,7 @@
       ]
     },
     {
-      "domain": "royalef.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "rule-libraryaccount-boundarieslimitgate.s3.us-east-005.backblazeb2.com",
-      "sources": [
-        "openphish"
-      ]
-    },
-    {
-      "domain": "s3.us-east-2.amazonaws.com",
-      "sources": [
-        "openphish",
-        "phishtank"
-      ]
-    },
-    {
-      "domain": "s4w.in",
+      "domain": "roblox.et",
       "sources": [
         "openphish",
         "phishtank",
@@ -1148,446 +1406,337 @@
       ]
     },
     {
-      "domain": "secure-trezor-en-io.typedream.app",
+      "domain": "roblox.ly",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "secureloginxfiniity.weebly.com",
+      "domain": "s7xnc4.tokeonpqaket.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "security-server-page--leonine84.replit.app",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "seller.shopp-tiktok.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "setup-ledgr-start.pages.dev",
+      "domain": "sealodging.standard.us-east-1.oortstorages.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "seuplanosativo.s3.us-east-005.backblazeb2.com",
+      "domain": "sendusdt-trust-scan.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sh0pee11-11.blogspot.com",
+      "domain": "seniorscouncil.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopee-sale2020.blogspot.com",
+      "domain": "sh0pee-jkt.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeeid87.blogspot.com",
+      "domain": "shewenterprise.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt001.blogspot.com",
+      "domain": "shopee-3999.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt3215.blogspot.com",
+      "domain": "shopee-indonesia21.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt349.blogspot.com",
+      "domain": "shopee-jkt255.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt563.blogspot.com",
+      "domain": "shopee1372.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt578.blogspot.com",
+      "domain": "shopee545.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt634.blogspot.com",
+      "domain": "shopee5579.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt688.blogspot.com",
+      "domain": "shopee9990.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt882.blogspot.com",
+      "domain": "shopeeflashsale12-12.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopeejkt944.blogspot.com",
+      "domain": "shopeeid257.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopenewyearsale.blogspot.com",
+      "domain": "shopeejkt138.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "shopp-tiktok.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "signin.broker",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "signinattcomdynamicilriaplogin4saxi09lc0.mailserverupdateaxis.workers.dev",
+      "domain": "shopeejkt158.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "signinattcomdynamicilriaploginveult3rh5r.mailserverupdateaxis.workers.dev",
+      "domain": "shopeejkt211.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "situs-resmi-undian.blogspot.com",
+      "domain": "shopeejkt279.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "snapcart24.github.io",
+      "domain": "shopeejkt389.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "somosnuestros.github.io",
+      "domain": "shopeejkt399.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "soulelixirs.screenconnect.com",
+      "domain": "shopeejkt565.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp22ct-pelak-biz-nemi-zaru-9ii.pages.dev",
+      "domain": "shopeejkt660.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp22ct-ravak-biz-kazu-pelo.pages.dev",
+      "domain": "shopeejkt817.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp22ct-zorak-biz-maku-nelo-rvx.pages.dev",
+      "domain": "shopeepay-23.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp22ct-zorur-biz-maku-nelo-cxd.pages.dev",
+      "domain": "shopeepay34.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp23ct-lorik-biz-qaven-tumel.pages.dev",
+      "domain": "shopeepaysale77.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp23ct-melok-biz-raven-qunik.pages.dev",
+      "domain": "sp22ct-kelam-biz-pazo-meni-7h2.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sp28ct-vumel-biz-qerav-zanok.pages.dev",
+      "domain": "sp22ct-pelak-biz-nemi-zaru.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "spacecruiser-dmdwfkhhewdxfde0.z01.azurefd.net",
+      "domain": "sp22ct-pelor-biz-nemu-kazi.pages.dev",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "spring-disk-75bc.lixfaeeavflatrw.workers.dev",
+      "domain": "spotify-clone-bay-chi.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "start-trezsoriiio.gitbook.io",
+      "domain": "spotify-clone-kilua.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "start.myincometeamx.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "super-shopee2021.blogspot.com",
+      "domain": "sso-web-ledgerledger-com-start.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "supershopee77.blogspot.com",
+      "domain": "start-ledger-faq-connect.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "sx8thy3won.kokenkoken.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "t-rustwallet.pages.dev",
+      "domain": "steuerquimica.cl",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "technology-alex-view.pages.dev",
+      "domain": "support-ledgrcom-start-web.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "testebump.com.br",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "thirteenh.com",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "todd-themakseagency-docs-htsur.ondigitalocean.app",
+      "domain": "surfacedesigndecorinc.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tr6935.craftum.io",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "trust-wallet-contact.vercel.app",
+      "domain": "suryanshhhh72.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trustwallet-sendusdt-tron.pages.dev",
+      "domain": "trezor-io-start-us-help-access.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trustwellet.netlify.app",
+      "domain": "trust-wallet-bnb.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "trzkq7c93qt-pxvbmnnx-6p9n1e-pxv990a.pages.dev",
+      "domain": "uk-facebook.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "tzr-87end.quasim62.workers.dev",
+      "domain": "undian-shoopee99.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "undianresmi699.blogspot.com",
+      "domain": "undianshopee-mart1212.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "us-trezrsuite.pages.dev",
+      "domain": "undianshopee115.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "vcwallet.github.io",
+      "domain": "undianshopee417.blogspot.com",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "vodafone-form.mhmr.ro",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "webdisk.20-244-0-63.cprapid.com",
+      "domain": "usdt-trustwallet-blockchain.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "welcome-io-ledger.typedream.app",
+      "domain": "vaktf2.github.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "welcome-ledger-statr.typedream.app",
+      "domain": "web-conect-ledger-live-download-sso.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whatsappfreewhatsapp.blogspot.com",
+      "domain": "web-conect-us-ledger-live-wallet.typedream.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "whitepanda.info",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "wispy-thunder-b883.sxldlpacrpaalnq.workers.dev",
+      "domain": "welcome-trzerio-doc.tem3.io",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "www-ledger-com-live-app.applications3.top",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www-ledger-com-live-app.feurut.top",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www-ledger-com-live-app.icueoe.top",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www-ledger-com-live-app.jvcko.top",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "www-ledger-com-live-app.woasp3.top",
-      "sources": [
-        "openphish",
-        "phishing_army"
-      ]
-    },
-    {
-      "domain": "yeigkr.weebly.com",
+      "domain": "withdrawn-login.vercel.app",
       "sources": [
         "openphish"
       ]
     },
     {
-      "domain": "zamovienie0nline.click",
+      "domain": "www--roblox.co",
       "sources": [
-        "openphish",
-        "phishtank",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "zeck.ink",
+      "domain": "xhstc88.com",
       "sources": [
-        "openphish",
-        "phishing_army"
+        "openphish"
       ]
     },
     {
-      "domain": "zone-data-95529d585562.rentalescpade.workers.dev",
+      "domain": "yreuree.shop",
+      "sources": [
+        "openphish"
+      ]
+    },
+    {
+      "domain": "zerodev.tools",
       "sources": [
         "openphish"
       ]
